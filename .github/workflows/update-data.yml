@@ -2,8 +2,8 @@ name: Update and Merge Data
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
-  workflow_dispatch:        # Allows manual triggering from GitHub UI
+    - cron: '*/30 * * * *'  # ⏱ Runs every 30 minutes
+  workflow_dispatch:        # 🖱️ Allows manual trigger
 
 jobs:
   update-data:
@@ -36,10 +36,11 @@ jobs:
       - name: 🔗 Merge Data
         run: python scripts/merge_data.py
 
-      - name: ✅ Commit Updated Data
+      - name: ✅ Commit and Push Updated Data
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/*.csv
-          git commit -m "🔄 Update merged data via GitHub Actions" || echo "No changes to commit"
-          git push
+          # Only commit if there are actual changes
+          git diff --cached --quiet || git commit -m "🔄 Update merged data via GitHub Actions"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
