@@ -1,0 +1,11 @@
+streamlit
+pandas
+gspread
+google-auth
+matplotlib
+seaborn
+requests
+schedule
+streamlit_extras
+pip-system-certs
+dotenv
