@@ -86,3 +86,19 @@ $-,call_934fdc4b46a8e365e931a4794c2,agent_013449690bb91bf30736266dc9,14429005795
 $-,call_5995a401535d8be6d6e842277e1,agent_013449690bb91bf30736266dc9,14429005795,918544773152,error,"5/20/2025, 1:20:38 PM","5/20/2025, 1:20:38 PM",-,ruchikawalia09@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_310552577e29f4b4e3113db8bd7,agent_013449690bb91bf30736266dc9,14429005795,918544773152,error,"5/20/2025, 1:20:24 PM","5/20/2025, 1:20:24 PM",-,ruchikawalia09@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_bc1dd164f78f0de3135ca31f8d5,agent_013449690bb91bf30736266dc9,14429005795,918544773152,error,"5/20/2025, 1:15:38 PM","5/20/2025, 1:15:38 PM",-,ruchikawalia09@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_a4e371539ddebb64f4b43b3297f,agent_013449690bb91bf30736266dc9,14429005795,918544773152,error,"5/20/2025, 1:12:06 PM","5/20/2025, 1:12:06 PM",-,ruchikawalia09@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_81bd79aac6c764faaab2c6b2548,agent_013449690bb91bf30736266dc9,14429005795,919983408566,error,"5/20/2025, 12:55:54 PM","5/20/2025, 12:55:54 PM",-,ng674166@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_73f06aa48fdead2a4f40a2d5379,agent_013449690bb91bf30736266dc9,14429005795,919983408566,error,"5/20/2025, 12:44:16 PM","5/20/2025, 12:44:16 PM",-,ng674166@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_8db201c7147dd1da0893e7aa6a6,agent_013449690bb91bf30736266dc9,14429005795,919987847252,error,"5/20/2025, 12:30:05 PM","5/20/2025, 12:30:05 PM",-,Tanujavdehulia@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_174e5ee0062791ab5224664fe15,agent_013449690bb91bf30736266dc9,14429005795,918602662099,ended,"5/8/2025, 4:26:15 PM","5/8/2025, 4:26:18 PM",4,choudharynidhi1919@gmail.com,"Agent: हैलो, 
+",https://dxc03zgurdly9.cloudfront.net/b99f281044151df642a8f5601a4f3dd367ed59cbb41cdcdb3c7e90b72a0e7f7c/recording.wav,Neutral,False,"The call begins with the agent greeting the user in Hindi. However, the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, retell_platform",4,user_hangup
+$0.10,call_f8013cf677c38785eaad58004b8,agent_013449690bb91bf30736266dc9,14429005795,918966889912,ended,"5/8/2025, 4:23:17 PM","5/8/2025, 4:24:04 PM",48,harishsarwa8@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ अर्बनयोग से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello. Hello. Hello.
+Agent: Hi 
+User: Hello
+Agent: Harish! This is Meher calling from UrbanYog. I noticed you almost checked out the Urban Yog Callus Remover for ₹999. Just wanted to check—was everything okay, or were you still deciding?
+User: Hello.
+Agent: Hi Harish! Can you 
+",https://dxc03zgurdly9.cloudfront.net/719af14521ec21739bdeea6c8938d8e252c354174e1131f300d27ceaf1ae99ba/recording.wav,Neutral,False,"The call was initiated by an agent named Meher from UrbanYog, who was reaching out to a user named Harish regarding a product he had added to his cart. The agent offered an additional 5% discount and inquired if Harish was ready to complete his purchase, but the conversation was interrupted as Harish repeatedly responded with 'Hello' without engaging further.","elevenlabs_tts, gpt_4o, retell_platform",48,user_hangup
+$-,call_da6f66d137a65b7311e45b50a45,agent_013449690bb91bf30736266dc9,14429005795,919016414411,error,"5/8/2025, 3:50:48 PM","5/8/2025, 3:50:48 PM",-,henilsatya1@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_e2da94c5c35686b7e9cb083b582,agent_013449690bb91bf30736266dc9,14429005795,919959100299,error,"5/8/2025, 1:27:46 PM","5/8/2025, 1:27:46 PM",-,mounaaug2001@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
