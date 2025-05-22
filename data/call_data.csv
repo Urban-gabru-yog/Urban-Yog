@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_0b4af74e5b714147bcada9754b7,agent_013449690bb91bf30736266dc9,14429005795,919919821802,error,"5/22/2025, 9:25:15 PM","5/22/2025, 9:25:15 PM",-,bulletgirl720@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_bbebf8643fc20bf899b7c6de60c,agent_013449690bb91bf30736266dc9,14429005795,919849070994,ended,"5/22/2025, 9:21:11 PM","5/22/2025, 9:21:23 PM",13,priyagarwal94@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट 
+",https://dxc03zgurdly9.cloudfront.net/52f5e91d10e62e13ea736d62371f43f800e9403156681a1661fd62724ada03b5/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog, indicating that she noticed the user had a product-related inquiry.","elevenlabs_tts, gpt_4o",13,user_hangup
+$-,call_1a7053cdb3a50371187c1fea1af,agent_013449690bb91bf30736266dc9,14429005795,919919821802,error,"5/22/2025, 9:20:16 PM","5/22/2025, 9:20:16 PM",-,bulletgirl720@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_f5c83a799022737e0815d755069,agent_013449690bb91bf30736266dc9,14429005795,919849070994,error,"5/22/2025, 9:16:32 PM","5/22/2025, 9:16:32 PM",-,priyagarwal94@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_16dd9ecc15696b693c9e267f667,agent_013449690bb91bf30736266dc9,14429005795,917204858634,error,"5/22/2025, 9:06:30 PM","5/22/2025, 9:06:30 PM",-,sahanam1987@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_add4869f65de2c6ee39c4ca380c,agent_013449690bb91bf30736266dc9,14429005795,917204858634,error,"5/22/2025, 9:01:30 PM","5/22/2025, 9:01:30 PM",-,sahanam1987@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_b4b17fb30e72cfb36f203c0ac61,agent_013449690bb91bf30736266dc9,14429005795,917204858634,error,"5/22/2025, 8:56:30 PM","5/22/2025, 8:56:30 PM",-,sahanam1987@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
