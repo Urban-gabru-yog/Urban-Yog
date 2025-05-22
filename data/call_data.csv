@@ -1,4 +1,14 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_03660d40598eea7c20dffe5b862,agent_013449690bb91bf30736266dc9,14429005795,917024785006,error,"5/22/2025, 12:47:46 PM","5/22/2025, 12:47:46 PM",-,poojaggiri0@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_2a741a3a6cd8f70814a2777c56a,agent_013449690bb91bf30736266dc9,14429005795,917007712882,error,"5/22/2025, 12:46:30 PM","5/22/2025, 12:46:30 PM",-,7007712882@dummy.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_b878d13e7f040be51359b1b72c2,agent_013449690bb91bf30736266dc9,14429005795,917024785006,error,"5/22/2025, 12:45:15 PM","5/22/2025, 12:45:15 PM",-,poojaggiri0@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_b2d14b6d62351b6abfd0a47c80f,agent_013449690bb91bf30736266dc9,14429005795,917007712882,ended,"5/22/2025, 12:41:18 PM","5/22/2025, 12:41:34 PM",16,7007712882@dummy.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में 
+User: अच्छा ठीक 
+Agent: ऐड किया 
+User: है, ठीक है, ठीक है. ठीक ठीक.
+",https://dxc03zgurdly9.cloudfront.net/758996997422f893a1f2789a194f8fcad74e4436531216dddcc4f4b89a06ea68/recording.wav,Neutral,True,"The user engaged with the agent from Urban Yog regarding a product they added to their cart. The conversation was brief, with the user acknowledging the agent's statements.","elevenlabs_tts, gpt_4o",16,user_hangup
+$-,call_ddfb165fbed567af38826e39f76,agent_013449690bb91bf30736266dc9,14429005795,918668820473,error,"5/22/2025, 12:31:30 PM","5/22/2025, 12:31:30 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_bf8c5c1d69cce651081fdcfc3e3,agent_013449690bb91bf30736266dc9,14429005795,918668820473,error,"5/22/2025, 12:26:30 PM","5/22/2025, 12:26:30 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_e3783959f3eb95b8fd02a0dfe43,agent_013449690bb91bf30736266dc9,14429005795,918778053825,ended,"5/22/2025, 12:21:27 PM","5/22/2025, 12:21:42 PM",15,rlokatharani@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 User: Hello.
