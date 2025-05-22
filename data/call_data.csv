@@ -1,4 +1,50 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_bf8c5c1d69cce651081fdcfc3e3,agent_013449690bb91bf30736266dc9,14429005795,918668820473,error,"5/22/2025, 12:26:30 PM","5/22/2025, 12:26:30 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_e3783959f3eb95b8fd02a0dfe43,agent_013449690bb91bf30736266dc9,14429005795,918778053825,ended,"5/22/2025, 12:21:27 PM","5/22/2025, 12:21:42 PM",15,rlokatharani@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+",https://dxc03zgurdly9.cloudfront.net/5550741caa6205a3d3a98e631319ef2fa6b61a0d1cc802fd7a8168a5e61d0614/recording.wav,Neutral,False,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user responded with a greeting, but the call transcript does not provide further details on the user's response to the discount offer.","elevenlabs_tts, gpt_4o",15,user_hangup
+$0.36,call_0ad52f37a6dc333b13deb80be28,agent_013449690bb91bf30736266dc9,14429005795,918668820473,ended,"5/22/2025, 12:21:23 PM","5/22/2025, 12:24:22 PM",180,chiragdeeppatil89@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: यह है?
+Agent: अरे हाँ, माफ कीजिए! मैंने आपको properly introduce नहीं किया। मैं मेहर बोल रही हूँ Urban Yog से। आपने MakeMeeBold Hot Air Brush 1.0 by Urban Yog अपने कार्ट में ऐड किया था, जो ₹1699 का है। 
+
+मैं बस ये पूछना चाह रही थी कि क्या आपको प्रोडक्ट पसंद आया? या कुछ confusion 
+User: पसंद को आया 
+Agent: था जिसकी 
+User: मुझे लेकिन discount चाहिए. पसंद आया मुझे discount चाहिए.
+Agent: अरे वाह, मुझे खुशी है कि आपको पसंद आया! 😊 और हाँ, मैं समझ सकती हूँ कि थोड़ा discount हमेशा अच्छा लगता है। 
+
+वैसे, आज के लिए एक 
+User: दस percent 
+Agent: exclusive 5% 
+User: off चाहिए.
+Agent: समझ सकती हूँ, Ankit!
+User: नहीं यह 
+Agent:  लेकिन फिलहाल 
+User: 1.23 0 brush पर कैसा है अलग?
+Agent: अरे वाह, आपने सही सवाल पूछा, Ankit! MakeMeeBold Hot Air Brush 
+User: 1.2.
+Agent: 1.0 by Urban Yog थोड़ा अलग और खास है। 
+
+इसमें आपको drying और styling दोनों का फायदा एक ही स्टेप में मिलता है। मतलब, सुबह का ""ready होने का 
+User: 1.2. और प्रेम 1 में फ़र्क क्या है?
+Agent: अरे, Ankit!
+User: 1 point 031 old 
+Agent:  MakeMeeBold Hot Air Brush 1.0 
+User: में.
+Agent: ओह, Ankit! लगता है आप MakeMeeBold Hot Air Brush के पुराने वर्जन और 
+User: नहीं नहीं 
+Agent: इस नए वर्जन के बीच का फर्क जानना चाह रहे हैं, है ना? 😊
+
+तो, MakeMeeBold Hot 
+User: मेहनत भी Hello मेहनत जी मुझे यह जानना है 1 और 3 in 1 hot air fresh में क्या फ़र्क है? मैंने वह भी देखा था.
+Agent: ओह, समझ गई, Ankit! आप MakeMeeBold Hot Air Brush 1.0 और 3-in-1 Hot Air Brush के बीच का फर्क जानना चाह रही हैं। चलिए, मैं आपको एकदम क्लियर कर देती हूँ! 😊
+
+MakeMeeBold Hot Air Brush 1.0:  
+- यह एक versatile 3-in-1 टूल है जो blow-drying, volumizing, straightening और curling सब कुछ कर सकता है।  
+- इसमें 360° airflow vents हैं जो evenly heat distribute करते हैं।  
+- Adjustable heat settings हैं, 
+",https://dxc03zgurdly9.cloudfront.net/26c4f3be255e8899518345d9a6ee17903541dd979dbdec166d61e6d801c32960/recording.wav,Positive,True,"The user, Ankit, interacted with the agent, Mehr, from Urban Yog regarding a product in their cart, the MakeMeeBold Hot Air Brush 1.0. Ankit expressed interest in a discount and inquired about the differences between various models of the hot air brush, including the 1.0 and 3-in-1 versions. The agent provided detailed information about the product features and differences.","elevenlabs_tts, gpt_4o",180,max_duration_reached
 $-,call_c2b5ecc38de29859302d35a7ed5,agent_013449690bb91bf30736266dc9,14429005795,918800425427,error,"5/22/2025, 11:56:30 AM","5/22/2025, 11:56:30 AM",-,anushka260797@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_1d6da43608fbaa3ea0d52371cd0,agent_013449690bb91bf30736266dc9,14429005795,919496624332,error,"5/21/2025, 3:48:45 PM","5/21/2025, 3:48:45 PM",-,sheejathomas967@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_6bde56afaceaa0e2bdb9cae032d,agent_013449690bb91bf30736266dc9,14429005795,917760700571,error,"5/21/2025, 3:45:04 PM","5/21/2025, 3:45:04 PM",-,nafeesamisriya90@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
