@@ -1,4 +1,46 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_a474f061364594d8d8b3f6b5b1e,agent_013449690bb91bf30736266dc9,14429005795,917772018472,error,"5/22/2025, 1:06:31 PM","5/22/2025, 1:06:31 PM",-,goswamipriyal217@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_bd915bb893170a18c9eb86dfc12,agent_013449690bb91bf30736266dc9,14429005795,917420037808,error,"5/22/2025, 1:06:30 PM","5/22/2025, 1:06:30 PM",-,karankamble4817@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_2a8c0a5661234967b6e7255fef8,agent_013449690bb91bf30736266dc9,14429005795,919702750621,ended,"5/22/2025, 1:01:07 PM","5/22/2025, 1:01:13 PM",6,dongaren06@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
+",https://dxc03zgurdly9.cloudfront.net/1fe2badc34931e71182e801aea4f103136a0d18c040694171cddf95b7cf2eaa5/recording.wav,Neutral,False,"The call begins with the agent introducing herself as Mehr. The conversation likely continues with the user seeking assistance, but the provided transcript is incomplete to summarize further actions or outcomes.","elevenlabs_tts, gpt_4o",6,user_hangup
+$0.11,call_83cd8785301ed5159c38dd6ed9c,agent_013449690bb91bf30736266dc9,14429005795,917020354192,ended,"5/22/2025, 1:00:05 PM","5/22/2025, 1:00:59 PM",54,patolej50@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: अच्छा
+User: हां ठीक है मैं करती हूं.
+Agent: वाह, ये तो बढ़िया है, देवयानी! मैं अभी आपको WhatsApp पर एक लिंक भेज देती हूँ। बस उस पर क्लिक करके आप अपना ऑर्डर पूरा कर सकती हैं। और हां, अगर आप UPI से पेमेंट करती हैं, तो आपको 5% के साथ 2% का एक्स्ट्रा डिस्काउंट भी मिलेगा। 
+
+अगर कोई भी सवाल हो, तो बेझिझक पूछ लेना। 😊
+User: हां ठीक है.
+Agent: शानदार! मैं अभी लिंक भेज 
+",https://dxc03zgurdly9.cloudfront.net/975ad6d7bcf0b3e2bd5b2c6f93ae5ce884c2cad3ed43d10e5f74c4e76bbf915e/recording.wav,Positive,True,"The user, देवयानी, interacted with the agent from Urban Yog regarding a product in her cart and accepted an additional 5% discount offer. The agent provided a link via WhatsApp for completing the order and mentioned an extra 2% discount for UPI payments, ensuring the user could ask questions if needed.","elevenlabs_tts, gpt_4o",54,user_hangup
+$0.01,call_c26c1ff2f8d57b3120edcf2d870,agent_013449690bb91bf30736266dc9,14429005795,918240572926,ended,"5/22/2025, 12:56:09 PM","5/22/2025, 12:56:15 PM",7,snehajaiswal27109@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही 
+",https://dxc03zgurdly9.cloudfront.net/a1a638f807061fd6d5741f362cc63a0cbc2b1b891bfe7ccc16e8d8b7de0c08ea/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent responded in Hindi, introducing herself as Mehr.","elevenlabs_tts, gpt_4o",7,user_hangup
+$-,call_affcf0ab07446ca26394c579bb1,agent_013449690bb91bf30736266dc9,14429005795,917024785006,error,"5/22/2025, 12:55:10 PM","5/22/2025, 12:55:10 PM",-,poojaggiri0@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.25,call_9bd8c7e75cdc8996c254f4e9b75,agent_013449690bb91bf30736266dc9,14429005795,917020354192,ended,"5/22/2025, 12:51:17 PM","5/22/2025, 12:53:23 PM",126,patolej50@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello. अच्छा
+User: एक का है?
+User: Hello
+Agent: Hi Devyani Gokul! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Electric Facial Hair Remover For Women apne cart mein rakha tha, 
+User: हां
+Agent: toh socha puchh loon sab theek thaak tha na? Kya aapko product pasand aaya?
+User: पसंद तो आया है लेकिन cash on related नहीं ना.
+Agent: Haan Devyani, samajh sakti hoon. Cash on delivery ka option abhi available nahi hai, lekin agar aap prepaid 
+User: (inaudible speech)
+Agent: payment karti hain, toh aapko 5% ka discount milega code ke saath: O – F – F – 5. Aur agar UPI se payment karti hain, toh extra 2% ka discount bhi milega.Waise prepaid orders ka ek aur benefit hai—delivery 4x faster hoti hai! Aapko jaldi product mil jayega. 😊 
+
+Aapko aur kuch confusion ho toh bataiye, main help kar doon?
+User: अच्छा तो product अच्छा नहीं आता return भी हो सकता है?
+Agent: Bilkul, Devyani! Agar aapko product pasand nahi aata ya koi issue hota hai, toh 
+User: (inaudible speech)
+Agent: aap return kar sakti hain. Urban Yog ka return process kaafi simple aur hassle-free hai. Aapko bas humein contact karna hoga, aur hum aapki help karenge. 😊  
+
+Waise, yeh product kaafi high-quality hai aur kaafi customers ko pasand aaya hai—pain-free aur redness-free touch-ups ke liye perfect hai. Aap ek baar try karke dekhiye, mujhe lagta hai aapko zarur pasand aayega!Main aapke liye checkout link bhej doon WhatsApp pe?
+User: अच्छा.
+User: अच्छा.
+User: 
+",https://dxc03zgurdly9.cloudfront.net/0e520f8324da0555f56e680e6e95c1b650ab6b4413371434ee818dc37c55d781/recording.wav,Positive,True,"The user, Devyani, expressed interest in an Urban Yog product but inquired about cash on delivery options, which are currently unavailable. The agent provided information about a 5% discount for prepaid orders and assured the user about the return process if the product does not meet expectations, while also offering to send a checkout link via WhatsApp.","elevenlabs_tts, gpt_4o",126,user_hangup
+$-,call_1f8751f2ed0e582593e5efea976,agent_013449690bb91bf30736266dc9,14429005795,917024785006,error,"5/22/2025, 12:50:17 PM","5/22/2025, 12:50:17 PM",-,poojaggiri0@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_03660d40598eea7c20dffe5b862,agent_013449690bb91bf30736266dc9,14429005795,917024785006,error,"5/22/2025, 12:47:46 PM","5/22/2025, 12:47:46 PM",-,poojaggiri0@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_2a741a3a6cd8f70814a2777c56a,agent_013449690bb91bf30736266dc9,14429005795,917007712882,error,"5/22/2025, 12:46:30 PM","5/22/2025, 12:46:30 PM",-,7007712882@dummy.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_b878d13e7f040be51359b1b72c2,agent_013449690bb91bf30736266dc9,14429005795,917024785006,error,"5/22/2025, 12:45:15 PM","5/22/2025, 12:45:15 PM",-,poojaggiri0@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
