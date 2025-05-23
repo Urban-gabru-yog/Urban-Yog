@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.05,call_df8211ee7244f5ff34442f7d427,agent_013449690bb91bf30736266dc9,14429005795,919739749409,ended,"5/23/2025, 3:06:27 PM","5/23/2025, 3:06:54 PM",27,tejashwini.tulsi@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: No 
+Agent: Hi, I’m Meher 
+User: ma'am thank you.
+Agent: calling 
+Agent: Hi, I’m Meher 
+User: Hello.
+Agent: calling from Urban Yog. I noticed you added the Urban Yog 
+",https://dxc03zgurdly9.cloudfront.net/25925092cb3cbf76cbb4bcf0fb37bdb90be0fece5afa5ff7a2539ab4728461dd/recording.wav,Neutral,True,"The user received a call from an agent named Meher from Urban Yog, who informed them about a 5% discount on a product they added to their cart. The user declined the offer and thanked the agent, indicating a brief interaction without further engagement.","elevenlabs_tts, gpt_4o",27,user_hangup
+$0.02,call_b5452a4b9fc26285b2955020a12,agent_013449690bb91bf30736266dc9,14429005795,918369872503,ended,"5/23/2025, 2:56:10 PM","5/23/2025, 2:56:17 PM",8,richishah1997@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ 
+",https://dxc03zgurdly9.cloudfront.net/36af4ddde7f82aed76944caef3bce9a9490835193eac12d8961c0dfead24cfd7/recording.wav,Neutral,False,The call begins with the agent introducing herself as Mehr. There is no further information provided in the transcript to summarize the call's purpose or outcome.,"elevenlabs_tts, gpt_4o",8,user_hangup
 $0.00,call_d8de23dbdaa0df06130bd597a36,agent_013449690bb91bf30736266dc9,14429005795,918077449259,error,"5/23/2025, 2:47:01 PM","5/23/2025, 2:47:01 PM",1,Noohiraza@gmail.com,-,https://dxc03zgurdly9.cloudfront.net/1bb5183e3bf657f793adf51669dcd073ed01dcf61cbfaa2e51967b08df43209e/recording.wav,Unknown,False,No conversation happened.,"elevenlabs_tts, gpt_4o",1,error_no_audio_received
 $-,call_bc0806a0b3c34e4be4e590becae,agent_013449690bb91bf30736266dc9,14429005795,918653782564,error,"5/23/2025, 2:45:45 PM","5/23/2025, 2:45:45 PM",-,amrapalichakraborty1@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
 $-,call_8a5ef3523093642267a34e83f83,agent_013449690bb91bf30736266dc9,14429005795,918077449259,error,"5/23/2025, 2:42:00 PM","5/23/2025, 2:42:00 PM",-,Noohiraza@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
