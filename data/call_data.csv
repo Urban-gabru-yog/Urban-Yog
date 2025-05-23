@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.05,call_ad137aa0f00f5d0ce9708c2466b,agent_013449690bb91bf30736266dc9,14429005795,919356132858,ended,"5/23/2025, 11:06:29 AM","5/23/2025, 11:06:51 AM",23,sainisoniya880@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi!
+User: जी नहीं.
+Agent:  This is Meher calling from Urban Yog. I noticed you added the Urban Yog Callus 
+",https://dxc03zgurdly9.cloudfront.net/377f7abc422a393f71293f12fde4676dae6e720025dfab59ce56f723baa9024d/recording.wav,Negative,True,The user received a call from Meher at Urban Yog regarding a 5% discount on a product they added to their cart. The user declined the offer.,"elevenlabs_tts, gpt_4o",23,user_hangup
+$-,call_dfd65c26f03b513c4241536a6b2,agent_013449690bb91bf30736266dc9,14429005795,919981748125,error,"5/23/2025, 11:01:30 AM","5/23/2025, 11:01:30 AM",-,py339565@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_360614c871e22811664433b6f28,agent_013449690bb91bf30736266dc9,14429005795,917565051842,ended,"5/23/2025, 10:56:12 AM","5/23/2025, 10:56:16 AM",4,Rekharavidwivedi@gmail.Com,"User: यह car husband
+",https://dxc03zgurdly9.cloudfront.net/2b86ebc22a8bea893c177b35380fe43d72550ab46bdcbe20e34385dd6f129772/recording.wav,Neutral,False,"The user mentioned something about a car related to their husband, but the context is unclear due to the incomplete statement.","elevenlabs_tts, gpt_4o",4,user_hangup
+$0.03,call_09a5995953bbc41b5c71c3b49d7,agent_013449690bb91bf30736266dc9,14429005795,917565051842,ended,"5/23/2025, 10:51:23 AM","5/23/2025, 10:51:37 AM",14,Rekharavidwivedi@gmail.Com,"User: Your call has been forwarded to voice now. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up.
+Agent: ""Hi Rekha! Main Meher bol rahi hoon Urban Yog 
+",https://dxc03zgurdly9.cloudfront.net/8d7e2224347ffb65901628f3660658f43fb768e0de40e12d81bd8ff4a9bd0fbe/recording.wav,Neutral,False,"The call was forwarded to voicemail as the intended recipient was unavailable. The agent, Meher from Urban Yog, began to leave a message for the user, Rekha.","elevenlabs_tts, gpt_4o",14,user_hangup
 $-,call_0b4af74e5b714147bcada9754b7,agent_013449690bb91bf30736266dc9,14429005795,919919821802,error,"5/22/2025, 9:25:15 PM","5/22/2025, 9:25:15 PM",-,bulletgirl720@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_bbebf8643fc20bf899b7c6de60c,agent_013449690bb91bf30736266dc9,14429005795,919849070994,ended,"5/22/2025, 9:21:11 PM","5/22/2025, 9:21:23 PM",13,priyagarwal94@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट 
