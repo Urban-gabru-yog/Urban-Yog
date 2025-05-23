@@ -1,4 +1,44 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_c82e59f7a7e0b96a0b6083f30a8,agent_013449690bb91bf30736266dc9,14429005795,919167758744,error,"5/23/2025, 1:07:00 PM","5/23/2025, 1:07:00 PM",-,ashwinilokare127@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
+$-,call_638546be4517a3a614a3780f10a,agent_013449690bb91bf30736266dc9,14429005795,918189972429,error,"5/23/2025, 1:02:01 PM","5/23/2025, 1:02:01 PM",-,monisharaja71@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
+$-,call_1000804ffe1960d92ed002ce4d2,agent_013449690bb91bf30736266dc9,14429005795,919167758744,error,"5/23/2025, 1:02:00 PM","5/23/2025, 1:02:00 PM",-,ashwinilokare127@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
+$-,call_94b280abc1e4e9b489891df05da,agent_013449690bb91bf30736266dc9,14429005795,918189972429,error,"5/23/2025, 12:57:01 PM","5/23/2025, 12:57:01 PM",-,monisharaja71@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
+$0.36,call_9e5907c494971b63930a6655713,agent_013449690bb91bf30736266dc9,14429005795,919167758744,ended,"5/23/2025, 12:56:14 PM","5/23/2025, 12:59:13 PM",180,ashwinilokare127@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+User: हां 
+Agent: Hi Ashwini! This is Meher calling from Urban Yog.
+User: हां हां क्या ले लेते हैं?
+Agent: Hi 
+User: Hello?
+Agent: Ashwini! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Electric Facial Hair Remover For Women almost checkout kiya tha, toh socha puchh loon sab theek thaak tha na?
+User: कौन सा?
+Agent: Haan Ashwini, Urban 
+User: Hello? कौन सा
+Agent: Yog Electric 
+Agent: Haan 
+User: Hello.
+Agent: Ashwini, Urban Yog Electric Facial Hair Remover For Women jo aapne cart mein add kiya tha. Yeh ek compact aur painless device hai jo facial hair remove karne ke liye perfect hai. Aapko yaad aaya?
+User: हां हां
+User: कौन सी मतलब और भी मोर वाली बात कर रहे हो?
+User: हां बताओ किसमें मतलब उसका charging कैसा है तीन down में ही थी ऐसे ऐसे ही थी ना?
+User: Hello, हां हां 
+Agent: Haan Ashwini, bilkul sahi samjha aapne! Yeh Urban Yog Electric Facial 
+User: जी c सिंह है ना?
+Agent: Haan ji, bilkul! Urban Yog Electric Facial Hair Remover ek quick charging device hai, jo fully charge hone ke baad kaafi lambe time tak chalti hai. Aapko bas charge karna hai aur gently face pe use karna hai. Kya aapko aur details chahiye iske baare mein?
+User: नहीं मतलब
+User: product थोड़ा महंगा लग रहा है. Discount और दस आठ सौ का महंगा है वही.
+Agent: Samajh sakti hoon, Ashwini. Kabhi 
+User: Ok.
+Agent: kabhi price thoda zyada lagta hai, lekin yeh Urban Yog Electric Facial Hair Remover ek one-time investment hai jo salon visits ka kharcha aur time dono bacha leta hai. Plus, yeh painless aur safe hai daily use ke liye.
+
+Waise, ek chhoti si baat batana tha—sirf aaj ke liye ek exclusive 5% discount hai code ke saath: O – F – F – 5. Agar aap UPI se payment karti hain, toh 2% ka extra discount bhi milega. Kya main aapke liye price lock kar doon?
+User: नहीं मतलब कितने का पड़ेगा फिर मुझे वह?
+User: वह how much?
+User: 5 percent 82 percent.
+User: (inaudible speech)
+User: Hello
+Agent: Haan Ashwini, agar aap 5% discount code use karti hain, toh ₹849 ka product 
+",https://dxc03zgurdly9.cloudfront.net/785357bc9a2ee0846a3c72311a7bd82b29f28e93ba1f77319444597f5405d2a6/recording.wav,Neutral,True,"The call was initiated by the agent, Meher from Urban Yog, to inform the user, Ashwini, about a 5% discount on a product in her cart, the Urban Yog Electric Facial Hair Remover. The user expressed interest but was concerned about the product's price, and the agent provided details about the product and the discount offer.","elevenlabs_tts, gpt_4o",180,max_duration_reached
 $0.05,call_7a9e70bef7d592883db663174ae,agent_013449690bb91bf30736266dc9,14429005795,917597469158,ended,"5/23/2025, 12:46:11 PM","5/23/2025, 12:46:36 PM",26,nathawatharshita7773@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 ",https://dxc03zgurdly9.cloudfront.net/e3f68eaa785161332318a753ada7755b5cc0dc45ca566bee2668df0720fb62e5/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",26,inactivity
 $-,call_263d3b6b5438f63ad04366866c1,agent_013449690bb91bf30736266dc9,14429005795,917597469158,error,"5/23/2025, 12:42:02 PM","5/23/2025, 12:42:02 PM",-,nathawatharshita7773@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
