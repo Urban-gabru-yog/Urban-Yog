@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_226a0b2bf852c157a74e0b34106,agent_013449690bb91bf30736266dc9,14429005795,917087798902,error,"5/23/2025, 4:07:00 PM","5/23/2025, 4:07:00 PM",-,gurbanibrar70@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
+$-,call_8ff27748535041c98e0ae8c6a5a,agent_013449690bb91bf30736266dc9,14429005795,917087798902,error,"5/23/2025, 4:02:00 PM","5/23/2025, 4:02:00 PM",-,gurbanibrar70@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
 $0.18,call_d0c9f4dfb288f99ba9630e5e298,agent_013449690bb91bf30736266dc9,14429005795,918142698479,ended,"5/23/2025, 3:46:13 PM","5/23/2025, 3:47:44 PM",92,chagarlamudiraviteja@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 User: नहीं.
 Agent: अरे, कोई बात नहीं, Ravi! बस जानना चाह रही थी कि आपको Urban Yog Callus Remover पसंद आया था या कुछ और सोच रही थीं?
