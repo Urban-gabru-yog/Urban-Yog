@@ -1,4 +1,22 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_f63f1df0c15e1ea27d302e074eb,agent_013449690bb91bf30736266dc9,14429005795,918287452998,error,"5/24/2025, 11:46:27 AM","5/24/2025, 11:46:27 AM",-,jainhina283@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_6e0f2d92c93eb3d62a78a55b86c,agent_013449690bb91bf30736266dc9,14429005795,917875597822,error,"5/24/2025, 11:46:25 AM","5/24/2025, 11:46:25 AM",-,Shrutinagne99@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_af3ba927187ad9b0fa6cde730b3,agent_013449690bb91bf30736266dc9,14429005795,917559048915,error,"5/24/2025, 11:41:25 AM","5/24/2025, 11:41:25 AM",-,shalimanazarudeen@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_b9cf0cccefca070d5e3f2875b7e,agent_013449690bb91bf30736266dc9,14429005795,919103326852,error,"5/24/2025, 11:41:16 AM","5/24/2025, 11:41:16 AM",-,muxamilakxa431@gmail.com,-,-,Unknown,False,-,,-,dial_busy
+$0.03,call_dfbc6adce9919976591fa68a79d,agent_013449690bb91bf30736266dc9,14429005795,917559048915,ended,"5/24/2025, 11:39:56 AM","5/24/2025, 11:40:09 AM",14,shalimanazarudeen@gmail.com,"Agent: हैलो, मैं 
+User: Hello. Ok.
+Agent: मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने 
+",https://dxc03zgurdly9.cloudfront.net/5d5d2a16c554820960ba6dee5e8dd90d0ab175d68ed603413211bbf45463c723/recording.wav,Positive,False,"The call began with the agent introducing herself from Urban Yog and acknowledging that the user had previously interacted with them. The conversation seems to be in the early stages, with the user responding positively to the agent's greeting.","elevenlabs_tts, gpt_4o",14,user_hangup
+$-,call_36cfae6b3306c664a3265031f39,agent_013449690bb91bf30736266dc9,14429005795,919581151707,error,"5/24/2025, 11:36:24 AM","5/24/2025, 11:36:24 AM",-,nampallyyamini1989@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.05,call_fcfc63d0e5894ebf889a354035c,agent_013449690bb91bf30736266dc9,14429005795,917306217080,ended,"5/24/2025, 11:21:00 AM","5/24/2025, 11:21:23 AM",24,grj91102@gmail.com,"User: Hello? 
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog 
+User: Hello ok.
+Agent: से। क्या मैं GOURI से बात कर रही हूँ?
+User: Yes?
+Agent: Hi GOURI! Main Meher bol rahi hoon Urban Yog se. Aapne MakeMeeBold Hot Air Brush 
+",https://dxc03zgurdly9.cloudfront.net/c0f9acfe4a8f5d7019b0c98b46fab63665dcd57822db189e163d23a71b7b006e/recording.wav,Neutral,False,"The call was initiated by the agent, Meher from Urban Yog, to speak with Gouri regarding the MakeMeeBold Hot Air Brush. The conversation appears to be in the early stages, with the user confirming their identity.","elevenlabs_tts, gpt_4o",24,user_hangup
+$-,call_8d6949da2ab1968b5e6605ef0d2,agent_013449690bb91bf30736266dc9,14429005795,919728411090,error,"5/24/2025, 11:16:24 AM","5/24/2025, 11:16:24 AM",-,fanisha.hadda31@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_9652b4d082ada96625ead44344d,agent_013449690bb91bf30736266dc9,14429005795,919728411090,error,"5/24/2025, 11:11:24 AM","5/24/2025, 11:11:24 AM",-,fanisha.hadda31@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.18,call_a726ad27961375514ec909599b4,agent_013449690bb91bf30736266dc9,14429005795,916363940570,ended,"5/24/2025, 10:46:04 AM","5/24/2025, 10:47:35 AM",92,akashacharya4@gmail.com,"User: Hello. 
 Agent: हैलो, मैं 
 User: Hello Hello.
