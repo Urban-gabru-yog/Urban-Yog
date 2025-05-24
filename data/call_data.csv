@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_fd4ba8106516c90df9ea70ed0a7,agent_013449690bb91bf30736266dc9,14429005795,918168260656,error,"5/24/2025, 4:51:24 PM","5/24/2025, 4:51:24 PM",-,priyanarang374@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_cb494ac625c436ad3cc38e49b93,agent_013449690bb91bf30736266dc9,14429005795,918168260656,error,"5/24/2025, 4:46:24 PM","5/24/2025, 4:46:24 PM",-,priyanarang374@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_af9464b3d7313a34717791f131e,agent_013449690bb91bf30736266dc9,14429005795,918168260656,ended,"5/24/2025, 4:44:58 PM","5/24/2025, 4:45:12 PM",15,priyanarang374@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट 
+",https://dxc03zgurdly9.cloudfront.net/0a5026f92296580b5b0ec72606a479c5bbeabe8d9c1345cf10b3a7e45d526c0d/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog, indicating that she noticed the user had a product in their cart.","elevenlabs_tts, gpt_4o",15,user_hangup
+$-,call_ec12f93ca3a54ab5a6c35c4a778,agent_013449690bb91bf30736266dc9,14429005795,919645393938,error,"5/24/2025, 4:41:24 PM","5/24/2025, 4:41:24 PM",-,robinaben19@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_b22eccc4a2b7beb4a13b7c1d455,agent_013449690bb91bf30736266dc9,14429005795,919645393938,error,"5/24/2025, 4:36:26 PM","5/24/2025, 4:36:26 PM",-,robinaben19@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_9fb690a146457f53cd0934e9c42,agent_013449690bb91bf30736266dc9,14429005795,919645393938,error,"5/24/2025, 4:31:24 PM","5/24/2025, 4:31:24 PM",-,robinaben19@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_63cf8b97cb89a1216869458b3e6,agent_013449690bb91bf30736266dc9,14429005795,919645393938,error,"5/24/2025, 4:26:24 PM","5/24/2025, 4:26:24 PM",-,robinaben19@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
