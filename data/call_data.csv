@@ -1,4 +1,14 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.02,call_6346ae96dd668edb60462dcf00b,agent_013449690bb91bf30736266dc9,14429005795,919488949084,ended,"5/24/2025, 8:36:02 PM","5/24/2025, 8:36:12 PM",11,shameerroja@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
+",https://dxc03zgurdly9.cloudfront.net/a5e79c76de2210a1bfd11378c284c3d7b162170c4a628b90495e0c10940589bb/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog. The conversation appears to be in Hindi, indicating a potential service or inquiry related to Urban Yog.","elevenlabs_tts, gpt_4o",11,user_hangup
+$-,call_bb04629984a54729788c541fe43,agent_013449690bb91bf30736266dc9,14429005795,917006234820,error,"5/24/2025, 8:26:24 PM","5/24/2025, 8:26:24 PM",-,alkameenia@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_24003f592f46450991953854e8c,agent_013449690bb91bf30736266dc9,14429005795,917006234820,error,"5/24/2025, 8:21:24 PM","5/24/2025, 8:21:24 PM",-,alkameenia@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.04,call_87bb26bfc1f5c752b99bfa1e711,agent_013449690bb91bf30736266dc9,14429005795,917006234820,ended,"5/24/2025, 8:16:11 PM","5/24/2025, 8:16:29 PM",18,alkameenia@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
+User: Hello.
+Agent: हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया 
+User: Urban card ने कुछ किया था मैं?
+",https://dxc03zgurdly9.cloudfront.net/44f20dfd9ad0cde9abb8c3512ea95de839d4dd6b3d1532685e584789cc440dde/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, who mentioned that the user had added a product to their cart. The user seemed confused and asked for clarification about what Urban Card had done.","elevenlabs_tts, gpt_4o",18,user_hangup
 $-,call_9634a5239356ab0a9e67f03fe61,agent_013449690bb91bf30736266dc9,14429005795,916354157349,error,"5/24/2025, 8:01:23 PM","5/24/2025, 8:01:23 PM",-,namrataba001@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_ec85c7165597e7ff1bdab57b4bf,agent_013449690bb91bf30736266dc9,14429005795,916354157349,error,"5/24/2025, 7:56:24 PM","5/24/2025, 7:56:24 PM",-,namrataba001@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_836dd25942fab314e57b7909810,agent_013449690bb91bf30736266dc9,14429005795,919036693378,error,"5/24/2025, 7:16:25 PM","5/24/2025, 7:16:25 PM",-,priyathavaseelan2022@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
