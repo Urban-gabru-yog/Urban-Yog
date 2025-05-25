@@ -1,4 +1,67 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_80a2420e53cfac2e9a9735725d9,agent_013449690bb91bf30736266dc9,14429005795,918149725021,error,"5/25/2025, 4:55:49 PM","5/25/2025, 4:55:49 PM",-,superphantom65@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.19,call_29895767b7730da37b08a164a99,agent_013449690bb91bf30736266dc9,14429005795,919014360070,ended,"5/25/2025, 4:55:40 PM","5/25/2025, 4:57:13 PM",94,Umaimaalmakkawi@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: नहीं नहीं
+User: करना चाहेंगे.
+Agent: वाह, बढ़िया!
+User: Thank you.
+Agent:  😍 तो मैं आपको अभी WhatsApp पर एक लिंक भेज देती हूँ, जिससे आप आसानी से अपना Urban Yog Callus Remover खरीद सकती हैं। 
+
+बस उस लिंक पर क्लिक करके चेकआउट कर लीजिए। और हाँ, 5% का डिस्काउंट कोड है: O – F – F – 5। इसे अप्लाई करना मत भूलना। 😊
+
+अगर UPI से पेमेंट करेंगी, तो आपको 2% का एक्स्ट्रा डिस्काउंट भी मिलेगा। 
+
+कोई भी सवाल हो, तो बेझिझक पूछ लेना। मैं यहीं हूँ! ❤️
+User: ठीक है.
+User: Ok.
+User: Ok, अभी फ़िलहाल तो कोई questions नहीं है ma'am. Thank you.
+Agent: अरे, कोई बात नहीं Umaima Al! 😊 मैं 
+User: Thank you. 
+Agent: अभी आपको WhatsApp पर लिंक भेज देती हूँ। जब भी 
+User: Ok
+Agent: You're most 
+User: हां करो.
+Agent: welcome, Umaima Al! 😊 I've sent the WhatsApp link—just click on it whenever you're ready to complete your purchase.If you have any questions later, feel free to reach out. Happy shopping and take care!
+User: No, thank you so much. Ok, bye.
+Agent: अरे, कोई बात नहीं Umaima Al! 😊 Thank you for 
+",https://dxc03zgurdly9.cloudfront.net/84ac2ae00a4df741c54cb2b2c905dfc1825a1fd12b5fd18e0a1e03b272f5781a/recording.wav,Positive,True,"The user was offered a 5% discount on a product they added to their cart. After some initial hesitation, the user accepted the offer and the agent provided a WhatsApp link for easy checkout, along with a discount code and additional payment options. The call ended positively with the user expressing gratitude and no further questions.","elevenlabs_tts, gpt_4o",94,user_hangup
+$-,call_96bd80e23182f92b4a78a09d1e4,agent_013449690bb91bf30736266dc9,14429005795,919994815995,error,"5/25/2025, 4:54:32 PM","5/25/2025, 4:54:32 PM",-,rajisiva717@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_908f5b0b64a784d9613483e36fb,agent_013449690bb91bf30736266dc9,14429005795,918149725021,error,"5/25/2025, 4:50:48 PM","5/25/2025, 4:50:48 PM",-,superphantom65@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_7675e975a1dcfe7731a3cadfbb1,agent_013449690bb91bf30736266dc9,14429005795,919994815995,error,"5/25/2025, 4:45:48 PM","5/25/2025, 4:45:48 PM",-,rajisiva717@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.17,call_992f242a9d3382c5137fd68412f,agent_013449690bb91bf30736266dc9,14429005795,919759682043,ended,"5/25/2025, 4:40:26 PM","5/25/2025, 4:41:50 PM",85,krishnandhiman2@gmail.com,"User: Hello. हां जी.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+Agent: हाय Ritu!
+User: हां जी. हां 
+Agent:  मैं मेहर बोल रही हूँ Urban 
+User: जी.
+Agent: Ritu, 
+User: हां जी 
+Agent: आपने MakeMeeBold Hot 
+User: ma'am.
+Agent: अरे, ma'am 
+User: Sorry आपकी आवाज़ cut हो रही है.
+Agent: अरे, कोई बात नहीं Ritu! मैं फिर से बताती हूँ—आपने MakeMeeBold Hot Air Brush 1.0 by Urban Yog को अपने cart में रखा था, लेकिन checkout नहीं किया। बस यही पूछना था कि कोई confusion था या आप बस सोच रही थीं?
+User: हां जी.
+User: Actually 
+Agent: तो 
+User: मुझे लगा कि इसमें offer है so hello
+Agent: अरे हां Ritu, समझ सकती हूँ!
+User: hello हमें आवाज़ नहीं आ रही है आपकी ना?
+Agent: अरे, Ritu! क्या अब 
+User: हां जी.
+Agent: मेरी आवाज़ साफ आ रही है? शायद नेटवर्क का issue था। 😊
+User: आप 
+User: आपकी आवाज़ cut रही है बार बार.
+Agent: चलो, अब ठीक है!
+User: हां जी बताइए.
+Agent: अरे, Ritu!
+",https://dxc03zgurdly9.cloudfront.net/f0cc872928724c0c3d4aa298fc2545d403b219776f7f46f024cc974e4bc2ca03/recording.wav,Neutral,False,"The user, Ritu, was contacted by the agent, Mehr, regarding an item in her cart, the MakeMeeBold Hot Air Brush 1.0. There were issues with the call quality, causing interruptions in the conversation, but the agent attempted to clarify the situation and check if Ritu had any confusion about the checkout process.","elevenlabs_tts, gpt_4o",85,user_hangup
+$0.04,call_196306f46a3de86667f48be314d,agent_013449690bb91bf30736266dc9,14429005795,919759682043,ended,"5/25/2025, 4:39:10 PM","5/25/2025, 4:39:29 PM",19,krishnandhiman2@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+User: हां जी. हां 
+Agent: Yog से। मैंने देखा कि 
+User: जी.
+Agent: अरे वाह, Ritu!
+",https://dxc03zgurdly9.cloudfront.net/4ff028d94145b9fe46ef78fcb8274d3d60d5d10bd2a5aff1fe2bedcac6d304e1/recording.wav,Positive,True,"The call begins with the agent introducing herself as Mehr from Urban and addressing the user, who responds affirmatively. The agent seems to recognize the user as Ritu, indicating a friendly interaction.","elevenlabs_tts, gpt_4o",19,user_hangup
 $-,call_680e9e3ee435defe04c636f6495,agent_013449690bb91bf30736266dc9,14429005795,919965137020,error,"5/25/2025, 4:35:48 PM","5/25/2025, 4:35:48 PM",-,rajab.jas87@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_c91616caac7490724f134cdf2c1,agent_013449690bb91bf30736266dc9,14429005795,919744854738,error,"5/25/2025, 4:34:31 PM","5/25/2025, 4:34:31 PM",-,Snehanjali840@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.05,call_45d629656080c4c1bdc564b5f8f,agent_013449690bb91bf30736266dc9,14429005795,919965137020,ended,"5/25/2025, 4:30:34 PM","5/25/2025, 4:30:58 PM",25,rajab.jas87@gmail.com,"User: Hello.
