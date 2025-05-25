@@ -1,4 +1,24 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_38465fc572b7aef91a7d74d4a72,agent_013449690bb91bf30736266dc9,14429005795,919918797279,error,"5/25/2025, 10:35:48 PM","5/25/2025, 10:35:48 PM",-,madhviawasthi99@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_3c5546a9b14d2c9eb0e02ea5a21,agent_013449690bb91bf30736266dc9,14429005795,919226012964,ended,"5/25/2025, 10:34:10 PM","5/25/2025, 10:34:15 PM",6,hemaugle29@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
+",https://dxc03zgurdly9.cloudfront.net/bd9f7101517bba0a8bb4d2a9630ed1226ccfb8e2bb59b4aa86a4c09471b2d577/recording.wav,Neutral,False,The call begins with the agent introducing herself as Mehr. There is no further information provided in the transcript to summarize the call's content or outcome.,"elevenlabs_tts, gpt_4o",6,user_hangup
+$-,call_e49ca974a25069eeacd27254a9e,agent_013449690bb91bf30736266dc9,14429005795,919918797279,error,"5/25/2025, 10:30:49 PM","5/25/2025, 10:30:49 PM",-,madhviawasthi99@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_3ff723ed93a9d927d554e988ca1,agent_013449690bb91bf30736266dc9,14429005795,917083886058,error,"5/25/2025, 10:30:48 PM","5/25/2025, 10:30:48 PM",-,kranti@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_cb90a1771669d0d081367739b23,agent_013449690bb91bf30736266dc9,14429005795,919226012964,error,"5/25/2025, 10:29:27 PM","5/25/2025, 10:29:27 PM",-,hemaugle29@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_a2ba0e6b4bfd36ba011a6a983f2,agent_013449690bb91bf30736266dc9,14429005795,917083886058,error,"5/25/2025, 10:25:48 PM","5/25/2025, 10:25:48 PM",-,kranti@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.10,call_bc31fb393797d126458cefba110,agent_013449690bb91bf30736266dc9,14429005795,919315494173,ended,"5/25/2025, 10:09:07 PM","5/25/2025, 10:09:59 PM",52,bandanapandey152525@gmail.com,"User: Hello. हां?
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: हाय Bandana!
+User: वह 
+Agent:  मैं 
+User: cash on delivery नहीं है.
+Agent: ओह, समझ सकती हूँ Bandana!
+User: और मेरे इस phone से UPI नहीं चलता.
+Agent: अरे, कोई बात नहीं Bandana! अगर UPI नहीं चलता, तो आप डेबिट/क्रेडिट कार्ड या 
+User: नहीं use 
+Agent: नेट बैंकिंग 
+User: करते.
+",https://dxc03zgurdly9.cloudfront.net/95d7b89a1850a52f62a722df30e37636d0a687b677f77e568f340740e07a56d9/recording.wav,Neutral,False,"The user, Bandana, was contacted by the agent from Urban Yog regarding a product in her cart and a special discount offer. However, Bandana expressed concerns about payment options, stating that cash on delivery is not available and that UPI does not work on her phone, leading to a discussion about alternative payment methods.","elevenlabs_tts, gpt_4o",52,user_hangup
 $-,call_c21a13ecde91bf4e8c4fdbd566e,agent_013449690bb91bf30736266dc9,14429005795,919866025384,error,"5/25/2025, 10:05:49 PM","5/25/2025, 10:05:49 PM",-,Rajikisshann@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_81ac6674f261cbf7ae441f4c942,agent_013449690bb91bf30736266dc9,14429005795,917723054988,error,"5/25/2025, 10:05:49 PM","5/25/2025, 10:05:49 PM",-,amansaloniijain095@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_1bf270386b14466ddfc0fc650f2,agent_013449690bb91bf30736266dc9,14429005795,919818635444,error,"5/25/2025, 10:00:50 PM","5/25/2025, 10:00:50 PM",-,9818635444@aramya.in,-,-,Unknown,False,-,,-,dial_no_answer
