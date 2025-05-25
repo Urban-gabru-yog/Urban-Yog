@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_c01c5b4ffeeddc9c8f2e1d9e67a,agent_013449690bb91bf30736266dc9,14429005795,919576536314,error,"5/25/2025, 12:25:48 PM","5/25/2025, 12:25:48 PM",-,Vishwakarmashyam1989@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_ebb662a6395e01bb8bc4a1c6bf9,agent_013449690bb91bf30736266dc9,14429005795,918618742327,error,"5/25/2025, 12:14:29 PM","5/25/2025, 12:14:29 PM",-,aiswaryadnair180@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.05,call_70d08a39226a70b0a5943c09b30,agent_013449690bb91bf30736266dc9,14429005795,919552140590,ended,"5/25/2025, 12:10:27 PM","5/25/2025, 12:10:49 PM",23,Sujatamane6664@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello hello.
+User: नहीं नहीं.
+",https://dxc03zgurdly9.cloudfront.net/82732f717fa64e9e7a1dedde0b2e47901e3986cd9958cb613ba42405fcd82ebe/recording.wav,Negative,False,"The call was initiated by an agent from Urban Yog offering a 5% discount on a product added to the user's cart. The user responded negatively, indicating they were not interested in the offer.","elevenlabs_tts, gpt_4o",23,user_hangup
 $-,call_769be432730d2b6ac61bc810d8c,agent_013449690bb91bf30736266dc9,14429005795,917075537259,error,"5/25/2025, 12:05:48 PM","5/25/2025, 12:05:48 PM",-,sheetalsinghvi1982@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.04,call_ad225f358a374ee37294fa8f882,agent_013449690bb91bf30736266dc9,14429005795,917025705902,ended,"5/25/2025, 11:55:36 AM","5/25/2025, 11:55:53 AM",18,arathi.k95@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट 
