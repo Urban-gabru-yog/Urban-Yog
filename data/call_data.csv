@@ -1,4 +1,13 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_769be432730d2b6ac61bc810d8c,agent_013449690bb91bf30736266dc9,14429005795,917075537259,error,"5/25/2025, 12:05:48 PM","5/25/2025, 12:05:48 PM",-,sheetalsinghvi1982@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.04,call_ad225f358a374ee37294fa8f882,agent_013449690bb91bf30736266dc9,14429005795,917025705902,ended,"5/25/2025, 11:55:36 AM","5/25/2025, 11:55:53 AM",18,arathi.k95@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट 
+User: Sorry not interest.
+Agent: कोई बात नहीं, अरथी!
+",https://dxc03zgurdly9.cloudfront.net/ddd3b53b4e294b823bc8b499f0b49e96ed33b242a96a1ac3e7fa7500798af6db/recording.wav,Negative,False,The user initiated the call with a greeting but quickly expressed disinterest in the product being offered by the agent from Urban Yog. The agent acknowledged the user's response politely.,"elevenlabs_tts, gpt_4o",18,user_hangup
+$0.04,call_7c45032a7c6333f4e672bf0cf45,agent_013449690bb91bf30736266dc9,14429005795,917025705902,ended,"5/25/2025, 11:50:37 AM","5/25/2025, 11:50:56 AM",19,arathi.k95@gmail.com,"User: Your call has been forwarded to voicemail. The person you are trying to reach is not available at the turn please record your message. When you have finished recording you may hang up.
+Agent: ""Hi Arathi! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Electric Facial Hair Remover For Women 
+",https://dxc03zgurdly9.cloudfront.net/06136e704bdfc4032922df120dfe97e85be72ae83ae1cdc4f3a3a0127f9c706b/recording.wav,Neutral,False,"The call was forwarded to voicemail, and the agent, Meher from Urban Yog, began to leave a message regarding the Urban Yog Electric Facial Hair Remover for Women.","elevenlabs_tts, gpt_4o",19,user_hangup
 $0.04,call_88623c65ca0b303512bc685a50b,agent_013449690bb91bf30736266dc9,14429005795,919535245228,ended,"5/25/2025, 11:35:41 AM","5/25/2025, 11:36:01 AM",21,poojupooja84@gmail.com,"User: Call has been forwarded to voicemail. The person you're trying to reach is not available.
 User: At the turn, please record your message. When you have finished recording, you may hang up.
 Agent: ""Hi Pooja! Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Electric Facial Hair Remover For Women almost checkout kiya 
