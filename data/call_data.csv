@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_c21a13ecde91bf4e8c4fdbd566e,agent_013449690bb91bf30736266dc9,14429005795,919866025384,error,"5/25/2025, 10:05:49 PM","5/25/2025, 10:05:49 PM",-,Rajikisshann@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_81ac6674f261cbf7ae441f4c942,agent_013449690bb91bf30736266dc9,14429005795,917723054988,error,"5/25/2025, 10:05:49 PM","5/25/2025, 10:05:49 PM",-,amansaloniijain095@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_1bf270386b14466ddfc0fc650f2,agent_013449690bb91bf30736266dc9,14429005795,919818635444,error,"5/25/2025, 10:00:50 PM","5/25/2025, 10:00:50 PM",-,9818635444@aramya.in,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_b0347f5a34711f0cdb8562a644d,agent_013449690bb91bf30736266dc9,14429005795,917723054988,error,"5/25/2025, 10:00:48 PM","5/25/2025, 10:00:48 PM",-,amansaloniijain095@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.04,call_272800a8b50a54317b4c2517058,agent_013449690bb91bf30736266dc9,14429005795,919866025384,ended,"5/25/2025, 10:00:34 PM","5/25/2025, 10:00:54 PM",20,Rajikisshann@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello. हां?
+User: हां?
+Agent: हाय राजश्री!
+",https://dxc03zgurdly9.cloudfront.net/a4a216818528ca111e71567e2f5be5b50bef022f350eac414cece7f89b48e6df/recording.wav,Neutral,False,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user responded affirmatively but seemed confused or unsure initially.","elevenlabs_tts, gpt_4o",20,user_hangup
+$-,call_0bf2b3482948237eb9c0306de12,agent_013449690bb91bf30736266dc9,14429005795,917306075024,error,"5/25/2025, 9:59:28 PM","5/25/2025, 9:59:28 PM",-,arshaarsha0077@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_b1f3be4094bfe2ca4f964663efd,agent_013449690bb91bf30736266dc9,14429005795,919818635444,error,"5/25/2025, 9:55:49 PM","5/25/2025, 9:55:49 PM",-,9818635444@aramya.in,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_dfcb12775f3e62b108714b918f4,agent_013449690bb91bf30736266dc9,14429005795,917306075024,error,"5/25/2025, 9:50:48 PM","5/25/2025, 9:50:48 PM",-,arshaarsha0077@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_eff8b03b869d26f4d44a2fc09f4,agent_013449690bb91bf30736266dc9,14429005795,917718988860,error,"5/25/2025, 9:39:33 PM","5/25/2025, 9:39:33 PM",-,rasikawature2089@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.05,call_75a59313e814e2950d9cb208d43,agent_013449690bb91bf30736266dc9,14429005795,916284991901,ended,"5/25/2025, 9:35:27 PM","5/25/2025, 9:35:52 PM",25,mahajanishaan07@gmail.com,"User: Hello. 
 Agent: हैलो, मैं मेहर 
