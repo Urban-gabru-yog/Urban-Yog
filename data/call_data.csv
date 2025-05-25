@@ -1,4 +1,31 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_05c9e8d650456366b608a87617d,agent_013449690bb91bf30736266dc9,14429005795,919545378740,error,"5/25/2025, 5:55:49 PM","5/25/2025, 5:55:49 PM",-,amrutakarekar44@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_1325d9ddeb7f9baadbceb7cdaa0,agent_013449690bb91bf30736266dc9,14429005795,919821092689,error,"5/25/2025, 5:55:49 PM","5/25/2025, 5:55:49 PM",-,mangeshkale999999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_148e307183b61cac28b2d22d7d6,agent_013449690bb91bf30736266dc9,14429005795,918787528916,ended,"5/25/2025, 5:50:35 PM","5/25/2025, 5:50:41 PM",7,lalrinsangielizabeth@gmail.com,"Agent: हैलो, 
+User: Hello.
+Agent: मैं मेहर बोल रही 
+",https://dxc03zgurdly9.cloudfront.net/1a6cf8746f4e01fc76c61a899fec3cfca08de2fb59598be9d84d6487d619e940/recording.wav,Neutral,False,"The call begins with the agent introducing herself as Mehr. The user responds with a greeting, but the conversation does not progress further in the provided transcript.","elevenlabs_tts, gpt_4o",7,user_hangup
+$0.06,call_0d63748ef7ae823642b93525ddd,agent_013449690bb91bf30736266dc9,14429005795,919629174448,ended,"5/25/2025, 5:45:32 PM","5/25/2025, 5:46:02 PM",30,umerafazil786@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Yeah.
+Agent: Great, Fazil! So, the Urban Yog Electric Facial Hair Remover For Women is currently available at ₹849, and with the 5% 
+",https://dxc03zgurdly9.cloudfront.net/7818bf62c9194ef952197ec694dd3d3ea9519bfcbee2e7b837c7d44293359339/recording.wav,Positive,True,The call involved an agent from Urban Yog offering a 5% discount on a product that the user had added to their cart. The user expressed interest in claiming the discount for the Urban Yog Electric Facial Hair Remover for Women.,"elevenlabs_tts, gpt_4o",30,user_hangup
+$-,call_2d54ae0dc3c2df55bc71e0e99b9,agent_013449690bb91bf30736266dc9,14429005795,919629174448,error,"5/25/2025, 5:40:48 PM","5/25/2025, 5:40:48 PM",-,umerafazil786@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.04,call_2187cfa8f061fd99b30c27527d8,agent_013449690bb91bf30736266dc9,14429005795,919354738901,ended,"5/25/2025, 5:29:19 PM","5/25/2025, 5:29:37 PM",19,swt.tanya.sharma1992@gmail.com,"User: Hello 
+Agent: हैलो, मैं मेहर बोल 
+User: hello. हां जी.
+Agent: रही 
+User: बताइए. 
+Agent: हैलो, मैं मेहर बोल रही 
+User: बोलिए ma'am.
+User: बोलिए बोलिए.
+Agent: हैलो, मैं मेहर बोल 
+",https://dxc03zgurdly9.cloudfront.net/3b598a567ef816bdf4ed0e3b8f54a9b01bacd1f4fad79903c1c8500e2e8e34b7/recording.wav,Negative,False,"The user initiated the call and prompted the agent to speak, but the agent repeatedly responded with her name without providing any information or assistance. The call did not progress beyond initial greetings and the user seemed to be waiting for a response.","elevenlabs_tts, gpt_4o",19,user_hangup
+$-,call_413a1f9607025d398532582e67f,agent_013449690bb91bf30736266dc9,14429005795,917006024041,error,"5/25/2025, 5:25:48 PM","5/25/2025, 5:25:48 PM",-,floreenasingh@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_1276e44a25f5019f3fa20fd36c8,agent_013449690bb91bf30736266dc9,14429005795,917006024041,error,"5/25/2025, 5:20:48 PM","5/25/2025, 5:20:48 PM",-,floreenasingh@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_c96e93222c37c0ff96b0d319395,agent_013449690bb91bf30736266dc9,14429005795,919962642349,error,"5/25/2025, 5:15:48 PM","5/25/2025, 5:15:48 PM",-,nithi250990@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_ec1438983e7c7014ee81ae800e2,agent_013449690bb91bf30736266dc9,14429005795,918050529681,error,"5/25/2025, 5:10:48 PM","5/25/2025, 5:10:48 PM",-,shreebhanu688@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_dc9b4c86f49ead910d8db520039,agent_013449690bb91bf30736266dc9,14429005795,917352960965,error,"5/25/2025, 5:05:48 PM","5/25/2025, 5:05:48 PM",-,bhadanimonu8@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_a134a17c733871a48d036faed87,agent_013449690bb91bf30736266dc9,14429005795,919014360070,error,"5/25/2025, 5:00:50 PM","5/25/2025, 5:00:50 PM",-,Umaimaalmakkawi@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_80a2420e53cfac2e9a9735725d9,agent_013449690bb91bf30736266dc9,14429005795,918149725021,error,"5/25/2025, 4:55:49 PM","5/25/2025, 4:55:49 PM",-,superphantom65@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.19,call_29895767b7730da37b08a164a99,agent_013449690bb91bf30736266dc9,14429005795,919014360070,ended,"5/25/2025, 4:55:40 PM","5/25/2025, 4:57:13 PM",94,Umaimaalmakkawi@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 User: नहीं नहीं
