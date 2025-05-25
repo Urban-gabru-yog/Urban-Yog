@@ -1,4 +1,30 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_ad64709bc3aa043bf8ef8ef6f34,agent_013449690bb91bf30736266dc9,14429005795,917217504012,error,"5/25/2025, 2:05:48 PM","5/25/2025, 2:05:48 PM",-,shahansari673@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.10,call_23bdd90d13840ae21a010917de7,agent_013449690bb91bf30736266dc9,14429005795,918655642231,ended,"5/25/2025, 2:05:40 PM","5/25/2025, 2:06:30 PM",51,kavitamali0205@gmail.com,"User: Hello. Hello. जी बोलिए.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+User: Hello hello 
+Agent: हाय Kavita! मैं मेहर बोल रही हूँ 
+User: जी बोलिए.
+Agent: हाय Kavita! मैं मेहर बोल रही हूँ Urban Yog से। आपने Urban Yog Electric Facial Hair Remover For Women को almost checkout किया था, तो सोचा पूछ लूँ सब ठीक था ना?
+User: Hello
+User: Yeah yeah.
+Agent: Hi Kavita! I’m Meher calling from Urban Yog. I noticed you were checking out the Urban Yog Electric Facial Hair Remover For Women but didn’t complete the purchase. Just wanted to check—was everything okay?
+",https://dxc03zgurdly9.cloudfront.net/17836776e34a2ab323e1e8c8b06655173ed3a4365de4708f2a3b346361d34ca3/recording.wav,Neutral,True,"The agent, Meher from Urban Yog, reached out to the user, Kavita, to follow up on her incomplete purchase of the Urban Yog Electric Facial Hair Remover for Women. The agent inquired if everything was okay regarding the checkout process.","elevenlabs_tts, gpt_4o",51,user_hangup
+$0.14,call_378c74e63af60e971723f25a7c7,agent_013449690bb91bf30736266dc9,14429005795,918827781378,ended,"5/25/2025, 2:00:41 PM","5/25/2025, 2:01:49 PM",68,stutipandit1312@gmail.com,"User: Your call has been forwarded to voicemail. The person you are trying to reach is not available at the turn please record your message. When you have finished recording you may hang up.
+Agent: Hi Stuti! Meher bol rahi hoon Urban Yog se. Aapne MakeMeeBold Hot Air Brush 1.0 by Urban Yog apne cart mein rakha tha, toh bas check kar rahi thi ki sab theek thaak tha na? Agar aapko koi confusion ya help chahiye ho, toh mujhe zarur batayein.Waise, ek chhoti si baat—ye product kaafi popular hai aur pichle hafte out of stock bhi ho gaya tha. Agar aap interested ho, toh main aapke liye ek exclusive 5% discount code share kar sakti hoon: O – F – F – 5. 
+
+Main aapko WhatsApp pe checkout link bhi bhej sakti hoon, bas ek baar confirm kar lena. Koi bhi confusion ho toh customer support ko call kar lena. Aapka din shubh ho, Stuti!
+",https://dxc03zgurdly9.cloudfront.net/bef701c72b48de4d99bf44c484f654b722667adb71376b1b7f23e5558a27818c/recording.wav,Neutral,False,"The call was a voicemail left by an agent named Meher from Urban Yog, checking in on a user named Stuti regarding a product in her cart, the MakeMeeBold Hot Air Brush 1.0. The agent offered a discount code and mentioned the product's popularity and previous stock issues, encouraging Stuti to reach out for any help.","elevenlabs_tts, gpt_4o",68,inactivity
+$-,call_d61ad7d053e1dbba89455df9220,agent_013449690bb91bf30736266dc9,14429005795,917009016020,error,"5/25/2025, 1:55:49 PM","5/25/2025, 1:55:49 PM",-,nshivani158@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_e0d688e663d1c6ae7b5e8d6bd56,agent_013449690bb91bf30736266dc9,14429005795,917567062542,error,"5/25/2025, 1:55:48 PM","5/25/2025, 1:55:48 PM",-,priyanakabhat@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_b97bd43ed7a6211b5339b004866,agent_013449690bb91bf30736266dc9,14429005795,917567062542,error,"5/25/2025, 1:50:48 PM","5/25/2025, 1:50:48 PM",-,priyanakabhat@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_d85de272004fbaebca7fa21609a,agent_013449690bb91bf30736266dc9,14429005795,917009016020,ended,"5/25/2025, 1:50:46 PM","5/25/2025, 1:51:01 PM",15,nshivani158@gmail.com,"User: Hello 
+Agent: हैलो, 
+User: hello
+Agent: मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि 
+User: पर वही होकर है.
+Agent: अरे 
+",https://dxc03zgurdly9.cloudfront.net/e32d07d0902695d7773762551369683360317ff495fff46cfdf7eb383c9a847c/recording.wav,Neutral,False,"The user greeted the agent, who introduced herself as Mehar from Urban Yog. The conversation seems to be in Hindi, but it is unclear what the user is referring to, leading to some confusion.","elevenlabs_tts, gpt_4o",15,user_hangup
 $-,call_38529d04182ecf081d55b647834,agent_013449690bb91bf30736266dc9,14429005795,917999984797,error,"5/25/2025, 1:45:50 PM","5/25/2025, 1:45:50 PM",-,Aasmigupta10@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_1026683be012e2f1c259bca1565,agent_013449690bb91bf30736266dc9,14429005795,919380435878,error,"5/25/2025, 1:45:49 PM","5/25/2025, 1:45:49 PM",-,sarisarithasari94@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_168ebd85d7fca97466263b86f27,agent_013449690bb91bf30736266dc9,14429005795,919380435878,error,"5/25/2025, 1:40:49 PM","5/25/2025, 1:40:49 PM",-,sarisarithasari94@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
