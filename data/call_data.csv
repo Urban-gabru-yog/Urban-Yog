@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_794940d58e1c1f325c148e90b36,agent_013449690bb91bf30736266dc9,14429005795,918078892938,error,"5/25/2025, 7:55:48 PM","5/25/2025, 7:55:48 PM",-,anushkajas75@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_c3e8a16cbefa1fe8878978451b5,agent_013449690bb91bf30736266dc9,14429005795,916202662680,ended,"5/25/2025, 7:50:35 PM","5/25/2025, 7:50:46 PM",12,mishraprakash1498@gmail.com,"Agent: हैलो, 
+User: (inaudible speech)
+Agent: मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा 
+",https://dxc03zgurdly9.cloudfront.net/512c507aba9e58798220701f468d25e5f21a9b22739e4d797b20f70a27662426/recording.wav,Neutral,False,"The call begins with the agent introducing herself as Mehr from Urban Yog, but the user's response is inaudible, making it unclear what the user is saying or requesting.","elevenlabs_tts, gpt_4o",12,user_hangup
+$-,call_0ac200a00ef0b6361c4e72a9b95,agent_013449690bb91bf30736266dc9,14429005795,919120698407,error,"5/25/2025, 7:45:48 PM","5/25/2025, 7:45:48 PM",-,pinkygupta061097@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_9cf9b67f3c6bd9a7f54cef05348,agent_013449690bb91bf30736266dc9,14429005795,918142293376,ended,"5/25/2025, 7:45:34 PM","5/25/2025, 7:45:46 PM",13,Sanjanas2226@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि 
+",https://dxc03zgurdly9.cloudfront.net/8b3570460305bd247050eb92ee98a8893a8127e643021a3c67d5f49b8522469f/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o",13,user_hangup
 $-,call_f0f6efdc3fd43e0cd3765e0aaa3,agent_013449690bb91bf30736266dc9,14429005795,917709863654,error,"5/25/2025, 7:35:50 PM","5/25/2025, 7:35:50 PM",-,popatkarpragya@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_917de89f38b91f3d1c5bd7028ab,agent_013449690bb91bf30736266dc9,14429005795,917709863654,error,"5/25/2025, 7:30:48 PM","5/25/2025, 7:30:48 PM",-,popatkarpragya@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_d6081ee8bc59540ccd61bae2e22,agent_013449690bb91bf30736266dc9,14429005795,917760860015,ended,"5/25/2025, 7:25:34 PM","5/25/2025, 7:25:42 PM",9,meghanarao100@yahoo.com,"User: Hello.
