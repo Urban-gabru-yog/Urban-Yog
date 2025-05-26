@@ -1,4 +1,33 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.07,call_cfb77e974ddb0fd90320ac384bb,agent_013449690bb91bf30736266dc9,14429005795,918889219801,ended,"5/26/2025, 11:05:38 AM","5/26/2025, 11:06:11 AM",33,kirtibansoriya@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
+User: हां 
+Agent: हूँ 
+User: जी मैं बता.
+User: क्या?
+Agent: अरे वाह, KIRTI! कैसे हो?
+User: ma'am ठीक 
+Agent:  मैं Urban Yog 
+User: है बता.
+User: हां जी ma'am बताएं.
+Agent: ओके KIRTI, मैं Urban Yog से मेहर बोल रही हूँ। आपने Urban Yog Electric Facial Hair 
+User: अरे नहीं
+Agent: Remover For 
+",https://dxc03zgurdly9.cloudfront.net/6af4e24db06a836eeb8e7c2f0adc3c686787ead5516936eaaf69f7e84583d282/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, who was trying to discuss the Urban Yog Electric Facial Hair Remover with the user, Kirti. However, the user seemed confused and indicated that they did not want to proceed with the conversation about the product.","elevenlabs_tts, gpt_4o",33,user_hangup
+$0.21,call_2be5e65c354ef9da577c0882926,agent_013449690bb91bf30736266dc9,14429005795,918889219801,ended,"5/26/2025, 11:00:44 AM","5/26/2025, 11:02:27 AM",103,kirtibansoriya@gmail.com,"User: Your call has been forwarded to voicemail. The person you are trying to reach is not available at the tone please record your message
+User: When you have finished recording you may hang up.
+Agent: ""Hi KIRTI! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Electric Facial Hair Remover For Women almost checkout kiya tha, toh bas check karna tha ki sab theek thaak tha na? Agar aapko koi confusion ya help chahiye ho, toh mujhe zarur batayein. Waise, ek chhoti si baat—sirf aaj ke liye ek exclusive 5% discount hai code ke saath: O – F – F – 5. Main aapko WhatsApp pe checkout link bhi bhej sakti hoon. Jab bhi free ho, bas click kar lena! Koi bhi sawaal ho toh humein zarur contact karein. Bye, take care!""
+Agent: ""Hi KIRTI! Meher bol rahi hoon Urban Yog se. Bas friendly reminder dena tha ki aapka Urban Yog Electric Facial Hair Remover abhi bhi aapke cart mein hai. Yeh kaafi popular product hai aur pichle week out of stock bhi ho gaya tha. Agar aap interested ho, toh main aapke liye aaj ka price lock kar sakti hoon. Waise, aaj ke liye ek exclusive 5% discount bhi hai code ke saath: O – F – F – 5. Agar aapko koi help chahiye ho, toh mujhe zarur batayein. Take care!""
+",https://dxc03zgurdly9.cloudfront.net/25c779a0416a2087f758c35833394ff76e6875cf597e9905b9aabe473992c541/recording.wav,Neutral,False,"The call was a voicemail left by an agent named Meher from Urban Yog, reminding the user Kirti about an abandoned cart for the Urban Yog Electric Facial Hair Remover. The agent offered a 5% discount and mentioned the product's popularity and recent stock issues, encouraging Kirti to reach out for assistance or to complete the purchase.","elevenlabs_tts, gpt_4o",103,inactivity
+$0.08,call_4e9a418f77ed0d8d99c25029c7b,agent_013449690bb91bf30736266dc9,14429005795,919535102276,ended,"5/26/2025, 10:55:38 AM","5/26/2025, 10:56:17 AM",39,ravishaish@gmail.com,"User: Hello. 
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+User: हां. Ok, बोलिए.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। Ravisha, आपने Urban Yog Callus Remover almost checkout किया था, तो सोचा पूछ लूं सब ठीक था ना?
+User: हां.
+Agent: अच्छा, तो आपको 
+User: हां?
+Agent: product पसंद आया था ना? बस price का confusion था या कुछ और सोच रही थीं?
+Agent: मतलब, आपको Urban Yog Callus Remover पसंद तो आया था, है ना? बस price 
+",https://dxc03zgurdly9.cloudfront.net/2ca61c1b31b2e752889f6a1b48e03d011e0bf53831335cb81c191f7deef7181e/recording.wav,Positive,True,The user was contacted by an agent named Mehr from Urban Yog regarding their interest in the Urban Yog Callus Remover. The agent confirmed that the user liked the product but was inquiring about any confusion regarding the price.,"elevenlabs_tts, gpt_4o",39,user_hangup
 $0.03,call_ac30a50b4bd949340fbff0bc7df,agent_013449690bb91bf30736266dc9,14429005795,919133595522,ended,"5/26/2025, 10:39:24 AM","5/26/2025, 10:39:40 AM",16,moumitapani01@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया 
 ",https://dxc03zgurdly9.cloudfront.net/31c0d9aa3492544d5bbf232e891bb6d161b41b184656ccd6e060f799f68ddc3f/recording.wav,Neutral,True,"The user initiated the call with a greeting, and the agent, Mehr from Urban Yog, acknowledged the user's action of adding a product to their cart. The conversation appears to be focused on the user's shopping experience.","elevenlabs_tts, gpt_4o",16,user_hangup
