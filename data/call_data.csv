@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.04,call_cf54302daf8e8116ed2fcb6b2e2,agent_013449690bb91bf30736266dc9,14429005795,918669531969,ended,"5/27/2025, 8:56:04 PM","5/27/2025, 8:56:23 PM",20,rpjoshi6969@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+",https://dxc03zgurdly9.cloudfront.net/f92aa4814dd167aea02140f712a811a22b7c52b04e2e0619d1905ab17467a6d2/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",20,user_hangup
 $0.14,call_7bb04f242fb56c1dd7a2bf2b337,agent_013449690bb91bf30736266dc9,14429005795,919509156702,ended,"5/27/2025, 8:46:18 PM","5/27/2025, 8:47:25 PM",68,nathmeena781@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ 
 User: जी 
@@ -3220,5 +3222,3 @@ User: जी नहीं.
 Agent:  This is Meher calling from Urban Yog. I noticed you added the Urban Yog Callus 
 ",https://dxc03zgurdly9.cloudfront.net/377f7abc422a393f71293f12fde4676dae6e720025dfab59ce56f723baa9024d/recording.wav,Negative,True,The user received a call from Meher at Urban Yog regarding a 5% discount on a product they added to their cart. The user declined the offer.,"elevenlabs_tts, gpt_4o",23,user_hangup
 $-,call_dfd65c26f03b513c4241536a6b2,agent_013449690bb91bf30736266dc9,14429005795,919981748125,error,"5/23/2025, 11:01:30 AM","5/23/2025, 11:01:30 AM",-,py339565@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.01,call_360614c871e22811664433b6f28,agent_013449690bb91bf30736266dc9,14429005795,917565051842,ended,"5/23/2025, 10:56:12 AM","5/23/2025, 10:56:16 AM",4,Rekharavidwivedi@gmail.Com,"User: यह car husband
-",https://dxc03zgurdly9.cloudfront.net/2b86ebc22a8bea893c177b35380fe43d72550ab46bdcbe20e34385dd6f129772/recording.wav,Neutral,False,"The user mentioned something about a car related to their husband, but the context is unclear due to the incomplete statement.","elevenlabs_tts, gpt_4o",4,user_hangup
