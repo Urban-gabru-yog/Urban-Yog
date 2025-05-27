@@ -1,4 +1,13 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_cfcfa07fd6044754e666dc2f5d7,agent_013449690bb91bf30736266dc9,14429005795,919759099777,error,"5/27/2025, 4:36:27 PM","5/27/2025, 4:36:27 PM",-,shikhachaudhary.1501@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_d19c415f567085f873a0f5902af,agent_013449690bb91bf30736266dc9,14429005795,917021365202,error,"5/27/2025, 4:31:27 PM","5/27/2025, 4:31:27 PM",-,pratikabolake1996@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_603240d37f8ee964d02987031c5,agent_013449690bb91bf30736266dc9,14429005795,919769415368,ended,"5/27/2025, 4:16:11 PM","5/27/2025, 4:16:20 PM",10,shaikhshabina2000@gmail.com,"User: Hello. 
+Agent: हैलो, मैं 
+User: Hello कौन?
+Agent: मेहर बोल 
+Agent: हैलो, मैं 
+",https://dxc03zgurdly9.cloudfront.net/ad4b8efb216e08f40837cad8d7f0f11b0a1bfdce5b87dcb12ea30bb83f0b61c0/recording.wav,Neutral,False,"The call begins with the user greeting the agent, who responds in Hindi. The user seems confused about the agent's identity, asking for clarification. The interaction appears to be in the early stages without any clear resolution or task completion.","elevenlabs_tts, gpt_4o",10,user_hangup
+$-,call_68dff7ea41e979a80a49b5a902e,agent_013449690bb91bf30736266dc9,14429005795,918089673482,error,"5/27/2025, 4:11:27 PM","5/27/2025, 4:11:27 PM",-,sandrapk166@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_423bd613af8afd7069f66c6af8d,agent_013449690bb91bf30736266dc9,14429005795,918089673482,error,"5/27/2025, 4:06:27 PM","5/27/2025, 4:06:27 PM",-,sandrapk166@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_47daed75bd322db2b1d64705da7,agent_013449690bb91bf30736266dc9,14429005795,918668756730,error,"5/27/2025, 4:01:27 PM","5/27/2025, 4:01:27 PM",-,akshata_pansare@yahoo.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_7e0b65bbfdd720a1f3f8e2c3805,agent_013449690bb91bf30736266dc9,14429005795,917305755195,error,"5/27/2025, 4:00:13 PM","5/27/2025, 4:00:13 PM",-,gmkrishnan95@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
@@ -3078,7 +3087,3 @@ $-,call_d7db3c1e71974b79da70c715342,agent_013449690bb91bf30736266dc9,14429005795
 $0.01,call_650d8cd2b28d0b5d80bbc3b7131,agent_013449690bb91bf30736266dc9,14429005795,917892007203,ended,"5/22/2025, 6:06:13 PM","5/22/2025, 6:06:18 PM",6,poojavutkoor10@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ 
 ",https://dxc03zgurdly9.cloudfront.net/aa24c38aedbebd12852c6d7676f0b15391ce6ba4c0660f47c51edd36d2f855ed/recording.wav,Neutral,False,The call begins with the agent introducing herself as Mehr. There is no further information provided in the transcript to summarize the call's content or outcome.,"elevenlabs_tts, gpt_4o",6,user_hangup
 $-,call_624048050989d24cf52bf3f2bf5,agent_013449690bb91bf30736266dc9,14429005795,919996630789,error,"5/22/2025, 6:01:30 PM","5/22/2025, 6:01:30 PM",-,jyotibatra3789@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_2e490c5c10ac399b8d5d12b0fa7,agent_013449690bb91bf30736266dc9,14429005795,919996630789,error,"5/22/2025, 5:56:30 PM","5/22/2025, 5:56:30 PM",-,jyotibatra3789@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_8cec068ad0a7b1c7854c24d1363,agent_013449690bb91bf30736266dc9,14429005795,919996630789,error,"5/22/2025, 5:51:30 PM","5/22/2025, 5:51:30 PM",-,jyotibatra3789@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_cc6a37bdb042e2dcf5d11945d47,agent_013449690bb91bf30736266dc9,14429005795,918605543633,error,"5/22/2025, 5:46:32 PM","5/22/2025, 5:46:32 PM",-,truptikadam6933@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_deca5a36e14af18c9be51c63667,agent_013449690bb91bf30736266dc9,14429005795,917510638523,error,"5/22/2025, 5:41:31 PM","5/22/2025, 5:41:31 PM",-,princychristeena999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
