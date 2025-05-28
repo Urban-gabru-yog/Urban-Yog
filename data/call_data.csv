@@ -1,4 +1,11 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_aacd1476ef9ca3e73d9aaacf957,agent_013449690bb91bf30736266dc9,14429005795,919967853859,error,"5/28/2025, 10:05:57 AM","5/28/2025, 10:05:57 AM",-,dhanashree980@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_23b6ec845b20607352f4c986c15,agent_013449690bb91bf30736266dc9,14429005795,919967853859,ended,"5/28/2025, 10:00:49 AM","5/28/2025, 10:01:05 AM",17,dhanashree980@gmail.com,"Agent: हैलो, मैं 
+User: Hello. हां.
+Agent: मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने 
+User: हां हां हां.
+Agent: हाय Sanket! कैसे हो?
+",https://dxc03zgurdly9.cloudfront.net/0a0374df033884188b5c9fbe4befe39c8bfb19be6ff6c8baba89a7da3a429d1d/recording.wav,Positive,False,"The call begins with the agent introducing herself from Urban Yog and greeting the user, Sanket. The user responds affirmatively, indicating engagement in the conversation.","elevenlabs_tts, gpt_4o",17,user_hangup
 $0.04,call_cf54302daf8e8116ed2fcb6b2e2,agent_013449690bb91bf30736266dc9,14429005795,918669531969,ended,"5/27/2025, 8:56:04 PM","5/27/2025, 8:56:23 PM",20,rpjoshi6969@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 ",https://dxc03zgurdly9.cloudfront.net/f92aa4814dd167aea02140f712a811a22b7c52b04e2e0619d1905ab17467a6d2/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",20,user_hangup
 $0.14,call_7bb04f242fb56c1dd7a2bf2b337,agent_013449690bb91bf30736266dc9,14429005795,919509156702,ended,"5/27/2025, 8:46:18 PM","5/27/2025, 8:47:25 PM",68,nathmeena781@gmail.com,"User: Hello.
