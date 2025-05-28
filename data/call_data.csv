@@ -1,4 +1,13 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_2ba39a08e74040c5f61ae76c129,agent_013449690bb91bf30736266dc9,14429005795,918104295192,error,"5/28/2025, 1:05:56 PM","5/28/2025, 1:05:56 PM",-,adi2213sharma@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_d4313d87997bc001c0b4d3820be,agent_013449690bb91bf30736266dc9,14429005795,919958284851,ended,"5/28/2025, 1:04:17 PM","5/28/2025, 1:04:28 PM",11,hpabreja@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि 
+",https://dxc03zgurdly9.cloudfront.net/5fa55ed667309213fd230bb07f88426c4b095c29aa2d5a262814a93b32897ad5/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog, indicating the start of a conversation about their services.","elevenlabs_tts, gpt_4o",11,user_hangup
+$0.02,call_a097618fbbe40a88b27af31b2b3,agent_013449690bb91bf30736266dc9,14429005795,918104295192,ended,"5/28/2025, 1:00:36 PM","5/28/2025, 1:00:43 PM",8,adi2213sharma@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ 
+",https://dxc03zgurdly9.cloudfront.net/8a3aec1d3bc4b08bd2c13786c10f4889b795a9ef5d9d86f99c9c1dd1c21b5bd5/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent responded in Hindi, introducing herself as Mehr.","elevenlabs_tts, gpt_4o",8,user_hangup
+$-,call_3bc85cca87050cd68cd8da5e821,agent_013449690bb91bf30736266dc9,14429005795,919958284851,error,"5/28/2025, 12:59:21 PM","5/28/2025, 12:59:21 PM",-,hpabreja@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_0a40ec62f9a961e83b45cbda4ab,agent_013449690bb91bf30736266dc9,14429005795,918104295192,error,"5/28/2025, 12:55:57 PM","5/28/2025, 12:55:57 PM",-,adi2213sharma@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.05,call_1e75c209f1f1af089a7845aa2d2,agent_013449690bb91bf30736266dc9,14429005795,918197565095,ended,"5/28/2025, 12:45:35 PM","5/28/2025, 12:45:57 PM",23,Mariaranjitha3@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 User: Thank you.
@@ -1586,3 +1595,7 @@ User: Can you please, don't call me again, ok?
 Agent: Oh, I’m so sorry, Sukanya!
 ",https://dxc03zgurdly9.cloudfront.net/184944a9df496fcb3433250860c587dc138ff435d8208584dd723cc2a73b1583/recording.wav,Negative,False,"The user, Sukanya, received a call from the agent, Mehr, regarding a product in her cart and a special discount offer. However, Sukanya expressed her desire not to receive further calls, indicating dissatisfaction with the outreach.","elevenlabs_tts, gpt_4o",29,user_hangup
 $-,call_8088c0cfb590a5f1bb1bed62cd2,agent_013449690bb91bf30736266dc9,14429005795,918605045667,error,"5/26/2025, 10:20:56 AM","5/26/2025, 10:20:56 AM",-,poojasakhalker54@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_76caf2b30beb5eef376aecd8aeb,agent_013449690bb91bf30736266dc9,14429005795,917827753969,error,"5/26/2025, 10:19:37 AM","5/26/2025, 10:19:37 AM",-,sukanyanuthalapati1014@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.05,call_d4661d7cb75589d7dcb858c167e,agent_013449690bb91bf30736266dc9,14429005795,917529837865,ended,"5/26/2025, 10:15:41 AM","5/26/2025, 10:16:07 AM",27,nikhilgurjar865@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+",https://dxc03zgurdly9.cloudfront.net/78b5ecab6eca4e7030fb16c2d9f5c32222299907b5476f4ab6fe1dc6053ca2b4/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",27,user_hangup
+$-,call_76da8d97536941405ec8d924206,agent_013449690bb91bf30736266dc9,14429005795,917529837865,error,"5/26/2025, 10:10:56 AM","5/26/2025, 10:10:56 AM",-,nikhilgurjar865@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
