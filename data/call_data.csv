@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_03c2e8773bb196737d22ba7cd43,agent_013449690bb91bf30736266dc9,14429005795,918767872140,error,"5/30/2025, 10:06:04 AM","5/30/2025, 10:06:04 AM",-,jadhavyogini28@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_e6f6e7d9032c9293c258efc6856,agent_013449690bb91bf30736266dc9,14429005795,918767872140,error,"5/30/2025, 10:01:06 AM","5/30/2025, 10:01:06 AM",-,jadhavyogini28@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_7b7ff87ab0074093df49ef788b6,agent_013449690bb91bf30736266dc9,14429005795,917395814253,error,"5/29/2025, 9:26:13 PM","5/29/2025, 9:26:13 PM",-,shanmugammahes98@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_e13c0ce779694f752057165e627,agent_013449690bb91bf30736266dc9,14429005795,919061488362,error,"5/29/2025, 9:21:14 PM","5/29/2025, 9:21:14 PM",-,sreejah01@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.09,call_662f3974594b973f2a855d09c1b,agent_013449690bb91bf30736266dc9,14429005795,917395814253,ended,"5/29/2025, 9:20:55 PM","5/29/2025, 9:21:39 PM",44,shanmugammahes98@gmail.com,"User: Hello. 
@@ -2917,39 +2919,3 @@ $0.08,call_1a60eaf3893054cc15bfea6b5ed,agent_013449690bb91bf30736266dc9,14429005
 User: (inaudible speech)
 Agent: ""हैलो, Kavita! मैं मेहर बोल रही हूँ Urban Yog से। आपने Urban Yog Electric Facial Hair Remover For Women को लगभग खरीदने ही वाला था, तो सोचा चेक कर लूँ कि सब ठीक था ना? 😊""
 ",https://dxc03zgurdly9.cloudfront.net/e37e6ec32c0d3270bdcca280fb11216bf0c35f50c7b0125a33d070c8f90c01db/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user, Kavita, to inform her about an additional 5% discount on a product she had added to her cart, specifically the Urban Yog Electric Facial Hair Remover for Women. The call aimed to check if everything was alright with her purchase decision.","elevenlabs_tts, gpt_4o",42,user_hangup
-$-,call_791ea376be9514eda4faf07d2e3,agent_013449690bb91bf30736266dc9,14429005795,918655642231,error,"5/25/2025, 3:10:48 PM","5/25/2025, 3:10:48 PM",-,kavitamali0205@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.13,call_b409064f1fffe654e2106100032,agent_013449690bb91bf30736266dc9,14429005795,918608594647,ended,"5/25/2025, 3:05:48 PM","5/25/2025, 3:06:53 PM",65,joshwavijai@gmail.com,"User: The number 001918 06:08 594647. You diald is on a call. Please don't hang up and hold on a moment.
-Agent: Hi Saranya! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Electric Facial Hair Remover For Women almost checkout kiya tha, toh socha puchh loon sab theek thaak tha na?
-Agent: Hello? Saranya, aap sun pa rahi hain? Main bas confirm kar rahi thi ki aapko Urban Yog Electric Facial Hair Remover ke baare mein koi confusion ya question toh nahi tha?
-",https://dxc03zgurdly9.cloudfront.net/8d9b9bf6b5ad5991246f5c4e3c9da8e8b08c2e0b899b128cb59308ff9220de32/recording.wav,Neutral,False,"The user, Saranya, was contacted by the agent Meher from Urban Yog regarding her near checkout of the Electric Facial Hair Remover. The agent attempted to confirm if Saranya had any questions or confusion about the product.","elevenlabs_tts, gpt_4o",65,inactivity
-$0.02,call_e8e902753ca8c80c2800ccf0e74,agent_013449690bb91bf30736266dc9,14429005795,918608594647,ended,"5/25/2025, 3:00:25 PM","5/25/2025, 3:00:34 PM",9,joshwavijai@gmail.com,"User: Hello.
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
-",https://dxc03zgurdly9.cloudfront.net/77b4eee81934276b54863d3b9517c7e897fb9303293ce961d7e8f8fe35a5328d/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban. The conversation appears to be in Hindi, indicating a potential service inquiry or assistance request.","elevenlabs_tts, gpt_4o",9,user_hangup
-$0.36,call_f52bb2e4dd767575c52c2b2f985,agent_013449690bb91bf30736266dc9,14429005795,918208195681,ended,"5/25/2025, 2:52:52 PM","5/25/2025, 2:55:51 PM",179,patildipak4912@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-User: क्या करना चाहूंगी?
-User: Hello?
-Agent: अरे, सॉरी Purva! मैं थोड़ा जल्दी बोल 
-User: Hello?
-Agent: गई। 😅 दरअसल, आपने MakeMeeBold Hot Air Brush 1.0 by Urban Yog को अपने कार्ट में ऐड किया था, पर चेकआउट पूरा नहीं किया। सोचा पूछ लूं, क्या आपको प्रोडक्ट पसंद आया? या कुछ और सोच रही थीं?
-User: नहीं, मुझे पसंद नहीं आया.
-Agent: अरे, कोई बात नहीं Purva! 😊 अगर आप comfortable हैं, तो क्या मैं जान सकती हूँ कि आपको क्या चीज़ पसंद नहीं आई? Design, features, या कुछ और? ताकि मैं आपकी हेल्प कर सकूं।
-User: Hello, आप आवाज़ नहीं आ रही है.
-Agent: अरे, सॉरी Purva! शायद नेटवर्क का issue हो रहा है। अब मेरी आवाज़ आ रही है?
-User: नहीं ma'am आप Hello?
-User: Hello? Break हो रही है आपकी आवाज़.
-Agent: ओह, सॉरी Purva! शायद नेटवर्क में दिक्कत है। मैं आपको जल्दी से बताना चाहती थी कि अगर आपको MakeMeeBold Hot Air Brush 1.0 में कोई confusion है, तो मैं आपकी मदद कर सकती हूँ। क्या मैं आपको WhatsApp पर checkout link भेज दूँ?
-User: मुझे price मुझे price थोड़ी ज़्यादा लग गई इसीलिए मैंने up कर दिया.
-User: Hello?
-Agent: अरे हां, 
-User: hello
-Agent: समझ सकती हूँ Purva! कभी-कभी price थोड़ा ज़्यादा लग सकता है। लेकिन ये MakeMeeBold Hot Air Brush 1.0 एकदम premium quality का है और salon visits को काफी हद तक replace कर देता है। Long-term में ये काफी worth हो जाता है। 😊
-
-वैसे, आज के लिए एक exclusive 5% discount है—code: O – F – F – 5। और अगर आप UPI से payment करती हैं, तो extra 2% का discount भी मिलेगा। क्या मैं आपको checkout link भेज दूँ?
-User: मेरे पास UPI नहीं है ना आपने cash on delivery कर हूं पर वह available नहीं था
-User: ना.
-Agent: ओह, समझ गई Purva! Cash on Delivery फिलहाल available नहीं 
-User: हां.
-Agent: है, लेकिन मैं आपको एक और आसान तरीका बता 
-User: पता है जी?
-",https://dxc03zgurdly9.cloudfront.net/aa9a7c5238854054cc17c238ae4ee9fd746df7168313bf68e96f0985ef0b9127/recording.wav,Negative,False,"The user, Purva, was contacted by the agent regarding a product in her cart, the MakeMeeBold Hot Air Brush 1.0. Purva expressed that she did not like the product due to its price and mentioned that cash on delivery was not available, while the agent offered a discount and suggested sending a checkout link via WhatsApp.","elevenlabs_tts, gpt_4o",179,max_duration_reached
-$-,call_e9e8b28e9b8c5f9d0e996cd8477,agent_013449690bb91bf30736266dc9,14429005795,916205544326,error,"5/25/2025, 2:49:32 PM","5/25/2025, 2:49:32 PM",-,kritikasingh692@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
