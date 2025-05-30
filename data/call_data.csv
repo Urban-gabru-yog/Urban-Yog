@@ -2121,4 +2121,3 @@ User: Ok.
 User: दीजिए ma'am. Thank you.
 Agent: बिल्कुल, Pranali!
 ",https://dxc03zgurdly9.cloudfront.net/757fe3285ed29d9f1086b3ca1e3da1dcf2e9660b9b7554a46b65527098126aa5/recording.wav,Positive,True,"The user, Pranali, was contacted by the agent regarding a product, the Air Brush 1.0 by Urban Yog, that she had added to her cart. The agent confirmed that everything was fine and provided a checkout link via WhatsApp, while also sharing a tip about the product's benefits. The user expressed satisfaction and thanked the agent before ending the call.","elevenlabs_tts, gpt_4o",82,user_hangup
-$-,call_8e84d5caa4c36e028c92f1f2708,agent_013449690bb91bf30736266dc9,14429005795,919301740982,error,"5/26/2025, 6:25:56 PM","5/26/2025, 6:25:56 PM",-,rajvanshikahammad12@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
