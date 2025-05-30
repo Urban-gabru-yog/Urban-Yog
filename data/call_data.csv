@@ -2467,18 +2467,3 @@ $0.01,call_1100c23de1706b3997bf37814bc,agent_013449690bb91bf30736266dc9,14429005
 $-,call_66256df0d96bd4539bc8ec00ad0,agent_013449690bb91bf30736266dc9,14429005795,919482733617,error,"5/26/2025, 11:24:41 AM","5/26/2025, 11:24:41 AM",-,nazarethandria@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_16b8adfaadf65482f5cca32afbc,agent_013449690bb91bf30736266dc9,14429005795,916282309704,error,"5/26/2025, 11:20:56 AM","5/26/2025, 11:20:56 AM",-,minnus249@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_09d7a890e1f9119dd234ab3c786,agent_013449690bb91bf30736266dc9,14429005795,919812071098,error,"5/26/2025, 11:15:54 AM","5/26/2025, 11:15:54 AM",-,mamta04021999@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$-,call_c9d591d67d65d18d8fd236fcc10,agent_013449690bb91bf30736266dc9,14429005795,919812071098,error,"5/26/2025, 11:10:51 AM","5/26/2025, 11:10:51 AM",-,mamta04021999@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$0.07,call_cfb77e974ddb0fd90320ac384bb,agent_013449690bb91bf30736266dc9,14429005795,918889219801,ended,"5/26/2025, 11:05:38 AM","5/26/2025, 11:06:11 AM",33,kirtibansoriya@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
-User: हां 
-Agent: हूँ 
-User: जी मैं बता.
-User: क्या?
-Agent: अरे वाह, KIRTI! कैसे हो?
-User: ma'am ठीक 
-Agent:  मैं Urban Yog 
-User: है बता.
-User: हां जी ma'am बताएं.
-Agent: ओके KIRTI, मैं Urban Yog से मेहर बोल रही हूँ। आपने Urban Yog Electric Facial Hair 
-User: अरे नहीं
-Agent: Remover For 
-",https://dxc03zgurdly9.cloudfront.net/6af4e24db06a836eeb8e7c2f0adc3c686787ead5516936eaaf69f7e84583d282/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, who was trying to discuss the Urban Yog Electric Facial Hair Remover with the user, Kirti. However, the user seemed confused and indicated that they did not want to proceed with the conversation about the product.","elevenlabs_tts, gpt_4o",33,user_hangup
