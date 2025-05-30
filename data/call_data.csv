@@ -433,3 +433,5 @@ Agent: अरे, समझ सकती हूँ Sayali! कभी-कभी �
 User: नहीं नहीं product अच्छा है.
 Agent: अरे वाह, 
 ",https://dxc03zgurdly9.cloudfront.net/97606b9a0dbbf92248602389c8d706d03176cfc886c994b99180a31a4a668f05/recording.wav,Positive,True,"The call was initiated by the agent, Mehr, to follow up with the user, Sayali, regarding her interest in the Urban Yog Electric Facial Hair Remover. Sayali confirmed that she found the product good but mentioned she would like to order it later.","elevenlabs_tts, gpt_4o",60,user_hangup
+$-,call_45023421e128fb0d71e1725e691,agent_013449690bb91bf30736266dc9,14429005795,918072062281,error,"5/29/2025, 1:04:57 PM","5/29/2025, 1:04:57 PM",-,mahima2002sp@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_62a65ca20f6d1f9022dd2d57cbf,agent_013449690bb91bf30736266dc9,14429005795,919356008068,error,"5/29/2025, 1:01:15 PM","5/29/2025, 1:01:15 PM",-,truptimhaske600@gmail.com,-,-,Unknown,False,-,,-,dial_failed
