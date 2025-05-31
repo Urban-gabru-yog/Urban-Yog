@@ -1313,6 +1313,3 @@ Agent: मेहर बोल
 Agent: हैलो, मैं 
 ",https://dxc03zgurdly9.cloudfront.net/ad4b8efb216e08f40837cad8d7f0f11b0a1bfdce5b87dcb12ea30bb83f0b61c0/recording.wav,Neutral,False,"The call begins with the user greeting the agent, who responds in Hindi. The user seems confused about the agent's identity, asking for clarification. The interaction appears to be in the early stages without any clear resolution or task completion.","elevenlabs_tts, gpt_4o",10,user_hangup
 $-,call_68dff7ea41e979a80a49b5a902e,agent_013449690bb91bf30736266dc9,14429005795,918089673482,error,"5/27/2025, 4:11:27 PM","5/27/2025, 4:11:27 PM",-,sandrapk166@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_423bd613af8afd7069f66c6af8d,agent_013449690bb91bf30736266dc9,14429005795,918089673482,error,"5/27/2025, 4:06:27 PM","5/27/2025, 4:06:27 PM",-,sandrapk166@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_47daed75bd322db2b1d64705da7,agent_013449690bb91bf30736266dc9,14429005795,918668756730,error,"5/27/2025, 4:01:27 PM","5/27/2025, 4:01:27 PM",-,akshata_pansare@yahoo.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_7e0b65bbfdd720a1f3f8e2c3805,agent_013449690bb91bf30736266dc9,14429005795,917305755195,error,"5/27/2025, 4:00:13 PM","5/27/2025, 4:00:13 PM",-,gmkrishnan95@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
