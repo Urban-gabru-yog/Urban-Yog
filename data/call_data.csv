@@ -1935,18 +1935,3 @@ Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
 Agent: Hi Sri! This is Meher calling from Urban Yog. I noticed you added the MakeMeeBold Hot Air Brush 1.0 to your cart but didn’t complete the checkout. Just wanted to check in—did everything go okay, or were you still deciding?
 User: 
 ",https://dxc03zgurdly9.cloudfront.net/2fc3011b585098541ef6bf1612b8368cb9ceee54547e670d52e93f63705be22f/recording.wav,Neutral,False,"The agent, Meher from Urban Yog, reached out to the user to inform them about a 5% discount on a product they added to their cart but did not purchase. The agent inquired if the user needed assistance or was still deciding on the purchase.","elevenlabs_tts, gpt_4o",38,user_hangup
-$-,call_da51c5e74ffc825813cf5045a3a,agent_013449690bb91bf30736266dc9,14429005795,919079450641,error,"5/27/2025, 9:51:28 AM","5/27/2025, 9:51:28 AM",-,santoshverma04731@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_3d8dfddff7b61629c36135969cd,agent_013449690bb91bf30736266dc9,14429005795,917880810264,error,"5/26/2025, 9:15:57 PM","5/26/2025, 9:15:57 PM",-,akanshasrivastava69255@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_1cd6628d4027ce22f1a1b995661,agent_013449690bb91bf30736266dc9,14429005795,919141534334,error,"5/26/2025, 9:15:56 PM","5/26/2025, 9:15:56 PM",-,reddypreethidivi@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_192eaf8e1e4e32197605a0db5b9,agent_013449690bb91bf30736266dc9,14429005795,919141534334,error,"5/26/2025, 9:10:56 PM","5/26/2025, 9:10:56 PM",-,reddypreethidivi@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_2f25a79644d61faad3a493d1de3,agent_013449690bb91bf30736266dc9,14429005795,919075779921,error,"5/26/2025, 8:44:35 PM","5/26/2025, 8:44:35 PM",-,mayurihunge26@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_02a5996284b3e574941bdf6673b,agent_013449690bb91bf30736266dc9,14429005795,919075779921,error,"5/26/2025, 8:43:22 PM","5/26/2025, 8:43:22 PM",-,mayurihunge26@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.02,call_2406c230d153f0cff689058e7f1,agent_013449690bb91bf30736266dc9,14429005795,918271861611,ended,"5/26/2025, 8:40:36 PM","5/26/2025, 8:40:43 PM",8,khantaisha06@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ 
-",https://dxc03zgurdly9.cloudfront.net/c051cd4228123e019e43a506b2a3b7f43bc209c4787433b99ccf47f2e4e22ea9/recording.wav,Neutral,False,The call begins with the agent introducing herself as Mehr. There is no further information provided in the transcript to summarize the call's purpose or outcome.,"elevenlabs_tts, gpt_4o",8,user_hangup
-$0.03,call_52345af5d5e930b342adbbf397a,agent_013449690bb91bf30736266dc9,14429005795,918271861611,ended,"5/26/2025, 8:39:27 PM","5/26/2025, 8:39:43 PM",16,khantaisha06@gmail.com,"User: Hello 
-Agent: हैलो, मैं 
-User: Hello जी?
-Agent: मेहर बोल 
-User: हां बोलिए.
-Agent: अरे 
-",https://dxc03zgurdly9.cloudfront.net/58ddf0181ef83b74c3e8d6f3c4355e82f77504149e2a5f36b1c320527c46669a/recording.wav,Neutral,False,"The call begins with a greeting between the user and the agent, but the conversation is unclear and lacks substantial content. The agent seems to be trying to engage the user, but the interaction does not progress meaningfully.","elevenlabs_tts, gpt_4o",16,user_hangup
