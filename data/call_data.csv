@@ -1304,12 +1304,3 @@ Agent: shopping!
 User: Ok, thank you.
 ",https://dxc03zgurdly9.cloudfront.net/f1a9302f1426b1054331e3a78bdc629c28ef27928fd464b3cd732363a5748100/recording.wav,Positive,True,"The agent, Meher from Urban Yog, contacted the user, Anamika, to inform her about a special 5% discount on a product she added to her cart. Anamika expressed that she would think about it later, and the agent offered to send a WhatsApp link for easier checkout, which Anamika accepted.","elevenlabs_tts, gpt_4o",74,user_hangup
 $-,call_ef8a90df2793a49e76f75813036,agent_013449690bb91bf30736266dc9,14429005795,917021365202,error,"5/27/2025, 4:40:13 PM","5/27/2025, 4:40:13 PM",-,pratikabolake1996@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_cfcfa07fd6044754e666dc2f5d7,agent_013449690bb91bf30736266dc9,14429005795,919759099777,error,"5/27/2025, 4:36:27 PM","5/27/2025, 4:36:27 PM",-,shikhachaudhary.1501@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_d19c415f567085f873a0f5902af,agent_013449690bb91bf30736266dc9,14429005795,917021365202,error,"5/27/2025, 4:31:27 PM","5/27/2025, 4:31:27 PM",-,pratikabolake1996@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.02,call_603240d37f8ee964d02987031c5,agent_013449690bb91bf30736266dc9,14429005795,919769415368,ended,"5/27/2025, 4:16:11 PM","5/27/2025, 4:16:20 PM",10,shaikhshabina2000@gmail.com,"User: Hello. 
-Agent: हैलो, मैं 
-User: Hello कौन?
-Agent: मेहर बोल 
-Agent: हैलो, मैं 
-",https://dxc03zgurdly9.cloudfront.net/ad4b8efb216e08f40837cad8d7f0f11b0a1bfdce5b87dcb12ea30bb83f0b61c0/recording.wav,Neutral,False,"The call begins with the user greeting the agent, who responds in Hindi. The user seems confused about the agent's identity, asking for clarification. The interaction appears to be in the early stages without any clear resolution or task completion.","elevenlabs_tts, gpt_4o",10,user_hangup
-$-,call_68dff7ea41e979a80a49b5a902e,agent_013449690bb91bf30736266dc9,14429005795,918089673482,error,"5/27/2025, 4:11:27 PM","5/27/2025, 4:11:27 PM",-,sandrapk166@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
