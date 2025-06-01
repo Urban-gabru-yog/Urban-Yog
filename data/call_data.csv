@@ -496,16 +496,3 @@ $0.02,call_f8c6a6c74a7c9e523d453d56794,agent_013449690bb91bf30736266dc9,14429005
 $-,call_8359901a94ab8cd0475180ec8a7,agent_013449690bb91bf30736266dc9,14429005795,917038539718,error,"5/29/2025, 10:46:13 AM","5/29/2025, 10:46:13 AM",-,dineshgawade65@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_55ed02d58c5d5ba484efe054dff,agent_013449690bb91bf30736266dc9,14429005795,917023264973,error,"5/29/2025, 10:41:13 AM","5/29/2025, 10:41:13 AM",-,Babukhan08106@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_13081dadb17fbd174a2a43b1e0f,agent_013449690bb91bf30736266dc9,14429005795,918197742764,error,"5/29/2025, 10:36:13 AM","5/29/2025, 10:36:13 AM",-,pranjita081@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.07,call_2d2b49d1ff97fbe29286224c5e4,agent_013449690bb91bf30736266dc9,14429005795,919403355426,ended,"5/29/2025, 10:30:55 AM","5/29/2025, 10:31:28 AM",34,preetamksurana@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
-User: Hello. Hello. हां ma'am. जी बोलिए ma'am.
-User: Hello?
-Agent: हाय प्रीतम!
-User: hello ma'am आपको 
-Agent:  मैं मेहर बोल 
-User: voice break हो रहा है. बोलिए बोलिए.
-User: Hello ma'am your voice is breaking.
-Agent: Oh, I’m so sorry, Preetam! Can you hear me clearly now?
-",https://dxc03zgurdly9.cloudfront.net/9003b1fc3860554ef35fa4691964a9fb6a521faa25b63c1147ac707d4ef542f3/recording.wav,Neutral,False,"The call began with the agent introducing herself, but the user experienced issues with the voice breaking. The agent apologized and asked if the user could hear her clearly now, indicating an attempt to resolve the communication issue.","elevenlabs_tts, gpt_4o",34,user_hangup
-$-,call_b2cf50c926eda1103e92fe6c7cd,agent_013449690bb91bf30736266dc9,14429005795,918693006308,error,"5/29/2025, 10:26:14 AM","5/29/2025, 10:26:14 AM",-,prajumane9996@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_3a255246d367ee24bb9ad63d7c4,agent_013449690bb91bf30736266dc9,14429005795,918373999534,error,"5/29/2025, 10:26:13 AM","5/29/2025, 10:26:13 AM",-,shwetika.rausha@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_c4e5367664457466e1d8c981e45,agent_013449690bb91bf30736266dc9,14429005795,919920840506,error,"5/29/2025, 10:25:00 AM","5/29/2025, 10:25:00 AM",-,meetashah3009@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
