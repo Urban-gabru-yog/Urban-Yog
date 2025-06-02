@@ -407,29 +407,3 @@ User: किससे?
 Agent: अरे Kirti, मैं Meher बोल रही हूँ Urban Yog से। आपने Urban Yog Electric Facial Hair Remover 
 ",https://dxc03zgurdly9.cloudfront.net/7a273738c9d550bea38d5e05ef4bdeed5ba1993932a19fcf95a03475fbcb0107/recording.wav,Neutral,True,"The user, Kirti, was contacted by Meher from Urban Yog regarding a product added to the cart and an additional 5% discount available. The call aimed to confirm if Kirti wanted to claim the discount on the Urban Yog Electric Facial Hair Remover.","elevenlabs_tts, gpt_4o",43,user_hangup
 $-,call_70da21abd74284fdeae51a0b1e4,agent_013449690bb91bf30736266dc9,14429005795,919442929442,error,"5/29/2025, 2:01:17 PM","5/29/2025, 2:01:17 PM",-,rajubrinda@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_94cdff15c7d6718b955cdfc958e,agent_013449690bb91bf30736266dc9,14429005795,917355946686,error,"5/29/2025, 1:29:52 PM","5/29/2025, 1:29:52 PM",-,gupta.shweta0109@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.02,call_a33c8c0b93d450ebd8c88bf5243,agent_013449690bb91bf30736266dc9,14429005795,919049667545,ended,"5/29/2025, 1:25:56 PM","5/29/2025, 1:26:05 PM",9,Gourishthegame@gmail.com,"User: Hello.
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। 
-",https://dxc03zgurdly9.cloudfront.net/c12279d9c9c684c125740e007c667f8ca127135adccd80dd02baca703881230e/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog. The conversation appears to be in Hindi, indicating a potential service related to yoga or wellness.","elevenlabs_tts, gpt_4o",9,user_hangup
-$-,call_22dd2bf8bf1fb0dd08e95f8eade,agent_013449690bb91bf30736266dc9,14429005795,919962418887,error,"5/29/2025, 1:21:14 PM","5/29/2025, 1:21:14 PM",-,asquaregaming34@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_47d54c24dd459fe8f8277ec2f2c,agent_013449690bb91bf30736266dc9,14429005795,917829186429,error,"5/29/2025, 1:21:13 PM","5/29/2025, 1:21:13 PM",-,dr.archana.sasimohan@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_8b36d2d48da8536b301cf71d974,agent_013449690bb91bf30736266dc9,14429005795,917249715368,error,"5/29/2025, 1:11:13 PM","5/29/2025, 1:11:13 PM",-,abolirchaudhari123@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.06,call_b577795a0b7099a9d8156325780,agent_013449690bb91bf30736266dc9,14429005795,919544852697,ended,"5/29/2025, 1:11:00 PM","5/29/2025, 1:11:27 PM",28,febinmathew011999@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-User: No, I don't want, I don't want.
-User: I don't 
-Agent: Oh, 
-User: want, I just checked the only.
-Agent: No 
-",https://dxc03zgurdly9.cloudfront.net/af0c7ad93ac31545de12fbddc3f0f563cd0c0653d99fac6f974b631d1cc08d3a/recording.wav,Negative,False,"The user was contacted by an agent from Urban Yog regarding a product added to their cart and a special discount offer. The user declined the offer multiple times, indicating they were only checking and did not wish to proceed with the purchase.","elevenlabs_tts, gpt_4o",28,user_hangup
-$-,call_a3c154a40e42e830ab4e4e2e8af,agent_013449690bb91bf30736266dc9,14429005795,918374182160,error,"5/29/2025, 1:09:52 PM","5/29/2025, 1:09:52 PM",-,syeddbushra01@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.12,call_01d21f4804c8672ac4d10d87951,agent_013449690bb91bf30736266dc9,14429005795,919850980711,ended,"5/29/2025, 1:05:50 PM","5/29/2025, 1:06:49 PM",60,nehetesayu@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ 
-User: Hello. अपूर्व? हां?
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। 
-User: Hello हां बोलो. Hello.
-Agent: Sayali, आपसे casually बात करने आई थी। आपने Urban Yog Electric Facial Hair Remover For Women को almost checkout किया था, तो सोचा पूछ लूं, सब ठीक था ना?
-User: हां सब ठीक था.
-User: बाद में order करना है इसको.
-Agent: अरे, समझ सकती हूँ Sayali! कभी-कभी थोड़ा सोचने का मन करता है। वैसे, आपको product कैसा लगा? बस price का confusion था या कुछ और सोच रही थीं?
-User: नहीं नहीं product अच्छा है.
-Agent: अरे वाह, 
-",https://dxc03zgurdly9.cloudfront.net/97606b9a0dbbf92248602389c8d706d03176cfc886c994b99180a31a4a668f05/recording.wav,Positive,True,"The call was initiated by the agent, Mehr, to follow up with the user, Sayali, regarding her interest in the Urban Yog Electric Facial Hair Remover. Sayali confirmed that she found the product good but mentioned she would like to order it later.","elevenlabs_tts, gpt_4o",60,user_hangup
