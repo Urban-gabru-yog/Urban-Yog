@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_7aa0c9c353628ee6b448e36b3ed,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 4:06:06 PM","6/2/2025, 4:06:06 PM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_702d1e0525ca18a50f64dcbae22,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 4:04:48 PM","6/2/2025, 4:04:48 PM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_92b2493249ab39c098599ef3cc4,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 4:00:19 PM","6/2/2025, 4:00:19 PM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_88a3683f589e930c7f8e8f80811,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 3:58:55 PM","6/2/2025, 3:58:55 PM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_bd244fbce0749d787c2b2b8d737,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 3:56:06 PM","6/2/2025, 3:56:06 PM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_89b187fa4d161541746b52b9b62,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 3:54:45 PM","6/2/2025, 3:54:45 PM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_8f25c204af4746fffd33da7db4c,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 3:51:06 PM","6/2/2025, 3:51:06 PM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_449030c9905d52af7dc6ff7d541,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 3:49:45 PM","6/2/2025, 3:49:45 PM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_5f03db54675329c18a7d301ae91,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 3:46:06 PM","6/2/2025, 3:46:06 PM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_14401982a8339a44c9eea7929b9,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 3:44:45 PM","6/2/2025, 3:44:45 PM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_d3f55b0ead636fe0b3bedeb6f1a,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 3:41:06 PM","6/2/2025, 3:41:06 PM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
