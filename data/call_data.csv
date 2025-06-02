@@ -1,5 +1,18 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
-$-,call_b1eb1b258a504f4ca5f819ed760,agent_013449690bb91bf30736266dc9,17273828980,919923406172,ongoing,"6/2/2025, 9:07:53 PM",-,-,durvasalunkhe11@gmail.com,-,-,-,False,-,,-,-
+$-,call_c39a39d99c828f796b9256f79e6,agent_013449690bb91bf30736266dc9,17273828980,917038345345,error,"6/2/2025, 9:26:07 PM","6/2/2025, 9:26:07 PM",-,acpsonali@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_6042ac90af8b5046dc1366f06c9,agent_013449690bb91bf30736266dc9,17273828980,919873560146,error,"6/2/2025, 9:16:08 PM","6/2/2025, 9:16:08 PM",-,yachnakochhar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_726106fae11a4d6ed8f2a9eb86a,agent_013449690bb91bf30736266dc9,17273828980,918106028836,ended,"6/2/2025, 9:07:58 PM","6/2/2025, 9:08:08 PM",10,prasannaisarapu1999@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ 
+User: हां हां.
+Agent: Urban Yog से। 
+",https://dxc03zgurdly9.cloudfront.net/6f2df277a7c6a842f7819a36741c47712801af4e788a8e1a7be31a8113ed3a58/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but there is no further information or interaction provided in the transcript.","elevenlabs_tts, gpt_4o",10,user_hangup
+$0.23,call_b1eb1b258a504f4ca5f819ed760,agent_013449690bb91bf30736266dc9,17273828980,919923406172,ended,"6/2/2025, 9:07:53 PM","6/2/2025, 9:09:47 PM",115,durvasalunkhe11@gmail.com,"User: Your call has been forwarded to voicemail. The person you trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.
+Agent: ""Hi Durva! Main Meher bol rahi hoon Urban Yog se. Aapne MakeMeeBold Hot Air Brush 1.0 by Urban Yog apne cart mein rakha tha, toh bas check kar rahi thi ki sab theek thaak hai na? Yeh brush ek hi step mein dry aur style kar deta hai—kaafi time bacha sakta hai!Aapko agar koi confusion ya help chahiye ho, toh mujhe zarur batana. Main aapko WhatsApp pe checkout link bhej rahi hoon, jab bhi free ho, bas click kar lena. Aur haan, sirf aaj ke liye ek exclusive 5% discount bhi hai code ke saath: O – F – F – 5. 
+
+Koi bhi sawaal ho toh humein zarur contact karna. Take care, Durva!""
+Agent: ""Hi Durva! Meher bol rahi hoon Urban Yog se. Bas friendly reminder dena tha ki aapka MakeMeeBold Hot Air Brush 1.0 abhi bhi aapke cart mein hai. Yeh brush kaafi popular hai aur pichle week out of stock bhi ho gaya tha. Aap kahen toh main aaj ke liye price lock kar sakti hoon, aur waise 5% ka exclusive discount bhi chal raha hai code ke saath: O – F – F – 5. 
+
+Agar aapko koi bhi help chahiye ho ya questions ho, toh mujhe zarur batana. Main yeh link WhatsApp pe bhi bhej rahi hoon. Take care, Durva!""
+",https://dxc03zgurdly9.cloudfront.net/2336bffb7d5c720f51a4c34a540abd9cbe36cbb28a1f11b5a4889b6f2a9f2761/recording.wav,Neutral,False,"The call was a voicemail left by an agent named Meher from Urban Yog, reminding the user Durva about the MakeMeeBold Hot Air Brush 1.0 in her cart. The agent provided information about the product, mentioned an exclusive 5% discount, and offered assistance if needed.","elevenlabs_tts, gpt_4o",115,inactivity
 $-,call_22e40dc005d62d93a1dd0175cc7,agent_013449690bb91bf30736266dc9,17273828980,917019100187,error,"6/2/2025, 9:05:16 PM","6/2/2025, 9:05:16 PM",-,svdhanu0@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_61e458e511fbc5462d891eb8c1a,agent_013449690bb91bf30736266dc9,17273828980,919920226497,error,"6/2/2025, 9:04:50 PM","6/2/2025, 9:04:50 PM",-,srush07love@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_0a550c01484b58d414c23e13a4c,agent_013449690bb91bf30736266dc9,17273828980,919500925404,ended,"6/2/2025, 9:00:38 PM","6/2/2025, 9:00:50 PM",13,meenumadhangi@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि 
@@ -2000,83 +2013,3 @@ Agent: ""Hi Ritu! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Electri
 Agent: ""Hi Ritu! Meher yahan Urban Yog se. Bas friendly reminder dena tha ki aapne Urban Yog Electric Facial Hair Remover apne cart mein rakha tha. Yeh product kaafi handy hai—painless touch-ups aur travel-friendly bhi! Agar aapko koi confusion ya help chahiye ho, toh mujhe zarur batayein. Waise, aaj ke liye ek exclusive 5% discount bhi hai code ke saath: O – F – F – 5. Jaldi checkout kar lena, kyunki yeh product kaafi popular hai! Main aapko WhatsApp pe link bhej rahi hoon. Take care!""
 ",https://dxc03zgurdly9.cloudfront.net/65abab3daffea779407b16159da80450408ae9de3424e96a3842b6cefca32aec/recording.wav,Neutral,False,"The call was a voicemail left by an agent named Meher from Urban Yog, reminding the user Ritu about an item in her cart, the Urban Yog Electric Facial Hair Remover. The agent provided information about the product's popularity, a discount code, and offered assistance if needed, while also mentioning that a checkout link would be sent via WhatsApp.","elevenlabs_tts, gpt_4o",99,inactivity
 $-,call_1c660472469f2f10c5a19287a92,agent_013449690bb91bf30736266dc9,17273828980,919579151260,error,"5/30/2025, 3:00:35 PM","5/30/2025, 3:00:35 PM",-,jadhavsuchitra52@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_1327527b671acfc0d59903fb6c8,agent_013449690bb91bf30736266dc9,17273828980,919673967736,error,"5/30/2025, 2:56:57 PM","5/30/2025, 2:56:57 PM",-,vihaaterkar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.08,call_8e233a47ce568b34b794ffaf25b,agent_013449690bb91bf30736266dc9,17273828980,919673967736,ended,"5/30/2025, 2:51:44 PM","5/30/2025, 2:52:22 PM",38,vihaaterkar@gmail.com,"Agent: हैलो, मैं 
-User: Hello. Hello
-Agent: मेहर बोल रही 
-Agent: हैलो, मैं मेहर बोल रही 
-User: हां बोलिए बोलिए.
-Agent: हूँ Urban Yog 
-Agent: अरे, हाय Vihaa! मैं Urban 
-User: हां बोलिए. Hello आपका और नहीं आ रहा है?
-Agent: अरे, हाय Vihaa! मैं Meher बोल 
-User: Hello हां yes बोलिए.
-Agent: अरे, हाय Vihaa! मैं Meher बोल रही हूँ Urban Yog से। आपने Urban 
-",https://dxc03zgurdly9.cloudfront.net/272c299c734905e5862bb7f7914b29054408d64f42582b03b77c35860d90291b/recording.wav,Neutral,False,"The call involves a conversation between the user and an agent named Meher from Urban Yog. The user seems to be confused or having difficulty hearing the agent, as they repeatedly ask the agent to speak up or clarify.","elevenlabs_tts, gpt_4o",38,user_hangup
-$0.36,call_b8b25b0868e8bdbfe7c4dd254e9,agent_013449690bb91bf30736266dc9,17273828980,917588910605,ended,"5/30/2025, 2:41:20 PM","5/30/2025, 2:44:19 PM",179,gsnehal1998@gmail.com,"User: हां. 
-Agent: हैलो, मैं मेहर बोल रही हूँ 
-User: Hello. हां बोलो.
-Agent: Urban Yog से! Snehal 
-User: हां? बोलिए. 
-Agent: Vijay, आपसे बस हल्का सा चेक-इन करना था। आपने 
-User: हां?
-User: आपका आवाज़ नहीं आ 
-Agent: अरे Snehal 
-User: रहा है.
-User: हां, 
-Agent: अरे सॉरी Snehal! अब आवाज़ आ रही है?
-User: yes. हां आ रही है बोलिए.
-User: आपका 
-Agent: अच्छा!
-User: आवाज़ cut हो रहा है.
-Agent: ओह, 
-User: मुझे callesmhole चाहिए. Order करना था.
-User: I will call 
-Agent: ओह, आप Urban Yog 
-User: you back.
-Agent: ठीक 
-User: Hello. 
-Agent: है Snehal! जब भी 
-User: हां स्नेहल.
-Agent: हां Snehal!
-User: मैं अभी free हूं. हां बोलिए. आपको network issue है?
-Agent: अरे 
-User: I will 
-Agent: हां, शायद 
-User: call you back.
-Agent: ठीक है Snehal! जब भी आप free हों, आराम 
-User: इस number पर 
-Agent: से बात कर 
-User: call करूं?
-User: नहीं मुझे order करना था कि कैलाश member.
-User: मुझे Caliceremer order करना था.
-Agent: ओह, आप Urban Yog Callus Remover की बात कर रही हैं, है ना? कोई 
-User: हां हां मुझे order
-Agent: बात नहीं, मैं आपकी मदद कर देती हूँ!क्या मैं आपको WhatsApp 
-Agent: बिल्कुल Snehal!
-User: मुझे order करना था Cliles Moat.
-User: आपका आवाज़ 
-Agent: ओह, आप Urban Yog 
-User: नहीं आया.
-Agent: सॉरी Snehal! अब आवाज़ आ रही है?
-User: हां आ रही है बोलिए.
-Agent: अच्छा Snehal! तो आप Urban Yog Callus Remover ऑर्डर करना चाह रही थीं, है ना? मैं अभी आपको WhatsApp पर एक सीधा checkout link भेज देती हूँ। आप बस उस पर क्लिक करके आराम से ऑर्डर पूरा कर सकती हैं।  
-
-वैसे, ये product घर बैठे ही आपके पैरों को spa जैसा soft बना देता है। कोई confusion हो तो मुझे बताइए!
-User: Yes.
-User: हां.
-User: हां. Ok, नहीं मुझे cash on delivery है या net banking. यह मुझे पता करना था.
-Agent: अरे, कोई टेंशन नहीं Snehal!
-User: नहीं cash on delivery आएगा.
-Agent: बिल्कुल Snehal!
-User: हां?
-Agent:  Cash on Delivery का ऑप्शन available है। आप आराम से ऑर्डर कर सकती हैं और 
-User: हां. ठीक है
-User: मुझे भेजिए WhatsApp पर.
-User: मुझे WhatsApp नहीं मेरा यह वाला WhatsApp number नहीं है sir.
-Agent: ओह, समझ गई Snehal! कोई 
-User: हां,
-Agent: बात नहीं, आप अपना 
-",https://dxc03zgurdly9.cloudfront.net/da6d2476c5feeabdb689be777d52940a89d0fe0334b852aa4fa28f0a390c89fe/recording.wav,Neutral,False,"The user, Snehal, contacted the agent to order the Urban Yog Callus Remover but faced network issues during the call. The agent confirmed the order details and offered to send a checkout link via WhatsApp, but the user indicated that the provided WhatsApp number was incorrect.","elevenlabs_tts, gpt_4o",179,max_duration_reached
-$0.02,call_ef04b40b969327b6389d3d01c00,agent_013449690bb91bf30736266dc9,17273828980,917057243331,ended,"5/30/2025, 2:36:37 PM","5/30/2025, 2:36:44 PM",8,1011poojagupta@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
-",https://dxc03zgurdly9.cloudfront.net/caeb7fdd255478200d4957dedda8c451a53fd644a75dc323bb93853d61c19e3d/recording.wav,Neutral,False,The call begins with the agent introducing herself as Mehr. There is no further information provided in the transcript to summarize the call's content or outcome.,"elevenlabs_tts, gpt_4o",8,user_hangup
