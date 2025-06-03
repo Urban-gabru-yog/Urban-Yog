@@ -1,4 +1,88 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_93f13868c63006460daf1b08b40,agent_013449690bb91bf30736266dc9,17273828980,919034578305,error,"6/3/2025, 3:46:46 PM","6/3/2025, 3:46:46 PM",-,anjalitaneja56@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_e2ec5d4bad9367e3b54a40f46d6,agent_013449690bb91bf30736266dc9,17273828980,918148777519,error,"6/3/2025, 3:46:46 PM","6/3/2025, 3:46:46 PM",-,Dhanvimadhi@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_894bc1071948c9e46f1d9079377,agent_013449690bb91bf30736266dc9,17273828980,916205428739,error,"6/3/2025, 3:45:33 PM","6/3/2025, 3:45:33 PM",-,yasminrehana613@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_e0b4f0f9a55af454ed6c8e9f0e1,agent_013449690bb91bf30736266dc9,17273828980,919034578305,error,"6/3/2025, 3:41:47 PM","6/3/2025, 3:41:47 PM",-,anjalitaneja56@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.17,call_efc2375521853b04981a8cc74aa,agent_013449690bb91bf30736266dc9,17273828980,918148777519,ended,"6/3/2025, 3:41:08 PM","6/3/2025, 3:42:34 PM",86,Dhanvimadhi@gmail.com,"User: Hello. 
+User: Hello
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Sorry Sorry I don't know हिंदी.
+Agent: Oh, no problem, Madhi! Hi, I’m Meher calling from Urban Yog. I noticed you added the Urban Yog Callus Remover to your cart but didn’t check out. Just wanted to check if everything was okay 
+User: It is 
+Agent: or if you had 
+User: asking advance payment. That's why I denied.
+Agent: Ah, I totally get that, Madhi! Sometimes advance payments can feel a bit tricky. But just to 
+User: Yes.
+Agent: reassure you, Urban Yog offers secure payment options with 100% protection. Plus, prepaid orders are processed 4x faster, and you get free delivery along with an exclusive styling e-book.Would you like me to share more details about the product or help you with the checkout process?
+User: Ok. Ok.
+User: No no need.
+User: you.
+Agent: Got it, Madhi! No worries at all. If you change your mind or 
+User: Yeah sure.
+Agent: have any questions later, feel free to reach out. I’ll send you the checkout link on WhatsApp just in case you want to revisit it. Take care, and have a great day!
+User: Thank you.
+",https://dxc03zgurdly9.cloudfront.net/6e03fd196272fe5d155f073f82e6a3ef0b148c37b26adbfc7af3b2748ef5c674/recording.wav,Neutral,True,"The user, Madhi, was contacted by the agent from Urban Yog regarding a product left in the cart. After discussing concerns about advance payment, the agent reassured the user about secure payment options and offered to send a checkout link via WhatsApp, which the user accepted.","elevenlabs_tts, gpt_4o",86,user_hangup
+$0.02,call_e686ea69e0c2ab54d35330970dc,agent_013449690bb91bf30736266dc9,17273828980,919072848814,ended,"6/3/2025, 3:36:45 PM","6/3/2025, 3:36:56 PM",12,mehnaz6659@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा 
+",https://dxc03zgurdly9.cloudfront.net/a7ed3fb4863e7933db45dd8a46a12017ad4f722f106c0496d4557b9a03cdc3f2/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o",12,user_hangup
+$0.02,call_2e0b8cd40ce40adfb76b0765d75,agent_013449690bb91bf30736266dc9,17273828980,917902915438,ended,"6/3/2025, 3:21:09 PM","6/3/2025, 3:21:18 PM",9,Hisana144hassan@gmail.com,"User: Hello?
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+",https://dxc03zgurdly9.cloudfront.net/9ba0ce5d1bcfeb31cb6dad211d8ae12c8a0356b99389fb59805f4f6f2611619c/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban. The conversation appears to be in Hindi, indicating a potential customer service interaction.","elevenlabs_tts, gpt_4o",9,user_hangup
+$-,call_43cf746954f7076bab2962655f8,agent_013449690bb91bf30736266dc9,17273828980,919043684847,error,"6/3/2025, 3:16:46 PM","6/3/2025, 3:16:46 PM",-,afrineazarudeen@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.21,call_91a9262860be8fd369e374c6d00,agent_013449690bb91bf30736266dc9,17273828980,919043684847,ended,"6/3/2025, 3:14:52 PM","6/3/2025, 3:16:38 PM",107,afrineazarudeen@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: यार?
+User: I don't know हिंदी. Will you be in English?
+User: Talk in English.
+Agent: Oh, sure! Hi Afrin, this is Meher calling from Urban Yog. I noticed you added the 
+User: Ok.
+Agent: Urban Yog Electric Facial Hair Remover to your cart but didn’t check out. Just wanted to check in—did everything go okay, or were you still deciding?
+User: Yeah. Yeah.
+User: I need some more time to order
+Agent: Got it, Afrin! Take your time. Just wanted to share 
+User: Ok.
+Agent: a quick tip—this facial hair remover is super handy for painless touch-ups, and it even fits perfectly in a travel pouch. It’s been quite popular lately, and last week it went out of stock.If you’re interested, I can hold today’s price for you. Would you like me to send the checkout link to your WhatsApp?
+User: Ok.
+User: Yeah.
+Agent: Perfect, Afrin! I’ll send the checkout link to your WhatsApp right away. You can complete the order whenever it’s convenient for you. And hey, if 
+User: Ok ok 
+Agent: you have any questions or 
+User: ok.
+Agent: Alright, Afrin! I’ll send the link now. Take your time, and if you need any help, just let me know. Have a great 
+Agent: day!
+User: Ok,
+User: yeah thank you.
+Agent: You’re welcome, Afrin! Have a lovely day, and 
+",https://dxc03zgurdly9.cloudfront.net/3ae705d7bcd00e270209d1e90fe076b1104d4881e54aaf88f621a444180e235a/recording.wav,Positive,True,"The user, Afrin, was contacted by the agent from Urban Yog regarding a product she added to her cart. The agent provided information about the product and offered to send a checkout link to Afrin's WhatsApp, which she accepted, allowing her to complete the order at her convenience.","elevenlabs_tts, gpt_4o",107,user_hangup
+$0.32,call_b42583fdbae825a9856eacc555a,agent_013449690bb91bf30736266dc9,17273828980,917020861404,ended,"6/3/2025, 3:11:07 PM","6/3/2025, 3:13:45 PM",159,ashiyana136@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+User: जी हां.
+User: हां.
+Agent: हाय, अशियाना! मैं मेहर बोल रही 
+User: जी हां भैया मैं एक 
+Agent: हूँ Urban Yog से। आपने 
+User: claim करना चाहूंगी.
+Agent: अरे वाह, अशियाना! तो चलिए, मैं आपको पूरी डिटेल्स बता देती हूँ। आपने Urban Yog Callus Remover को कार्ट में ऐड किया था, जिसकी कीमत ₹849 है। आज के लिए आपके पास एक एक्सक्लूसिव 5% डिस्काउंट है। बस आपको कोड ""O – F – F – 5"" इस्तेमाल करना है। 
+
+और अगर आप UPI से पेमेंट करती हैं, तो आपको 2% का एक्स्ट्रा डिस्काउंट भी मिलेगा। 
+
+मैं अभी आपको WhatsApp पर एक चेकआउट लिंक भेज देती हूँ। आप जब भी फ्री हों, बस उस पर क्लिक करके ऑर्डर पूरा कर सकती हैं। ठीक है?
+User: नहीं मैं cancel करना चाहती हूं order.
+Agent: अरे, कोई बात नहीं अशियाना! लेकिन अगर आप मुझे बताएं कि आपको क्या कंफ्यूजन या परेशानी हो रही है, तो शायद मैं आपकी मदद कर पाऊं। प्रोडक्ट में कुछ समझ नहीं आया या फिर प्राइस को लेकर कोई दिक्कत है?
+User: नहीं वैसी कोई बात नहीं है order जिसने किया था वह अभी यहां पर नहीं है. मेरे phone से किया था उसने और वह अभी नहीं है इसीलिए मैं cancel करना चाहूंगी.
+Agent: समझ गई, अशियाना!
+User: Ok.
+Agent:  कोई टेंशन लेने की ज़रूरत नहीं है। वैसे, अगर ऑर्डर अभी डिस्पैच नहीं हुआ है, तो उसे कैंसल करना संभव है। लेकिन अगर ऑर्डर ट्रांज़िट में चला गया है, तो उसे कैंसल करना मुश्किल हो सकता है। 
+
+आप चाहें तो Urban Yog की कस्टमर सपोर्ट टीम से बात कर सकती हैं। उनका नंबर है: seven - three - nine - seven - eight - one - zero - three - eight - two। 
+
+अगर आपको और कोई मदद चाहिए, तो मुझे बताइए। 😊
+User: जी नहीं, please call करना बंद करती थी.
+Agent: ठीक है, अशियाना! मैं 
+User: बार बार call मत करिए. 
+Agent: आपको और 
+User: Ok.
+User: Thank you so much.
+",https://dxc03zgurdly9.cloudfront.net/6ac3792234fe7011caa0821b829095cd76fb176183ed7e074c9dc92bafd9d685/recording.wav,Neutral,False,"The user, Ashiyana, was contacted by the agent from Urban Yog regarding a product in her cart. Initially interested in claiming a discount, she later decided to cancel her order due to the person who placed it not being available. The agent provided information on cancellation and customer support, but the user requested to stop further calls.","elevenlabs_tts, gpt_4o",159,user_hangup
 $0.06,call_3cd2b077d24ca7b32340bcdaa7e,agent_013449690bb91bf30736266dc9,17273828980,917020861404,ended,"6/3/2025, 3:06:19 PM","6/3/2025, 3:06:46 PM",28,ashiyana136@gmail.com,"User: Hello. 
 User: कौन?
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
