@@ -1,4 +1,9 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.06,call_3cd2b077d24ca7b32340bcdaa7e,agent_013449690bb91bf30736266dc9,17273828980,917020861404,ended,"6/3/2025, 3:06:19 PM","6/3/2025, 3:06:46 PM",28,ashiyana136@gmail.com,"User: Hello. 
+User: कौन?
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: कौन सा वाला product?
+",https://dxc03zgurdly9.cloudfront.net/6b2c4c8377f0cd4863e4a0fa6e3624c236b69bbfe82b59f5a82feff3deb83468/recording.wav,Neutral,False,"The user was contacted by an agent from Urban Yog regarding a product they added to their cart, and the agent informed the user about an additional 5% discount available for that day. The user inquired about which product was being referred to.","elevenlabs_tts, gpt_4o",28,user_hangup
 $-,call_0b198e8a1b29db27ca69f36e9c4,agent_013449690bb91bf30736266dc9,17273828980,919946448391,error,"6/3/2025, 2:46:46 PM","6/3/2025, 2:46:46 PM",-,GLOWGLOWalfybiju0516@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_167bbae097743685859a4f0b4ef,agent_013449690bb91bf30736266dc9,17273828980,919789803794,ended,"6/3/2025, 2:40:01 PM","6/3/2025, 2:40:11 PM",10,esthersaalem@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
