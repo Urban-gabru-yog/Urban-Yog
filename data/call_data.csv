@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_b6ebad26d8af568fb62c0f9e273,agent_013449690bb91bf30736266dc9,17273828980,917294115415,ended,"6/4/2025, 9:25:02 PM","6/4/2025, 9:25:09 PM",7,sharmavinu2323@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
+",https://dxc03zgurdly9.cloudfront.net/333dd97ded3545741ad55f6b7d4f066b8320d5eb0a0f6a0a1f8ccd5cc7c9f27b/recording.wav,Neutral,False,"The call begins with the agent introducing herself as Mehr. The conversation likely continues with the user seeking assistance, but the provided transcript is incomplete to summarize further actions or outcomes.","elevenlabs_tts, gpt_4o",7,user_hangup
+$0.03,call_7e5f77ce7d8b80af7a0ba252e69,agent_013449690bb91bf30736266dc9,17273828980,918437818119,ended,"6/4/2025, 9:24:53 PM","6/4/2025, 9:25:10 PM",17,mannikour417@gmail.com,"User: Your call has been forwarded to voicemail. The person you trying to reach is not available at the turn please record your message. When you have finished recording you may hang up.
+Agent: ""Hi Manni! Meher bol rahi hoon Urban Yog se.
+",https://dxc03zgurdly9.cloudfront.net/4d1c18cc302042fc9722e0680c96bc918e3642cdd13839a0c87d1fd8a8b760a7/recording.wav,Neutral,False,"The call was forwarded to voicemail, indicating that the intended recipient was unavailable. The agent identified herself as Meher from Urban Yog, but the call did not progress beyond the voicemail greeting.","elevenlabs_tts, gpt_4o",17,user_hangup
+$0.06,call_50f27275e27708a9ff5a340e039,agent_013449690bb91bf30736266dc9,17273828980,919175915367,ended,"6/4/2025, 9:21:19 PM","6/4/2025, 9:21:50 PM",31,shreeyarajurikar@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: हां.
+Agent: वाह, बढ़िया!
+User: नहीं मैं
+Agent:  तो Shreeya, मैं आपको Urban Yog Electric Facial Hair Remover For Women का WhatsApp पे checkout 
+",https://dxc03zgurdly9.cloudfront.net/a4aeedeef2c833c732ca5995329ae74adb597173427d84e4d530a0df47903962/recording.wav,Negative,False,"The user was contacted by an agent from Urban Yog regarding a product added to their cart and a special discount offer. Initially, the user expressed interest but then changed their mind, indicating they did not want to proceed with the purchase.","elevenlabs_tts, gpt_4o",31,user_hangup
 $-,call_043c5bbcbf3bbcc618945e4e6c1,agent_013449690bb91bf30736266dc9,17273828980,919175915367,error,"6/4/2025, 9:16:32 PM","6/4/2025, 9:16:32 PM",-,shreeyarajurikar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_692a450335726802e652ffcaeed,agent_013449690bb91bf30736266dc9,17273828980,919751588666,error,"6/4/2025, 9:06:32 PM","6/4/2025, 9:06:32 PM",-,keerthika24ct@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_bb017bb442c0699e7545f849623,agent_013449690bb91bf30736266dc9,17273828980,919751588666,error,"6/4/2025, 9:01:32 PM","6/4/2025, 9:01:32 PM",-,keerthika24ct@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
