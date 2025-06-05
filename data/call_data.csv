@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_8d8da71bd72bdc1dc83e745e579,agent_00490e668be8e0244229d1de5a,17273828980,917090243314,error,"6/5/2025, 4:15:38 PM","6/5/2025, 4:15:38 PM",-,khushisoudha000@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_8b7fdff44b4d82689beb93a9755,agent_00490e668be8e0244229d1de5a,17273828980,917090243314,error,"6/5/2025, 4:15:37 PM","6/5/2025, 4:15:37 PM",-,khushisoudha000@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_6effb91dcc637e980f10a307808,agent_00490e668be8e0244229d1de5a,17273828980,918328523327,error,"6/5/2025, 3:30:37 PM","6/5/2025, 3:30:37 PM",-,gsudheera09@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_5f9c1d68d7477a741fe78a1b0a5,agent_00490e668be8e0244229d1de5a,17273828980,916300798863,error,"6/5/2025, 3:15:38 PM","6/5/2025, 3:15:38 PM",-,Susmitha.telaprolu@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_f39168b1615484cad30950f2576,agent_00490e668be8e0244229d1de5a,17273828980,917710258288,error,"6/5/2025, 3:00:37 PM","6/5/2025, 3:00:37 PM",-,rituk3538@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
@@ -2413,16 +2415,3 @@ User: मेरे को हिंदी
 Agent: बात नहीं कर 
 User: नहीं Hello hello hello hello hello hello
 ",https://dxc03zgurdly9.cloudfront.net/3c7b197b8ebdba0820c6d63651819a88dbeeed07be84153a57a2451e5ce34196/recording.wav,Negative,False,"The user initiated the call in Hindi but the agent responded in Kannada, leading to confusion. The user repeatedly requested to communicate in Hindi, but the agent struggled to accommodate this request, resulting in a disjointed conversation.","elevenlabs_tts, gpt_4o",43,user_hangup
-$0.03,call_b453926c44863ff771bd5bd2961,agent_013449690bb91bf30736266dc9,17273828980,919043157484,ended,"6/1/2025, 7:25:00 PM","6/1/2025, 7:25:13 PM",13,lochini131@gmail.com,"User: Hello.
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने 
-",https://dxc03zgurdly9.cloudfront.net/7892ef27b735b8a4dcd9c9886d157ad45c1e515ba894b38ebb59bf5e84803c1a/recording.wav,Neutral,False,"The user initiated the call and the agent, Mehr from Urban Yog, responded in Hindi. The call seems to be in the early stages, with the agent beginning to address the user's needs.","elevenlabs_tts, gpt_4o",13,user_hangup
-$0.03,call_c1651f6bc9ae66bb98d7f33c3b4,agent_013449690bb91bf30736266dc9,17273828980,919535141038,ended,"6/1/2025, 7:20:58 PM","6/1/2025, 7:21:15 PM",17,chandu392004@gmail.com,"User: नहीं वाले train में आ गया ना
-User: Hello.
-Agent: अरे, कोई बात नहीं Chandana! 😊 Main samajh sakti hoon, kabhi kabhi hum cheezein cart mein daal ke bhool jaate hain ya phir decide karne mein time lagta hai.
-",https://dxc03zgurdly9.cloudfront.net/dd3202ee60d4ce7dc340c0efc59b959e57d51a640d134b7e175c9a2b11c4df0e/recording.wav,Positive,True,"The user, Chandana, seems to have forgotten something related to a train and is seeking assistance. The agent acknowledges the situation and expresses understanding, indicating a friendly and supportive interaction.","elevenlabs_tts, gpt_4o",17,user_hangup
-$-,call_57d150253c46d3ea78333753ada,agent_013449690bb91bf30736266dc9,17273828980,919043157484,error,"6/1/2025, 7:20:17 PM","6/1/2025, 7:20:17 PM",-,lochini131@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_a06a9aa5bd92d82d5a284efefa0,agent_013449690bb91bf30736266dc9,17273828980,919535141038,error,"6/1/2025, 7:15:37 PM","6/1/2025, 7:15:37 PM",-,chandu392004@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$-,call_8d3b2a2133da6e718708c41f6ed,agent_013449690bb91bf30736266dc9,17273828980,919535888508,error,"6/1/2025, 7:11:27 PM","6/1/2025, 7:11:27 PM",-,Shannen.sheril22@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.01,call_30fff24c7d9c41ab71233580bb5,agent_013449690bb91bf30736266dc9,17273828980,919535141038,ended,"6/1/2025, 7:10:57 PM","6/1/2025, 7:11:03 PM",7,chandu392004@gmail.com,"User: हां जी
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
-",https://dxc03zgurdly9.cloudfront.net/9f6d7c115f6aa2dac5ef511abbc178d146ad64c0e3d6ee0dbba48f80aeb4ea3c/recording.wav,Neutral,False,"The user greeted the agent, who introduced herself as Mehr from Urban. The call appears to be in the initial stages of conversation.","elevenlabs_tts, gpt_4o",7,user_hangup
