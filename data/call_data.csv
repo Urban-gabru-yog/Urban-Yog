@@ -2426,21 +2426,3 @@ $-,call_8d3b2a2133da6e718708c41f6ed,agent_013449690bb91bf30736266dc9,17273828980
 $0.01,call_30fff24c7d9c41ab71233580bb5,agent_013449690bb91bf30736266dc9,17273828980,919535141038,ended,"6/1/2025, 7:10:57 PM","6/1/2025, 7:11:03 PM",7,chandu392004@gmail.com,"User: हां जी
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
 ",https://dxc03zgurdly9.cloudfront.net/9f6d7c115f6aa2dac5ef511abbc178d146ad64c0e3d6ee0dbba48f80aeb4ea3c/recording.wav,Neutral,False,"The user greeted the agent, who introduced herself as Mehr from Urban. The call appears to be in the initial stages of conversation.","elevenlabs_tts, gpt_4o",7,user_hangup
-$0.12,call_5fac5f7e7062c29565b955d93fa,agent_013449690bb91bf30736266dc9,17273828980,919535888508,ended,"6/1/2025, 7:05:59 PM","6/1/2025, 7:06:56 PM",58,Shannen.sheril22@gmail.com,"User: Hello. 
-User: Yes?
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-User: Ok.
-Agent: अरे 
-User: जी.
-Agent: वाह, बढ़िया! तो मैं आपको अभी WhatsApp पर एक चेकआउट लिंक भेज देती हूँ। आप जब भी फ्री हों, बस उस पर क्लिक करके ऑर्डर पूरा कर सकती हैं। अगर कोई सवाल हो, तो मुझे बताइए। 😊
-User: Ok.
-User: Ok ma'am, कुछ नहीं.
-Agent: ठीक है, शैनन!
-Agent: अगर आपको कभी भी कोई सवाल हो या मदद चाहिए, तो बेझिझक पूछिए। मैं अभी WhatsApp पर लिंक भेज रही हूँ। जब भी फ्री हों, बस क्लिक कर लीजिए। 😊 Urban Yog की तरफ से आपका दिन शानदार हो!
-User: Ok ma'am.
-User: Ok.
-User: Thank you.
-Agent: You're most welcome, 
-",https://dxc03zgurdly9.cloudfront.net/997bff5d0be8c8e28eee8b8b316d08a21c0a2b053c763673c7c2b669619ac6c5/recording.wav,Positive,True,The user received a promotional offer from the agent for an additional 5% discount on a product added to their cart. The agent sent a checkout link via WhatsApp for the user to complete their order and encouraged them to reach out with any questions.,"elevenlabs_tts, gpt_4o",58,user_hangup
-$-,call_28e595c38a037c1f0498e7faeab,agent_013449690bb91bf30736266dc9,17273828980,919535888508,error,"6/1/2025, 7:01:29 PM","6/1/2025, 7:01:29 PM",-,Shannen.sheril22@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_e1b717617aed83096fc15f9b940,agent_013449690bb91bf30736266dc9,17273828980,917877473275,error,"6/1/2025, 6:51:27 PM","6/1/2025, 6:51:27 PM",-,bhavikjangid330@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
