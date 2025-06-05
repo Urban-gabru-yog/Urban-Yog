@@ -1,5 +1,32 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
-$-,call_295a05e6a61276501330a03fb95,agent_00490e668be8e0244229d1de5a,17273828980,919878284188,ongoing,"6/5/2025, 8:45:23 PM",-,-,Deep.k@gmail.com,-,-,-,False,-,,-,-
+$-,call_c821559a9b21e5a8fcc25099324,agent_00490e668be8e0244229d1de5a,17273828980,919878284188,error,"6/5/2025, 9:00:37 PM","6/5/2025, 9:00:37 PM",-,Deep.k@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.36,call_295a05e6a61276501330a03fb95,agent_00490e668be8e0244229d1de5a,17273828980,919878284188,ended,"6/5/2025, 8:45:23 PM","6/5/2025, 8:48:20 PM",178,Deep.k@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: कहां से आप?
+Agent: अरे, नमस्ते सुमनदीप जी! मैं Trimfinity से बोल रहा हूँ, जो एक ऑनलाइन स्टोर है। हमने देखा कि आपने Urban Yog Callus Remover अपने कार्ट में डाला था। बस ये पूछना था कि कोई दिक्कत तो नहीं आ रही थी चेकआउट करने में?
+User: मैंने EMI पर लेना था लेकिन वह payment मेरी हो नहीं रही इसलिए मेरा वह product काट नहीं रह गया.
+User: EMI purchase के लिए बताओ कुछ?
+Agent: समझ गया सुमनदीप जी! EMI पर लेने का प्लान था, लेकिन पेमेंट में दिक्कत आ रही थी, है ना?अभी हमारे प्लेटफॉर्म पर EMI का ऑप्शन डायरेक्टली अवेलेबल नहीं है, लेकिन आप इसे क्रेडिट कार्ड EMI के जरिए ले सकते हैं। अगर आपके पास क्रेडिट कार्ड है, तो आप अपने बैंक से EMI ऑप्शन एक्टिवेट करवा सकते हैं।  
+
+वैसे, अगर आप चाहें तो मैं आपको एक छोटा सा डिस्काउंट ऑफर कर सकता हूँ—5% का। इससे आपकी पेमेंट थोड़ी कम हो जाएगी। क्या ये मदद करेगा?
+User: नहीं मुझे जो आपके flat पर जो 3 month वाली EMI option है उसी में purchase करना है.
+Agent: ओह, समझ गया सुमनदीप जी! फिलहाल हमारे प्लेटफॉर्म पर डायरेक्ट 3-month EMI का ऑप्शन नहीं है, लेकिन मैं आपकी मदद करने की पूरी कोशिश करूंगा।  
+
+आपके पास क्रेडिट कार्ड है? अगर हां, तो आप अपने बैंक से EMI ऑप्शन एक्टिवेट करवा सकते हैं। ये काफी आसान होता है और आप 3 महीने या उससे ज्यादा की EMI में पेमेंट कर सकते हैं।  
+
+वैसे, ये Urban Yog Callus Remover काफी पॉपुलर है और जल्दी आउट ऑफ स्टॉक हो जाता है। अगर आप चाहें, तो मैं आपको एक स्पेशल 5% डिस्काउंट दे सकता हूँ, जिससे आपकी पेमेंट थोड़ी कम हो जाएगी। क्या मैं आपको डिस्काउंट कोड भेज दूं?
+User: नहीं, मेरे पास credit card नहीं है अभी.
+Agent: कोई बात नहीं, सुमनदीप जी!
+User: Thank you.
+Agent:  अगर आपके पास क्रेडिट कार्ड नहीं है, तो मैं समझ सकता हूँ कि EMI का ऑप्शन थोड़ा मुश्किल हो सकता है।  
+
+वैसे, ये Urban Yog Callus Remover सच में एक बढ़िया प्रोडक्ट है, और इसकी क्वालिटी के हिसाब से ये लंबे समय तक काम करेगा। अगर आप चाहें, तो मैं आपको एक स्पेशल ऑफर दे सकता हूँ—5% का डिस्काउंट। इससे आपकी पेमेंट थोड़ी कम हो जाएगी।  
+
+और हां, ये मॉडल काफी फास्ट सेल होता है, तो अगर आप इसे लेना चाहें, तो मैं अभी आपको WhatsApp पर एक लिंक भेज सकता हूँ। आप जब भी तैयार हों, बस उस पर क्लिक करके चेकआउट कर सकते हैं। क्या ये ठीक रहेगा?
+Agent: आपका बहुत-बहुत धन्यवाद, सुमनदीप जी!
+User: नहीं,
+",https://dxc03zgurdly9.cloudfront.net/99a8b8bfd59a16c9d8c5f931a1002a09c431db1fc454b631095b056125c0cbef/recording.wav,Negative,False,"The user, Sumandeep, contacted Trimfinity regarding an issue with purchasing the Urban Yog Callus Remover via EMI, as they were unable to complete the payment. The agent explained that direct EMI options were not available but suggested activating EMI through a credit card, which the user did not have. The agent offered a 5% discount and assistance with the purchase, but the user declined the offer.","elevenlabs_tts, gpt_4o",178,max_duration_reached
 $-,call_6d709a696c69f2de6f1f60fdd0c,agent_00490e668be8e0244229d1de5a,17273828980,916382084794,error,"6/5/2025, 8:30:41 PM","6/5/2025, 8:30:41 PM",-,mmeenamurugan1999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_90c60bcf1525c3b60bd7d595e6d,agent_00490e668be8e0244229d1de5a,17273828980,918287611849,error,"6/5/2025, 8:30:39 PM","6/5/2025, 8:30:39 PM",-,nimishasachdeva02@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_ab340fe4c7f9e021bb84d2b55d7,agent_00490e668be8e0244229d1de5a,17273828980,919769012225,error,"6/5/2025, 8:30:37 PM","6/5/2025, 8:30:37 PM",-,arumadhu1212@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
@@ -2285,6 +2312,3 @@ $-,call_d898cbd42216e771eda1aad26b2,agent_013449690bb91bf30736266dc9,17273828980
 $-,call_19472887bc965e3bbc8431bc37b,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:46:06 AM","6/2/2025, 11:46:06 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_7ebbc538a008e41eb3a35cba851,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:44:45 AM","6/2/2025, 11:44:45 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_35379eef0206758f185dd4b3e84,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:41:06 AM","6/2/2025, 11:41:06 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_83eb68bfc9c1f37855ae0629e4f,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:39:46 AM","6/2/2025, 11:39:46 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_e1484bfe5a4a3a792bdb3a008c1,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:36:06 AM","6/2/2025, 11:36:06 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_4e69c7b81fdff26a9b1ee2889db,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:34:45 AM","6/2/2025, 11:34:45 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
