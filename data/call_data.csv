@@ -1,4 +1,21 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_295a05e6a61276501330a03fb95,agent_00490e668be8e0244229d1de5a,17273828980,919878284188,ongoing,"6/5/2025, 8:45:23 PM",-,-,Deep.k@gmail.com,-,-,-,False,-,,-,-
+$-,call_6d709a696c69f2de6f1f60fdd0c,agent_00490e668be8e0244229d1de5a,17273828980,916382084794,error,"6/5/2025, 8:30:41 PM","6/5/2025, 8:30:41 PM",-,mmeenamurugan1999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_90c60bcf1525c3b60bd7d595e6d,agent_00490e668be8e0244229d1de5a,17273828980,918287611849,error,"6/5/2025, 8:30:39 PM","6/5/2025, 8:30:39 PM",-,nimishasachdeva02@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_ab340fe4c7f9e021bb84d2b55d7,agent_00490e668be8e0244229d1de5a,17273828980,919769012225,error,"6/5/2025, 8:30:37 PM","6/5/2025, 8:30:37 PM",-,arumadhu1212@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_fcf4ce1b5db67c89924cdd88812,agent_00490e668be8e0244229d1de5a,17273828980,918265067554,ended,"6/5/2025, 8:30:30 PM","6/5/2025, 8:30:43 PM",13,rudranaik1172008@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/fdab54d103ef5da57307eb500588f4bf26efdad8a43b77a181d98cce95d3c997/recording.wav,Neutral,True,The agent introduced themselves and informed the user about an additional 5% discount on a product they had added to their cart. The agent offered the user the opportunity to claim the discount.,"elevenlabs_tts, gpt_4o",13,user_hangup
+$-,call_c77a69d5152da00c532281c071d,agent_00490e668be8e0244229d1de5a,17273828980,917829239978,error,"6/5/2025, 8:15:40 PM","6/5/2025, 8:15:40 PM",-,shwethagowda7898@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.11,call_1a9202bdcaa0e33797301e19987,agent_00490e668be8e0244229d1de5a,17273828980,918790577867,ended,"6/5/2025, 8:15:26 PM","6/5/2025, 8:16:19 PM",54,preethimattewada@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello.
+Agent: Hi Mattewada! This is Aryan from Trimfinity. I noticed you were checking out the Urban Yog Electric Facial Hair Remover for Women on our website. Just wanted to check if you had any questions or concerns about the product?
+User: Hello.
+Agent: Hi Mattewada! How are you doing today? This is Aryan from Trimfinity. I noticed you were looking at the Urban Yog Electric Facial Hair Remover for Women on our website. Just wanted to check if everything was okay or if you had any questions about the product?
+",https://dxc03zgurdly9.cloudfront.net/4e6df4dfe301a51cc220bb5557e1d15ebcf205c7c3af0c5b4004dc6e203bff8c/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Mattewada, to offer an additional 5% discount on a product they had added to their cart, specifically the Urban Yog Electric Facial Hair Remover for Women. The agent inquired if the user had any questions or concerns about the product.","elevenlabs_tts, gpt_4o",54,user_hangup
 $-,call_911469f8c074abdb91c19b48ed4,agent_00490e668be8e0244229d1de5a,17273828980,918518903915,error,"6/5/2025, 8:00:41 PM","6/5/2025, 8:00:41 PM",-,muskangupta998113@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_e2b2bd69039a2ad2aeb24699e8e,agent_00490e668be8e0244229d1de5a,17273828980,918121648439,error,"6/5/2025, 8:00:38 PM","6/5/2025, 8:00:38 PM",-,verginiachristy007@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_81ab8060eaaf99b657dcb528ee7,agent_00490e668be8e0244229d1de5a,17273828980,919724555807,error,"6/5/2025, 7:45:40 PM","6/5/2025, 7:45:40 PM",-,bhojanimehzabin@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
@@ -2271,12 +2288,3 @@ $-,call_35379eef0206758f185dd4b3e84,agent_013449690bb91bf30736266dc9,17273828980
 $-,call_83eb68bfc9c1f37855ae0629e4f,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:39:46 AM","6/2/2025, 11:39:46 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_e1484bfe5a4a3a792bdb3a008c1,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:36:06 AM","6/2/2025, 11:36:06 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_4e69c7b81fdff26a9b1ee2889db,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:34:45 AM","6/2/2025, 11:34:45 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_f360539a2824de06fb925ba0d0a,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:31:06 AM","6/2/2025, 11:31:06 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_54202a9fd74048bbe9fda577021,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:29:47 AM","6/2/2025, 11:29:47 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_ec34c4a4a814326a830747b0a6b,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:26:07 AM","6/2/2025, 11:26:07 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_a713c9812580e87f76b7d3cf2b0,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:24:45 AM","6/2/2025, 11:24:45 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_bc130d29e14e0655c80744ff026,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:21:06 AM","6/2/2025, 11:21:06 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_b52cea3066571c3f6515067886b,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:19:45 AM","6/2/2025, 11:19:45 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_db641819cc035217067f04fdd40,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:16:06 AM","6/2/2025, 11:16:06 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_e5e3dc627145526a989fe3e8bfa,agent_013449690bb91bf30736266dc9,17273828980,919916932009,error,"6/2/2025, 11:14:45 AM","6/2/2025, 11:14:45 AM",-,chandra.shilpa@icloud.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_7eede10a84de5bd816028e96d64,agent_013449690bb91bf30736266dc9,17273828980,919833490359,error,"6/2/2025, 11:11:06 AM","6/2/2025, 11:11:06 AM",-,gaurikarande102017@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
