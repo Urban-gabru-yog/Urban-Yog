@@ -9,7 +9,7 @@ import warnings
 
 warnings.filterwarnings("ignore", category=UserWarning)
 
-#  PAGE CONFIG
+# PAGE CONFIG
 st.set_page_config(
     page_title="Customer Call & Sales Dashboard",
     page_icon="📞",
@@ -36,6 +36,19 @@ st.markdown("""
 df = pd.read_csv("data/merged_data.csv")
 df['StartTimestamp'] = pd.to_datetime(df['StartTimestamp'], errors='coerce')
 df['call_date'] = df['StartTimestamp'].dt.date
+
+# Convert '$' TotalCost to float and then INR
+df['TotalCost'] = (
+    df['TotalCost']
+    .replace('-', '0')  # or use np.nan if you prefer dropping it
+    .replace('[\$,]', '', regex=True)
+    .astype(float)
+    * 85
+)
+
+
+# Clean and convert TotalDuration (in sec)
+df['TotalDuration (in sec)'] = pd.to_numeric(df['TotalDuration (in sec)'], errors='coerce').fillna(0)
 
 call_data = pd.read_csv("data/call_data.csv")
 call_data['StartTimestamp'] = pd.to_datetime(call_data['StartTimestamp'], errors='coerce')
@@ -70,12 +83,17 @@ st.title("UrbanYog Voice Agent Dashboard")
 total_calls = len(df_filtered)
 connected_calls = len(picked_up_calls)
 conversion = round(total_purchases / connected_calls * 100, 2) if connected_calls > 0 else 0
+total_call_cost = df_filtered['TotalCost'].sum()
+total_call_duration_sec = df_filtered['TotalDuration (in sec)'].sum()
+total_call_duration_hms = str(datetime.timedelta(seconds=int(total_call_duration_sec)))
 
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3, col4, col5, col6 = st.columns(6)
 col1.metric("📞 Total Calls", total_calls)
 col2.metric("✅ Connected Calls", connected_calls)
 col3.metric("🛍️ Purchases", total_purchases)
 col4.metric("💯 Conversion", f"{conversion}%")
+col5.metric("📞 Total Call Cost (INR)", f"₹{total_call_cost:,.2f}")
+col6.metric("⏱️ Total Call Duration", total_call_duration_hms)
 
 style_metric_cards()
 
@@ -137,21 +155,17 @@ for col in df_filtered.columns:
         break
 
 if not customer_df.empty and timestamp_column:
-    # Filter and format relevant columns
     customer_df = df_filtered[df_filtered['order_number'].notna()][
         ['call_date', 'Email', 'order_number', timestamp_column, 'StartTimestamp']
     ].copy()
 
-    # Convert datetime fields
     customer_df[timestamp_column] = pd.to_datetime(customer_df[timestamp_column], errors='coerce')
     customer_df['Order Time'] = customer_df[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
     customer_df['StartTimestamp'] = pd.to_datetime(customer_df['StartTimestamp'], errors='coerce')
     customer_df['Call Time'] = customer_df['StartTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
-    # Keep only the earliest call per order
     customer_df = customer_df.sort_values('StartTimestamp').drop_duplicates(subset='order_number', keep='first')
 
-    # Rename and reorder columns
     customer_df = customer_df.rename(columns={
         "call_date": "Date",
         "Email": "Customer Email",
@@ -159,8 +173,6 @@ if not customer_df.empty and timestamp_column:
     })[["Date", "Customer Email", "Order Number", "Call Time", "Order Time"]]
 
     st.dataframe(customer_df, use_container_width=True)
-
-
 
 elif not customer_df.empty:
     st.warning("⚠️ Could not detect a valid order time column.")
@@ -172,24 +184,20 @@ elif not customer_df.empty:
 else:
     st.info("No customer purchase data found in the selected date range.")
 
-# DOWNLOAD - Moved above OFF5 section
+# DOWNLOAD
 st.markdown("## 📁 Download Filtered Data")
 st.download_button("⬇️ Download Filtered CSV", data=df_filtered.to_csv(index=False), file_name="filtered_data.csv", mime="text/csv")
 
 # OFF5 COUPON USED
 colored_header("🏷️ OFF5 Coupon Used", "", color_name="red-70")
-
-# Filter rows where 'OFF5' coupon was used
 off5_mask = df_filtered['discount_codes'].astype(str).str.contains("OFF5", case=False, na=False)
 off5_df = df_filtered[off5_mask]
 
-# Extract required columns and clean
 if not off5_df.empty:
     off5_table = off5_df[['customer.first_name', 'customer.email', 'order_number']].dropna().drop_duplicates()
     off5_table.columns = ['Customer Name', 'Customer Email', 'Order Number']
     st.dataframe(off5_table, use_container_width=True)
 
-    # Add download button for OFF5-only data
     st.download_button(
         label="⬇️ Export OFF5 Coupon Data",
         data=off5_table.to_csv(index=False),
