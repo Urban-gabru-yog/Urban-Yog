@@ -1,4 +1,22 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.03,call_5c0f5aa71b0af6e18870261a19c,agent_00490e668be8e0244229d1de5a,17273828980,919970266032,ended,"6/7/2025, 6:46:17 PM","6/7/2025, 6:46:31 PM",14,kumarbapujagtap@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/d8a9c8ecfed11c744ac00c5125514c477f7b7b1057fa94e2ed942be96c8f72aa/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",14,user_hangup
+-,call_e8b0f7d352a415c25712ef0f4b9,agent_00490e668be8e0244229d1de5a,17273828980,919892845225,error,"6/7/2025, 6:31:35 PM","6/7/2025, 6:31:35 PM",-,preetiandhale1116@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_2b846b119b1032892cac3446624,agent_00490e668be8e0244229d1de5a,17273828980,919059697000,error,"6/7/2025, 6:31:34 PM","6/7/2025, 6:31:34 PM",-,kamtamlatha@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.11,call_1f631c45ab512fce84a12828917,agent_00490e668be8e0244229d1de5a,17273828980,919892845225,ended,"6/7/2025, 6:31:30 PM","6/7/2025, 6:32:16 PM",47,preetiandhale1116@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां.
+Agent: Wah Preeti ji, aapne toh sahi decision liya! Main aapko ek exclusive discount code de raha hoon: O-F-F-5. Isse aapko 5% ka extra discount milega.Main abhi aapko WhatsApp pe ek checkout link bhej raha hoon. Bas uspe click karke payment complete kar lijiye. Agar koi dikkat ho, toh mujhe zarur batayein!
+Agent: Preeti ji, bas 
+",https://dxc03zgurdly9.cloudfront.net/1f6798329f890a1b28b002c932ee639145177c56c03c28f9b2d2ac80e9686cad/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, contacted the user, Preeti, to inform her about an additional 5% discount on her cart items. The user accepted the offer, and the agent provided her with a discount code and a checkout link via WhatsApp for payment completion.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",47,user_hangup
+$0.01,call_a1f74608b185d1f03367b78c5b3,agent_00490e668be8e0244229d1de5a,17273828980,917758908032,ended,"6/7/2025, 6:31:23 PM","6/7/2025, 6:31:27 PM",4,khushiadekar10@gmail.com,"User: Your call 
+Agent: Hello, main 
+User: has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/83e8d22c035a5ab8f277ccc4937e4e722c73d47e5f0f693076e8a087411c8bd1/recording.wav,Neutral,False,"The user informed the agent that their call has been forwarded to voicemail, indicating that they were unable to connect with the intended recipient.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+-,call_89adf42b307e046b59f83e0e680,agent_00490e668be8e0244229d1de5a,17273828980,918840154184,error,"6/7/2025, 6:16:32 PM","6/7/2025, 6:16:32 PM",-,vinitapant1990@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_a859d349f13c720e6828165fdf0,agent_00490e668be8e0244229d1de5a,17273828980,917676454901,error,"6/7/2025, 6:01:35 PM","6/7/2025, 6:01:35 PM",-,sevakumari39@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_8986c25286c0581ee0f08405147,agent_00490e668be8e0244229d1de5a,17273828980,919891812070,error,"6/7/2025, 6:01:34 PM","6/7/2025, 6:01:34 PM",-,lalitanagar10749@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.02,call_f66d1586b3e81f1e0b33a5be01e,agent_00490e668be8e0244229d1de5a,17273828980,919461628777,ended,"6/7/2025, 6:01:25 PM","6/7/2025, 6:01:33 PM",9,Hridayesh.kaushik@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off 
+",https://dxc03zgurdly9.cloudfront.net/7606daed03dc59dda7daf39f50fa55041cfcbb868e9e4dce7d55f19d6aee03d0/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user regarding a product they added to their cart, offering an additional 5% discount for the day.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
 -,call_2f929b1a165083938eb87574041,agent_00490e668be8e0244229d1de5a,17273828980,917985224670,error,"6/7/2025, 5:46:34 PM","6/7/2025, 5:46:34 PM",-,yadavsonam1580@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_bc5ed8d67cfc977b81f5ca8a4c4,agent_00490e668be8e0244229d1de5a,17273828980,919632751868,ended,"6/7/2025, 5:46:25 PM","6/7/2025, 5:46:30 PM",6,mrshwethahappy@gmail.com,"Agent: Hello, main 
 User: Your call has been forwarded to voicemail. The person you are trying to reach is not available.
@@ -2397,19 +2415,3 @@ Agent: Dhairya! Meher here from Urban Yog. I noticed you were checking out the U
 -,call_b9b955c8ae9ffa60c76ff13796f,agent_013449690bb91bf30736266dc9,17273828980,919645097995,error,"6/2/2025, 7:00:16 PM","6/2/2025, 7:00:16 PM",-,reshmarajagopal123@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
 -,call_3e94388f26d3f5baab150d7a830,agent_013449690bb91bf30736266dc9,17273828980,919823424487,error,"6/2/2025, 6:59:46 PM","6/2/2025, 6:59:46 PM",-,nishasingh9823@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_4b518be5915c257f9f42249751d,agent_013449690bb91bf30736266dc9,17273828980,919967497775,error,"6/2/2025, 6:56:06 PM","6/2/2025, 6:56:06 PM",-,jmadhura282@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.05,call_c86b0ec075e857e0cadc82005bc,agent_013449690bb91bf30736266dc9,17273828980,919082984492,ended,"6/2/2025, 6:45:58 PM","6/2/2025, 6:46:19 PM",22,siddhi98m@gmail.com,"User: Hello. 
-User: Hello
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-Agent: हैलो सिद्धि!
-",https://dxc03zgurdly9.cloudfront.net/d26da6211f58b06557f63313eac409be1d9328be836f37d228c5451ce4bad3a0/recording.wav,Neutral,False,"The user initiated the call and the agent, Mehr from Urban Yog, greeted the user and informed them about an additional 5% discount on a product they added to their cart. The agent asked if the user would like to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",22,user_hangup
-$0.03,call_201af1efeba3cc01689e78550d7,agent_013449690bb91bf30736266dc9,17273828980,919082984492,ended,"6/2/2025, 6:40:31 PM","6/2/2025, 6:40:44 PM",13,siddhi98m@gmail.com,"User: Hello.
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
-User: हां?
-Agent: Yog से। मैंने देखा कि आपने 
-",https://dxc03zgurdly9.cloudfront.net/edabd417b8f9fabc2f38ec142b0d04f9b85ecb9b8439b51890c9d3ca46006898/recording.wav,Neutral,False,"The call begins with a greeting from the user and the agent, who identifies herself as Mehr from Urban. The agent seems to be reaching out to the user regarding a previous interaction or service related to Yog.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",13,user_hangup
-$0.03,call_917722607baf14ee67b138ccb9a,agent_013449690bb91bf30736266dc9,17273828980,919037032981,ended,"6/2/2025, 6:25:46 PM","6/2/2025, 6:25:58 PM",12,ashikack2004@gmail.com,"User: Hello.
-Agent: हैलो, मैं मेहर बोल रही 
-User: Ok.
-Agent: हूँ Urban Yog से। मैंने 
-",https://dxc03zgurdly9.cloudfront.net/7a379877795f3ff226983575626d2d139677f08f9fa2df44080a3119c72d9d69/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog. The conversation appears to be in the early stages, with no specific issues or tasks discussed yet.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",12,user_hangup
--,call_2e5ff789217ae845f7654417db0,agent_013449690bb91bf30736266dc9,17273828980,919037032981,error,"6/2/2025, 6:20:16 PM","6/2/2025, 6:20:16 PM",-,ashikack2004@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
