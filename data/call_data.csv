@@ -1,4 +1,36 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.09,call_c20c6c26fe1de12c152092adc23,agent_00490e668be8e0244229d1de5a,17273828980,919900532419,ended,"6/7/2025, 7:31:20 PM","6/7/2025, 7:31:59 PM",39,geethahlr35@gmail.com,"Agent: Hello, 
+User: Hello, मैं again हूं Triimfinity से. 
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki 
+User: मैंने देखा कि आपने
+Agent: Hello C 
+User: hello सही कहना 
+Agent: Geetha ji, main 
+User: जी मैं आर्य
+Agent: Hello 
+User: Hello सी गीता जी 
+Agent: C Geetha ji, main Aryan bol raha 
+User: मैं
+Agent: Hello C 
+User: hello जी गीता 
+Agent: Geetha ji, main Aryan bol 
+User: जी मैं आर्यन बोल रहा हूं.
+Agent: Hello C Geetha ji, main Aryan bol 
+User: आर्यन बोल 
+Agent: raha hoon Trimfinity 
+User: रहा हूं Triimfinity से.
+Agent: Hello 
+User: Hello संगीता जी. मैं 
+Agent: C Geetha ji, main Aryan bol raha hoon 
+User: आर्यन बोल रहा हूं trimfin.
+Agent: Hello C 
+User: Hello सी गीता जी, 
+Agent: Geetha ji, main Aryan bol raha 
+User: मैं
+",https://dxc03zgurdly9.cloudfront.net/55b84091b407eab695f044f0410b68dbc42d47e711d3ee1b708a48ec16ba1cbf/recording.wav,Negative,False,"The call appears to be a repetitive exchange where the user and agent struggle to establish clear communication. The user identifies themselves as Aryan from Trimfinity, but the conversation is marked by confusion and interruptions, leading to a lack of progress in addressing any specific issue.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",39,user_hangup
+$0.05,call_5689f2cdf59f9e65028f859e6ba,agent_00490e668be8e0244229d1de5a,17273828980,919845583009,ended,"6/7/2025, 7:31:16 PM","6/7/2025, 7:31:37 PM",21,kiranshetty604@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/67fcfc2a9d47611c7231a5f08b246a8735b2f9d1f2dc41fd609b268864a3c652/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",21,inactivity
+-,call_d5129e8f75d8ef3878711e067f6,agent_00490e668be8e0244229d1de5a,17273828980,917994419235,error,"6/7/2025, 7:16:32 PM","6/7/2025, 7:16:32 PM",-,shruthisankaran91@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.03,call_5c0f5aa71b0af6e18870261a19c,agent_00490e668be8e0244229d1de5a,17273828980,919970266032,ended,"6/7/2025, 6:46:17 PM","6/7/2025, 6:46:31 PM",14,kumarbapujagtap@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/d8a9c8ecfed11c744ac00c5125514c477f7b7b1057fa94e2ed942be96c8f72aa/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",14,user_hangup
 -,call_e8b0f7d352a415c25712ef0f4b9,agent_00490e668be8e0244229d1de5a,17273828980,919892845225,error,"6/7/2025, 6:31:35 PM","6/7/2025, 6:31:35 PM",-,preetiandhale1116@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
@@ -2412,5 +2444,3 @@ Agent: Hi
 User: hello.
 Agent: Dhairya! Meher here from Urban Yog. I noticed you were checking out the Urban Yog Electric Facial Hair 
 ",https://dxc03zgurdly9.cloudfront.net/8e0dd4941b22c7fccb214f696ba2210ab7bafd0b06803dfe806357130ce8a5d4/recording.wav,Neutral,False,"The call was initiated by the user but was forwarded to voicemail, indicating that the intended recipient was unavailable. The agent, Meher from Urban Yog, attempted to connect with the user regarding their interest in the Urban Yog Electric Facial Hair product.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",18,user_hangup
--,call_b9b955c8ae9ffa60c76ff13796f,agent_013449690bb91bf30736266dc9,17273828980,919645097995,error,"6/2/2025, 7:00:16 PM","6/2/2025, 7:00:16 PM",-,reshmarajagopal123@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
--,call_3e94388f26d3f5baab150d7a830,agent_013449690bb91bf30736266dc9,17273828980,919823424487,error,"6/2/2025, 6:59:46 PM","6/2/2025, 6:59:46 PM",-,nishasingh9823@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
