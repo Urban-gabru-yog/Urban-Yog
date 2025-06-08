@@ -1,4 +1,17 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.02,call_810fd4a935f9f7ea36faf729a59,agent_00490e668be8e0244229d1de5a,17273828980,919355334566,ended,"6/8/2025, 2:01:22 PM","6/8/2025, 2:01:32 PM",10,parulvashisht.sharma@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Hello.
+Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna 
+",https://dxc03zgurdly9.cloudfront.net/dde50b6f5c25618e66ea226bf0cb07e5ed3d4975b5d35feb34aef5398cc08f45/recording.wav,Neutral,True,The agent greeted the user and informed them about an additional 5% discount on a product they had added to their cart. The call seems to be focused on encouraging the user to claim the discount.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",10,user_hangup
+$0.02,call_238914a1d4ba3bd3d9731b13bb6,agent_00490e668be8e0244229d1de5a,17273828980,919852993803,ended,"6/8/2025, 2:01:10 PM","6/8/2025, 2:01:18 PM",9,Roshan.kr.sah99@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off 
+",https://dxc03zgurdly9.cloudfront.net/4b73c4fefb57868fff3ec77fb523f419db273682b185d9d2085bf39c763e14ce/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call appears to be an attempt to encourage the user to complete their purchase.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
+$0.02,call_f6af027e946e6b371dfa4a5ce4f,agent_00490e668be8e0244229d1de5a,17273828980,917015472494,ended,"6/8/2025, 2:01:05 PM","6/8/2025, 2:01:15 PM",10,vinshudhingra331998@gmail.com,"Agent: Hello, main Aryan 
+User: Hello.
+Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% 
+User: अच्छा है यह mummy.
+",https://dxc03zgurdly9.cloudfront.net/088d5cff4bd44931fcb01781889f797a29daab8d09b0f63967682ef15d272c87/recording.wav,Positive,True,"The agent from Trimfinity reached out to the user, Aryan, to inform them about an additional 5% discount on a product they added to their cart. The user responded positively, indicating satisfaction with the offer.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",10,user_hangup
 -,call_b8ad3942b6e8f68a3c1ec7cdca2,agent_00490e668be8e0244229d1de5a,17273828980,917206058448,error,"6/8/2025, 1:46:26 PM","6/8/2025, 1:46:26 PM",-,Amishibajaj011@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.04,call_288a5267412256337fe1546fd16,agent_00490e668be8e0244229d1de5a,17273828980,919791839620,ended,"6/8/2025, 1:46:11 PM","6/8/2025, 1:46:26 PM",15,littlexavier96@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/f3270b8e73a7529084a03b0a95b6944a4464e97c071d7d58d2eb14fc1b9bc30f/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",15,user_hangup
@@ -2460,9 +2473,3 @@ Agent: jaldi aapko mil jaye.
 User: है
 Agent: Perfect, ALKA! Main abhi aapko WhatsApp pe 
 ",https://dxc03zgurdly9.cloudfront.net/e7ebf62bbc111dba76b52d510388cd7f3e49d9cf020fe82212379c0d71c5a28a/recording.wav,Positive,True,"The call was initiated by the agent, Meher, from Urban Yog, who informed the user, Alka, about a 5% discount on a product in her cart. Alka inquired about the delivery date, and the agent confirmed that the product would be delivered within 4-6 days, ensuring a prompt delivery if the order was completed.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",95,user_hangup
-$0.06,call_b04285fa7980107a4d7d8116aca,agent_013449690bb91bf30736266dc9,17273828980,918521601955,ended,"6/2/2025, 8:45:28 PM","6/2/2025, 8:45:52 PM",24,prachirajprachiraj1@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-User: Hello.
-Agent: Hi Prachiraj! This is Meher calling from Urban Yog. I noticed 
-",https://dxc03zgurdly9.cloudfront.net/8a1908dca0ed76df2736fc9b5342b8db7acbaa9dfde7d697b1886c5557555e45/recording.wav,Neutral,True,"The agent, Meher from Urban Yog, reached out to the user, Prachiraj, to inform him about an additional 5% discount on a product he added to his cart. The call was initiated to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",24,user_hangup
--,call_47d8c888d2b22b713efeaa9ac56,agent_013449690bb91bf30736266dc9,17273828980,918412879940,error,"6/2/2025, 8:45:16 PM","6/2/2025, 8:45:16 PM",-,jagtapbhagyashri368@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
--,call_33efb6030cdb98f1f3c47c3ab81,agent_013449690bb91bf30736266dc9,17273828980,919833252737,error,"6/2/2025, 8:43:57 PM","6/2/2025, 8:43:57 PM",-,aishu2811@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
