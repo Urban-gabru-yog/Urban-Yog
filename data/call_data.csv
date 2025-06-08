@@ -1,4 +1,24 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.03,call_146315a77cff245a9b930ba7be5,agent_00490e668be8e0244229d1de5a,17273828980,918087402224,ended,"6/8/2025, 9:46:07 PM","6/8/2025, 9:46:20 PM",13,itissaket@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/a9ce3eeb2a6b708998fcf1c6b292e45bbc2ab38809fab8c9cc433652c33649a7/recording.wav,Neutral,True,"The user was greeted by the agent, Aryan, from Trimfinity, who informed them about an additional 5% discount available for a product they had added to their cart. The agent offered to help the user claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",13,user_hangup
+$0.05,call_8a1ce8acbaa85bc5430ba413a1c,agent_00490e668be8e0244229d1de5a,17273828980,919303513002,ended,"6/8/2025, 9:31:03 PM","6/8/2025, 9:31:22 PM",20,Basantikashyap545@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/403b05881e0c109eacbd1563d41918a924eb23cb624722f5e4c698b8cdcb81f9/recording.wav,Positive,True,"The user was greeted by the agent, who identified themselves as Aryan from Trimfinity. The agent informed the user about an additional 5% discount available for a product they had added to their cart and asked if the user would like to claim it.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",20,user_hangup
+-,call_bff6e7d6a300bdfd0c8c35f6aff,agent_00490e668be8e0244229d1de5a,17273828980,919650515235,error,"6/8/2025, 9:16:27 PM","6/8/2025, 9:16:27 PM",-,ssarohini@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.15,call_c3d29aa6c60df149c235fcca407,agent_00490e668be8e0244229d1de5a,17273828980,919830430333,ended,"6/8/2025, 9:16:20 PM","6/8/2025, 9:17:25 PM",65,spandita852001@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: कौन बोल रहे हो?
+Agent: अरे, नमस्ते स्पंदिता जी! मैं आर्यन बोल रहा हूँ Trimfinity से। मैंने देखा कि आपने Urban Yog Electric Facial Hair Remover For Women अपने कार्ट में ऐड किया था। बस ये पूछना था कि क्या आपको इसे खरीदने में कोई परेशानी हो रही है या कोई सवाल है?
+User: नहीं यह थोड़ा wait करिए देखती हूं आप. नहीं देखती हूं. उसको.
+Agent: अरे, कोई बात नहीं स्पंदिता जी! मैं समझ सकता हूँ कि कभी-कभी थोड़ा सोचने का मन करता है। वैसे, मैं आपको बता दूँ कि 
+User: Ok, thank you.
+Agent: ये प्रोडक्ट 
+User: नहीं 
+Agent: जी, 
+User: कोई फ़ायदा
+",https://dxc03zgurdly9.cloudfront.net/ffe3df4fe594a3bddcccad5cb32278b1df4fd7f733b1dd8f8700f697ba8b351e/recording.wav,Negative,False,"The call was initiated by an agent named Aryan from Trimfinity, who offered the user a 5% discount on a product in their cart. The user expressed uncertainty about making a purchase and ultimately declined the offer, indicating a lack of interest in the product.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",65,user_hangup
+$0.05,call_e620fd99e5bf081773259d55e45,agent_00490e668be8e0244229d1de5a,17273828980,919054226230,ended,"6/8/2025, 9:16:12 PM","6/8/2025, 9:16:34 PM",22,nencygajera69@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/a5095102d10a921decc2f5c54e75cea6ded6c3a5d32a253223863c0996336eae/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",22,user_hangup
 -,call_ee19e69ad7b669bb223a2dd0a27,agent_00490e668be8e0244229d1de5a,17273828980,919653272849,error,"6/8/2025, 9:01:25 PM","6/8/2025, 9:01:25 PM",-,vatikashrivastav95@yahoo.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.05,call_4e1c43a9dd70fb90abee96aa4b3,agent_00490e668be8e0244229d1de5a,17273828980,919048447544,ended,"6/8/2025, 8:46:16 PM","6/8/2025, 8:46:36 PM",20,divyaukn86@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/43d25dcea2a7eaee221427028701cffbfefd0bcc96be0cac74ff88cb78916d4b/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",20,user_hangup
@@ -2336,34 +2356,3 @@ $0.02,call_5d1ba28287da646c59702351f15,agent_013449690bb91bf30736266dc9,17273828
 -,call_24ad930d97a0cfa70e3b3e081cb,agent_013449690bb91bf30736266dc9,17273828980,917874051962,error,"6/3/2025, 12:36:47 PM","6/3/2025, 12:36:47 PM",-,chaudharydarshana2002@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.02,call_9bb424df44a8bc442d25de39614,agent_013449690bb91bf30736266dc9,17273828980,917020205599,ended,"6/3/2025, 12:16:38 PM","6/3/2025, 12:16:47 PM",9,mahekshaikh2953@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। 
 ",https://dxc03zgurdly9.cloudfront.net/8628561dd6485c2e0f8c8ee0c48e835c77c654604ec791faacb298b4123f3665/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
-$0.24,call_ea09b95c76d70a3d3ad42c0098e,agent_013449690bb91bf30736266dc9,17273828980,919284936029,ended,"6/3/2025, 12:01:08 PM","6/3/2025, 12:02:50 PM",102,Sagaradhav1990@gmail.com,"User: Hello 
-Agent: हैलो, मैं मेहर बोल रही हूँ 
-User: हां? हां.
-User: हां. 
-Agent: Urban Yog से! 😊 क्या मैं 
-User: बोलो. हां.
-Agent: Urban 
-User: आप कौन बोल रहे हैं?
-User: Urban 
-User: yox बोलो ना?
-Agent: हाय सागर!
-User: Hello
-Agent: मैं मेहर बोल रही हूँ Urban Yog से। 😊 आपने MakeMeeBold Hot Air Brush 1.0 by Urban Yog को 
-User: हां, 
-Agent: लगभग चेकआउट कर लिया था, तो सोचा पूछ लूं सब ठीक था ना? कोई confusion तो नहीं हुआ?
-User: हां नहीं नहीं नहीं.
-Agent: अरे, 
-User: सागर देख रहे हैं दो minute तक 
-Agent: कोई बात नहीं सागर! 😊 आपको प्रोडक्ट 
-User: order
-User: Hello.
-Agent: कोई टेंशन नहीं सागर! 😊 आराम से सोच लीजिए। वैसे ये MakeMeeBold Hot Air Brush 1.0 आपकी सुबह की ready time को इतना आसान बना देगा—dry और style एक ही step में! अगर कोई confusion हो, तो मुझे बताइए। मैं मदद कर सकती हूँ।
-User: बोलो.
-User: नहीं नहीं, order किया है ना वह cash on delivery का order किया है डाला है.
-Agent: ओह, अच्छा सागर! अगर आपने Cash on Delivery का ऑप्शन चुना है, तो 
-User: हां. नहीं नहीं.
-Agent: सब सेट है। 😊 कोई 
-Agent: ठीक है सागर, कोई दिक्कत हो तो बस बता दीजिए। मैं यहीं हूँ आपकी मदद के लिए। 😊
-User: ठीक है
-User: है.
-",https://dxc03zgurdly9.cloudfront.net/2a650de46869c9cd66034b818705294321d36115d6186ec0b25fe5b1ae64edf4/recording.wav,Positive,True,"The user, Sagar, was contacted by the agent, Mehr from Urban Yog, to confirm the status of his order for the MakeMeeBold Hot Air Brush 1.0. Sagar confirmed that he had placed a cash on delivery order and expressed no confusion regarding the order process.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",102,user_hangup
