@@ -1,4 +1,24 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_dac6fef974be7aa6a0b6645c0b3,agent_013449690bb91bf30736266dc9,17319039218,919884233854,error,"6/9/2025, 7:45:58 PM","6/9/2025, 7:45:58 PM",-,jayasundhariaps@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_9d351b62d08b1b5a3554dd1a4d7,agent_013449690bb91bf30736266dc9,17319039218,919487028305,error,"6/9/2025, 7:34:31 PM","6/9/2025, 7:34:31 PM",-,prithvi.mkumar283@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+$0.02,call_3d6ceef3c6fc679b9d364e50479,agent_013449690bb91bf30736266dc9,17319039218,918606881123,ended,"6/9/2025, 7:30:37 PM","6/9/2025, 7:30:46 PM",9,manhamarwa0@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog 
+",https://dxc03zgurdly9.cloudfront.net/ac7f9e5e82c4fd1feb5d9b04f3a435b557fc0ad493a42081d6ea320f1f1b808e/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
+$0.02,call_cadc7080544b5d73badc25e1e0b,agent_013449690bb91bf30736266dc9,17319039218,919600593395,ended,"6/9/2025, 7:15:55 PM","6/9/2025, 7:16:03 PM",9,nivethasanthosh24@gmail.com,"User: Hello. 
+Agent: हैलो, मैं 
+User: Hello.
+Agent: मेहर बोल रही हूँ Urban Yog 
+",https://dxc03zgurdly9.cloudfront.net/fe8a3cce7e4274f95c292f2d4d702cfd5c1f533bc0cbe8938872bb29a9ab44fd/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent responded in Hindi, introducing herself as Meher from Urban Yog. The conversation appears to be in the early stages with no clear resolution or task completion yet.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
+-,call_97ae2a6814078df154d49f169f7,agent_013449690bb91bf30736266dc9,17319039218,917439138030,error,"6/9/2025, 7:15:48 PM","6/9/2025, 7:15:48 PM",-,anishmondal512@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+$0.08,call_0d8021e193023c060811760acf7,agent_013449690bb91bf30736266dc9,17319039218,917439138030,ended,"6/9/2025, 7:15:34 PM","6/9/2025, 7:16:06 PM",33,anishmondal512@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: (inaudible speech)
+Agent: ""हैलो जयश्री!
+User: हां बोलिए. हां बोलिए.
+Agent:  मैं मेहर बोल रही हूँ Urban 
+Agent: ""अरे वाह, जयश्री! कैसे हो आप? मैं Urban Yog से 
+",https://dxc03zgurdly9.cloudfront.net/0a3e9d1d1c65d6451fe785a1b9f6e99b76bf51d9ed5a78c944587bb34b0bcee0/recording.wav,Neutral,False,"The agent, Mehr, from Urban Yog reached out to the user, Jayashree, to inform her about an additional 5% discount on a product she added to her cart. The conversation started with a greeting and an offer, but the user's response was inaudible, indicating a potential communication issue.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",33,user_hangup
+$0.02,call_0964c1741a4fa048de8275a6d71,agent_013449690bb91bf30736266dc9,17319039218,918956367520,ended,"6/9/2025, 7:00:41 PM","6/9/2025, 7:00:49 PM",9,Sachinachavan99@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। 
+",https://dxc03zgurdly9.cloudfront.net/29a0913a24e4042a16739529489c3e66cf787060f063a744fe53726612ba13ba/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog. The conversation appears to be in Hindi, indicating a potential service related to yoga or wellness.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
 -,call_462db78792b79bace5c36c6be10,agent_013449690bb91bf30736266dc9,17319039218,919399178216,error,"6/9/2025, 6:49:36 PM","6/9/2025, 6:49:36 PM",-,divyagovind7@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_ebe5ecea426965da3bd9374f89c,agent_013449690bb91bf30736266dc9,17319039218,917093068493,ended,"6/9/2025, 6:45:42 PM","6/9/2025, 6:45:46 PM",4,dollyspandana2002@gmail.com,"User: Your call has been forwarded to voicemail.
 ",https://dxc03zgurdly9.cloudfront.net/54a2ba9bf311fe846ea123b28cea9bc135fe4fbb04edf55a2bb87fe4f350cf7c/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach a live agent.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
