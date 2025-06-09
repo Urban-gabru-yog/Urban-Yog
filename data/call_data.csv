@@ -1,4 +1,92 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_356c380aac8846b5fe34ec4813a,agent_013449690bb91bf30736266dc9,17319039218,917097796666,error,"6/9/2025, 6:00:56 PM","6/9/2025, 6:00:56 PM",-,mohiniadhatrao7@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_26de1986cf405a6be7d3e1e5654,agent_013449690bb91bf30736266dc9,17319039218,919960103917,error,"6/9/2025, 5:45:58 PM","6/9/2025, 5:45:58 PM",-,Reshmagore758@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.32,call_a883bc6bd617e158e0e19e7659f,agent_013449690bb91bf30736266dc9,17319039218,918140010419,ended,"6/9/2025, 5:45:44 PM","6/9/2025, 5:48:02 PM",138,harwanimuskan123@gmail.com,"User: Hello. हां 
+Agent: हैलो, 
+User: कौन?
+Agent: मैं मेहर बोल रही 
+User: Yes? Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। क्या मैं Payal से बात कर रही हूँ?
+User: yes.
+User: हां हां हां.
+User: Hello.
+Agent: अरे वाह, 
+User: हां 
+Agent: Hi Payal! मैं बस ये पूछने के लिए कॉल कर रही थी कि आपने MakeMeeBold Hot Air Brush 1.0 by Urban Yog को almost checkout किया था, तो सोचा पूछ लूं सब ठीक था ना?
+User: hello.
+User: हां हां. हां नहीं कोई confusion नहीं है just वह 06:60 rupees COD के है ना इसलिए मैं बस मेरे घर पर एक बार confirm कर लूं फिर लूं. Then I will order it.
+Agent: ओह, 
+User: Yes.
+Agent: समझ गई Payal! आप बस घर पर confirm करना चाह रही हैं, है ना? कोई बात नहीं, लेकिन एक बात बताऊं—ये MakeMeeBold Hot Air Brush ना, इतना काम आसान कर देता है! एक ही बार में dry और style, और subah ready होने का stress आधा हो जाता है।  
+
+वैसे, अगर आप चाहें तो मैं आज के लिए price lock कर सकती हूं। और हां, अगर आप UPI से payment करेंगी तो 5% discount के साथ extra 2% का discount भी मिलेगा। क्या मैं checkout link भेज दूं WhatsApp पर, ताकि जब आप ready हों, बस click कर लें?
+User: Yes.
+User: But
+User: But UPI is से नहीं मैं cash on delivery ही रखूंगी.
+Agent: कोई बात नहीं, Payal!
+User: Ok.
+Agent:  Cash on Delivery भी बिल्कुल ठीक है। 😊 बस इतना ध्यान रखें कि ये product काफी popular है, 
+User: Yes. अच्छा अच्छा.
+Agent: ठीक है, Payal! मैं अभी WhatsApp पर checkout link भेज देती हूँ। जब भी आप ready हों, बस click करके order complete कर लीजिए। कोई भी confusion हो तो आप मुझसे या customer support से पूछ सकती हैं। 😊  
+
+आपका दिन अच्छा जाए!
+User: (inaudible speech)
+User: Yes sir.
+User: Ok.
+User: Thank you.
+Agent: आपका बहुत-बहुत धन्यवाद, Payal! 😊 कोई भी सवाल हो तो बेझिझक पूछिएगा। Have a great day!
+User: Yes yes.
+Agent: ठीक है, Payal! 😊 मैंने WhatsApp 
+",https://dxc03zgurdly9.cloudfront.net/5367145a7b1b95e1e857a5de891c9733442f19fde854a63ee76bc20c7d9ce83c/recording.wav,Positive,True,"The user, Payal, was contacted by the agent, Mehr, regarding a product checkout for the MakeMeeBold Hot Air Brush. Payal confirmed her interest but wanted to verify the cash on delivery option before placing the order. The agent assured her and offered to send a checkout link via WhatsApp for convenience.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",138,user_hangup
+$0.40,call_f956c70e7a0cb8e4dd8ecee6646,agent_013449690bb91bf30736266dc9,17319039218,916204211517,ended,"6/9/2025, 5:30:56 PM","6/9/2025, 5:33:45 PM",169,arvindksinghchandwa@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+User: जी,
+User: कैसे claim करना होगा?
+Agent: अरे वाह, Anuradha! तो आप interested हैं!
+User: जी?
+Agent:  😊 Claim करना बहुत आसान है। बस checkout करते वक्त code डालना होगा: O – F – F – 5। इससे आपको 5% की छूट मिल जाएगी।  
+
+और अगर आप UPI से पेमेंट करती हैं, तो आपको 2% का extra discount भी मिलेगा। मतलब total savings और भी बढ़ जाएंगी!मैं चाहूं तो 
+User: कितना बढ़ जाएगा?
+Agent: अच्छा सवाल, Anuradha! 😊 तो देखिए, Urban Yog Callus Remover की कीमत ₹849 है।  
+
+5% discount से ₹42.45 की बचत होगी। और अगर आप UPI से पेमेंट करती हैं, तो 2% extra यानी ₹16.98 और बचेंगे।  
+
+तो total savings ₹59.43 हो जाएंगी, और आपको ये सिर्फ ₹789.57 में मिल जाएगा।  
+
+कैसा लग रहा है? मैं checkout link भेज दूं?
+User: नहीं मत भेजिए अब बाद में करेंगे.
+Agent: कोई बात नहीं, Anuradha! 😊 जब भी आपको लगे कि ready हैं, बस checkout कर लीजिए।  
+
+वैसे, एक छोटी सी बात—ये product काफी popular है और पिछले हफ्ते out of stock हो गया था। अगर आप चाहें, तो मैं आज के लिए price lock कर सकती हूँ।  
+
+आपको जब भी लगे, बस मुझे बताइए। और हाँ, कोई confusion हो तो मैं यहाँ हूँ!
+User: ठीक है.
+Agent: ठीक है, Anuradha! 😊 मैं आपको disturb नहीं करूंगी, लेकिन अगर आपको कोई 
+User: जी 
+Agent: भी 
+User: कोई सवाल नहीं.
+User: Thank you.
+Agent: ठीक है, Anuradha! 😊 बस इतना कहना था कि जब भी आप ready हों, checkout कर लीजिए। और अगर कभी कोई सवाल हो, तो बेझिझक पूछिए।  
+
+आपका दिन बहुत अच्छा जाए!
+User: Ok.
+Agent: आपका भी धन्यवाद, Anuradha! 😊 अगर 
+User: आपका देखो. 
+Agent: कभी मदद की ज़रूरत हो, 
+User: Ok ok.
+Agent: हाहा, ठीक है Anuradha! 😄 कोई भी सवाल हो, तो बस पूछ लेना। आपसे बात करके अच्छा लगा। अपना ध्यान रखना! Bye-bye!
+User: Hi भाई.
+Agent: अरे वाह, भाई बोल दिया! 😄 क्या हाल हैं, Anuradha? कुछ 
+",https://dxc03zgurdly9.cloudfront.net/f262e387b68314ddf8ec127d021be5171066ca113ba1be6d76ab4b3c3e4e664c/recording.wav,Neutral,True,"The call was about a promotional offer from Urban Yog, where the agent informed the user, Anuradha, about a 5% discount on a product in her cart and an additional 2% discount for UPI payments. Anuradha showed interest but decided to postpone the purchase, and the agent offered to lock the price for her.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",169,user_hangup
+$0.04,call_e06bd60952487816d9f0f42d8de,agent_013449690bb91bf30736266dc9,17319039218,919718938203,ended,"6/9/2025, 5:30:38 PM","6/9/2025, 5:30:52 PM",15,priyankanonukayra1@gmail.com,"User: Hello. 
+Agent: हैलो, मैं मेहर बोल रही 
+User: हां जी. Hello हां जी.
+",https://dxc03zgurdly9.cloudfront.net/35ba69e87dda163d2d765d4680a401f54275e8742ef20520f9356d2037205bef/recording.wav,Neutral,False,"The user greeted the agent, who introduced herself as Mehr in Hindi. The conversation began with a friendly exchange, but no specific issues or tasks were discussed in the provided transcript.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",15,user_hangup
+$0.06,call_f4e01bff69d1673ca7b566d58be,agent_013449690bb91bf30736266dc9,17319039218,916204211517,ended,"6/9/2025, 5:15:47 PM","6/9/2025, 5:16:11 PM",24,arvindksinghchandwa@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi, I’m Meher calling from Urban Yog! I noticed you added the Urban Yog 
+",https://dxc03zgurdly9.cloudfront.net/324ba71ef4cf7be9f9295cd9cefc4abe09ab60b31998d52d9890e117b178ece6/recording.wav,Neutral,False,"The user received a call from Meher at Urban Yog regarding a product they added to their cart, and was informed about an additional 5% discount available for today. The agent offered to help the user claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",24,user_hangup
 $0.01,call_78a70e411f15e331d5f3e742e3f,agent_013449690bb91bf30736266dc9,17319039218,918800580523,ended,"6/9/2025, 4:45:52 PM","6/9/2025, 4:45:54 PM",3,Imranugaur@gmail.com,"User: Forward to voicemail.
 ",https://dxc03zgurdly9.cloudfront.net/3925a3ac0b0fcb315961d36128c7994f741de6ec69a82c9cfbfa10dc4d96381e/recording.wav,Neutral,True,The user requested to forward the call to voicemail.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",3,voicemail_reached
 $0.02,call_8e7b4b08c4bb454bd153b82b56a,agent_013449690bb91bf30736266dc9,17319039218,919149296495,ended,"6/9/2025, 4:45:45 PM","6/9/2025, 4:45:54 PM",10,shristighildiyal06@gmail.com,"User: Hello.
