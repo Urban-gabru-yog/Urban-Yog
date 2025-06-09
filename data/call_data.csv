@@ -1,4 +1,25 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_88d04b62421f82437a05dc79449,agent_013449690bb91bf30736266dc9,17319039218,917030964509,error,"6/9/2025, 2:45:56 PM","6/9/2025, 2:45:56 PM",-,iamprajakta9@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.19,call_bf8d9fe9aadfe6fd6ad43f25de1,agent_013449690bb91bf30736266dc9,17319039218,919605734935,ended,"6/9/2025, 2:45:37 PM","6/9/2025, 2:46:59 PM",82,niji_kv@rediffmail.com,"User: Hello
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi 
+User: क्या product?
+Agent: Niji! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Callus Remover almost checkout kiya tha, toh socha puchh loon sab theek thaak tha na?
+User: ऐकह hello
+Agent: अरे हाँ, Niji!
+User: Ok.
+Agent:  आपने Urban Yog Callus Remover almost checkout किया था—वो जो घर बैठे callus हटाने वाला turbo treatment है, जिससे आपके पैर spa जैसे soft बन जाते हैं। बस यही पूछना था कि आपको product पसंद आया था ना?
+Agent: Great, Niji!
+User: I only, I only 
+Agent:  Aapko product pasand toh aaya tha 
+User: order हां I only order Crrr only.
+Agent: Ohh, 
+User: Hello.
+Agent: samajh gayi Niji! Aapne bas socha tha ki baad mein order karenge? Koi confusion ya hesitation tha kya? Bataiye, main help kar sakti hoon!
+User: Ok ok ok.
+Agent: Theek hai, Niji!
+",https://dxc03zgurdly9.cloudfront.net/13de1d5631c5867c9b0b8b4849961aeb93eb22f2c745d62cf857643857b6ec35/recording.wav,Neutral,False,"The user was contacted by the agent from Urban Yog regarding a product they had added to their cart, the Urban Yog Callus Remover. The agent offered a 5% discount and inquired if the user was satisfied with the product, but the user seemed hesitant about placing the order.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",82,user_hangup
+-,call_cf94b55446d4c5a4117d0746a60,agent_013449690bb91bf30736266dc9,17319039218,917869309198,error,"6/9/2025, 2:30:56 PM","6/9/2025, 2:30:56 PM",-,gautamkashish558@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_39e1cfa6a80b42183dcb1722be2,agent_013449690bb91bf30736266dc9,17319039218,919725014760,error,"6/9/2025, 2:15:56 PM","6/9/2025, 2:15:56 PM",-,kinjal20patel@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.02,call_4dc4ec95f42542c2819bc9868d9,agent_013449690bb91bf30736266dc9,17319039218,917814385711,ended,"6/9/2025, 2:15:41 PM","6/9/2025, 2:15:51 PM",10,Pk5124217@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog 
 ",https://dxc03zgurdly9.cloudfront.net/223944a41890f8570ac8171a2e67c17240a9ba12235086853cacba0045368baf/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",10,user_hangup
