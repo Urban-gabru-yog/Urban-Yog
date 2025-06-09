@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_462db78792b79bace5c36c6be10,agent_013449690bb91bf30736266dc9,17319039218,919399178216,error,"6/9/2025, 6:49:36 PM","6/9/2025, 6:49:36 PM",-,divyagovind7@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_ebe5ecea426965da3bd9374f89c,agent_013449690bb91bf30736266dc9,17319039218,917093068493,ended,"6/9/2025, 6:45:42 PM","6/9/2025, 6:45:46 PM",4,dollyspandana2002@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/54a2ba9bf311fe846ea123b28cea9bc135fe4fbb04edf55a2bb87fe4f350cf7c/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach a live agent.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.06,call_8b9e023b1011d354c4446e6b26e,agent_013449690bb91bf30736266dc9,17319039218,917278913787,ended,"6/9/2025, 6:15:49 PM","6/9/2025, 6:16:13 PM",24,rishavduttablackshot@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: कोई code है क्या?
+Agent: हाँ, बिल्कुल!
+",https://dxc03zgurdly9.cloudfront.net/26f8110986fbeacaed9c7d4c948fed0138232fd8e4cc8ef88805455588619164/recording.wav,Positive,True,"The user initiated the call and the agent, Mehr from Urban Yog, informed the user about a 5% discount available for a product added to the cart. The user inquired about a code for the discount, indicating interest in the offer.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",24,user_hangup
 -,call_356c380aac8846b5fe34ec4813a,agent_013449690bb91bf30736266dc9,17319039218,917097796666,error,"6/9/2025, 6:00:56 PM","6/9/2025, 6:00:56 PM",-,mohiniadhatrao7@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_26de1986cf405a6be7d3e1e5654,agent_013449690bb91bf30736266dc9,17319039218,919960103917,error,"6/9/2025, 5:45:58 PM","6/9/2025, 5:45:58 PM",-,Reshmagore758@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.32,call_a883bc6bd617e158e0e19e7659f,agent_013449690bb91bf30736266dc9,17319039218,918140010419,ended,"6/9/2025, 5:45:44 PM","6/9/2025, 5:48:02 PM",138,harwanimuskan123@gmail.com,"User: Hello. हां 
