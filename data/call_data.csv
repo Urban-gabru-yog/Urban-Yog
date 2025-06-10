@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.08,call_0e6b6a6fefddaa8e68a5343d0f5,agent_013449690bb91bf30736266dc9,17319039218,919633080448,ended,"6/10/2025, 3:45:55 PM","6/10/2025, 3:46:31 PM",36,lachulakshmi367@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+Agent: Hi Sethulakshmi! This is Meher calling from 
+User: हां शायद.
+Agent: Urban Yog. I noticed you almost checked out the Urban Yog 
+User: Ok, I, no.
+Agent: कोई बात नहीं, सेथुलक्ष्मी!
+",https://dxc03zgurdly9.cloudfront.net/ea683c2e6cff9fb4e0f911897c5bba66c9b84bee89507ec4d118f0d431f7592e/recording.wav,Neutral,False,"The agent, Meher from Urban Yog, reached out to the user, Sethulakshmi, to inform her about an additional 5% discount on a product she added to her cart. However, the user expressed disinterest in the offer and did not proceed with the purchase.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",36,user_hangup
+$0.01,call_5f20e9352378eda0b4a1f29d9f0,agent_013449690bb91bf30736266dc9,17319039218,919990883183,ended,"6/10/2025, 3:31:07 PM","6/10/2025, 3:31:10 PM",4,mkashyap379@gmail.com,"User: Call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/28d40daa0225caf3a486f93dada1f9f6026927af45ea4e1f36fc62ec1c39e455/recording.wav,Neutral,False,"The user attempted to make a call, but it was forwarded to voicemail, indicating that the intended recipient was unavailable to take the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.01,call_e66bdde37de980bb6c0b014da06,agent_013449690bb91bf30736266dc9,17319039218,918629859557,ended,"6/10/2025, 3:16:04 PM","6/10/2025, 3:16:07 PM",4,meghamanish9557@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/8e0122c3bb1682c981467531581573d37deaff2c1ab35ee1a50d77389324cf7d/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that the intended recipient is unavailable to take the call at the moment.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
 -,call_b3a52caf3da451f2d76d5eadf12,agent_013449690bb91bf30736266dc9,17319039218,916369414153,error,"6/10/2025, 3:01:14 PM","6/10/2025, 3:01:14 PM",-,drpragadheesatheesh@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.03,call_cfe4de3eaa24a81f7ddcd86c3b3,agent_013449690bb91bf30736266dc9,17319039218,918467059497,ended,"6/10/2025, 3:01:00 PM","6/10/2025, 3:01:11 PM",12,awantikawasthi609@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
 ",https://dxc03zgurdly9.cloudfront.net/6673629b25a021653209c5519fb9cdb0422bd7e8204b264538ed294bd581c569/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or its outcome.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",12,user_hangup
