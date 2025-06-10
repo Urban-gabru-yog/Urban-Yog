@@ -1,4 +1,26 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_b075d44f4d038600d56aaaa8904,agent_013449690bb91bf30736266dc9,17319039218,917385497982,error,"6/10/2025, 11:04:56 AM","6/10/2025, 11:04:56 AM",-,pranalipatil1397@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_b10e30e304dcbbd8a1eb50451b6,agent_013449690bb91bf30736266dc9,17319039218,918921310732,error,"6/10/2025, 11:04:55 AM","6/10/2025, 11:04:55 AM",-,athulyadevanand@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.20,call_8f14b89d42f68efdd03ae71f0cd,agent_013449690bb91bf30736266dc9,17319039218,917569909938,ended,"6/10/2025, 11:04:37 AM","6/10/2025, 11:06:02 AM",86,beereddycherry2005@gmail.com,"User: Hello. 
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+User: Yes. हां?
+User: Hello yes?
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। 
+User: What you 
+Agent: Hi 
+User: want?
+Agent: Hi 
+User: Hello?
+Agent: Adhuri! This is Meher calling from Urban Yog. I noticed you almost checked out the MakeMeeBold 3-in-1 Hot Air Brush for ₹2049. Just wanted to check in—everything okay?
+User: I can't understand what you are telling. Can you repeat again?
+Agent: Of course, Adhuri! Hi, I’m Meher from Urban Yog. You had added the MakeMeeBold 3-in-1 Hot Air Brush to your cart for ₹2049 but didn’t complete the checkout. I just wanted to check if everything was okay or if you had any questions about the product?
+User: Which which what which website?
+Agent: Oh, no worries, Adhuri! I’m calling from Urban Yog—you were browsing our website and added the MakeMeeBold 3-in-1 Hot Air Brush to your cart. It’s that amazing styling tool that dries, 
+User: (inaudible speech)
+Agent: straightens, and adds volume in one go. Does that ring a bell?
+",https://dxc03zgurdly9.cloudfront.net/5f65c0edf1aa8deb3a3cbe44b371f58fcdbf6ba56d9041924c0e2429dd9c990c/recording.wav,Neutral,False,"The user received a call from Meher at Urban Yog regarding an abandoned cart item, the MakeMeeBold 3-in-1 Hot Air Brush. The user seemed confused about the call and the product mentioned, prompting the agent to repeat information and clarify the context of the call.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",86,user_hangup
+$0.01,call_59d4629503a6c59f8e2a9bbffc0,agent_013449690bb91bf30736266dc9,17319039218,919395350555,ended,"6/10/2025, 11:01:06 AM","6/10/2025, 11:01:09 AM",4,dara.kshami0555@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/9d550680ae7c00bcd2198637a4b9eb410ca2ec6bb6cd356a192f0c64ac3d5bce/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach the intended recipient directly.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
 -,call_31776fdd81ea06b42ace423a2b2,agent_013449690bb91bf30736266dc9,17319039218,919003080765,error,"6/10/2025, 10:46:16 AM","6/10/2025, 10:46:16 AM",-,prathipa64@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.05,call_8404e8d7aa27afd364d1d0d190a,agent_013449690bb91bf30736266dc9,17319039218,918296191535,ended,"6/10/2025, 10:46:13 AM","6/10/2025, 10:46:35 AM",23,janefernandes854@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
