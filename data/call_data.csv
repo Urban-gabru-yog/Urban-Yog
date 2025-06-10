@@ -1,4 +1,71 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_8e439b2e3ae25e41ae48c8701a8,agent_013449690bb91bf30736266dc9,17319039218,919654916686,error,"6/10/2025, 12:46:15 PM","6/10/2025, 12:46:15 PM",-,chhabra1607@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_dcf5315b56c91b73f8ba8f41772,agent_013449690bb91bf30736266dc9,17319039218,917269066246,error,"6/10/2025, 12:46:14 PM","6/10/2025, 12:46:14 PM",-,sanjana1314.smn@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.07,call_6d751d0aecf98f8d0f171ebbf90,agent_013449690bb91bf30736266dc9,17319039218,918304929841,ended,"6/10/2025, 12:35:00 PM","6/10/2025, 12:35:28 PM",28,gayathrisanthosh414@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi Gayathri! This is Meher calling from Urban Yog. I noticed you almost checked out the MakeMeeBold 3-in-1 Hot Air Brush for ₹2199. 
+",https://dxc03zgurdly9.cloudfront.net/7b6a9b1403fb1afe1b5814922d599bd9b8947659d11c044fe767d390ed907fa9/recording.wav,Neutral,False,"The agent, Meher from Urban Yog, reached out to the user, Gayathri, to inform her about an additional 5% discount on the MakeMeeBold 3-in-1 Hot Air Brush that she had added to her cart. The call aimed to encourage the user to claim the discount and complete her purchase.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",28,user_hangup
+$0.01,call_eba0e154160bdee25468e242147,agent_013449690bb91bf30736266dc9,17319039218,919390428454,ended,"6/10/2025, 12:34:50 PM","6/10/2025, 12:34:53 PM",4,mounicaventeru@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/badf7de8070422154af439b126b8b7ab40feda6e5d0ded302edab0dbe4cd4576/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach the intended recipient directly.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.37,call_9d9df1681f11937983fc090b005,agent_013449690bb91bf30736266dc9,17319039218,918871872094,ended,"6/10/2025, 12:34:48 PM","6/10/2025, 12:37:28 PM",160,omtekwani829@gmail.com,"User: Hello.
+Agent: Hi Mahi! Main Meher bol rahi hoon Urban Yog 
+User: हां. जी. ठीक 
+Agent: se. Kaise ho aap? 😊  
+
+Aapne 
+User: हूं. Hello. अभी बंद तक तो?
+User: Hello?
+Agent: Haanji Mahi, main yahin hoon!
+User: hello हां बोलिए.
+Agent:  😊 Aapne MakeMeeBold 3-in-1 
+Agent: Haanji Mahi! Main Meher bol rahi hoon Urban Yog se. Aapne MakeMeeBold 3-in-1 Hot Air 
+User: हां.
+Agent: Brush apne cart mein add kiya tha, par checkout complete nahi kiya. Socha puchh loon, sab theek thaak tha na? Koi confusion ya hesitation toh nahi?
+User: Cash on delivery नहीं हो रहा था वह.
+Agent: Ohh, samajh gayi 
+User: Cash on 
+Agent: Mahi! Aapko cash on delivery 
+User: delivery. हां.
+Agent: Haan Mahi, samajh gayi! Abhi ke liye humara MakeMeeBold 3-in-1 Hot Air Brush sirf prepaid options pe available hai. Par ek baat bataun? Agar aap UPI se payment karti hain, toh 5% ke saath ek extra 2% ka discount bhi milta hai. Total savings aur bhi better ho jaayegi!Aapko payment process mein help chahiye toh main guide kar sakti hoon. Kya lagta hai?
+User: नहीं मुझे cash on delivery चाहिए था.
+Agent: Samajh gayi, Mahi! Aapko cash on delivery ka option chahiye tha. Filhaal ye product sirf prepaid pe hi available hai, lekin main aapko ek chhoti si tip doon? Agar aap online payment karti hain, toh aapko ek exclusive 5% discount milega code ke saath: O – F – F – 5. Aur agar UPI use karein, toh extra 2% ka discount bhi add ho jaayega.Aapko lagta hai ki aap try karengi? Main aapko process samjha 
+User: Right. 
+Agent: deti hoon, bilkul easy hai!
+User: नहीं नहीं, नहीं try नहीं करना fresh. Phone पर नहीं try करना.
+Agent: Bilkul theek, Mahi! Main aapko bilkul force nahi karungi. 😊 Aap jab comfortable feel karein, tabhi try karna. Waise main aapko WhatsApp pe checkout link bhej deti hoon, taaki aap araam se kabhi bhi dekh sako. Koi confusion ho toh mujhe ya customer support ko zarur batana. Theek hai?
+User: ठीक है.
+Agent: Perfect, Mahi! 😊 Main abhi aapko WhatsApp 
+",https://dxc03zgurdly9.cloudfront.net/2a6ca836840a253b50b386983afc16352f526ef7ddd31473df75269630409d06/recording.wav,Neutral,True,"The user, Mahi, was contacted by the agent regarding an item in her cart, the MakeMeeBold 3-in-1 Hot Air Brush. Mahi expressed a preference for cash on delivery, which is currently not available for the product, leading the agent to suggest online payment options with discounts. The agent offered to send a checkout link via WhatsApp for Mahi's convenience.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",160,user_hangup
+$0.01,call_bc4915b0be31dcb4da68371f323,agent_013449690bb91bf30736266dc9,17319039218,917527832833,ended,"6/10/2025, 12:31:07 PM","6/10/2025, 12:31:10 PM",4,Khushiofficial0@gmail.com,"User: Your call has been for voicemail.
+",https://dxc03zgurdly9.cloudfront.net/b7e669cc95ee7889a2fa59975e52622752a0f9773789cf940d0dc1849e911521/recording.wav,Neutral,False,"The user indicated that the call has been directed to voicemail, suggesting that they were unable to connect with a live agent or receive assistance during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.10,call_fd97b7dedfd63582ec5434da116,agent_013449690bb91bf30736266dc9,17319039218,918709511919,ended,"6/10/2025, 12:31:01 PM","6/10/2025, 12:31:45 PM",44,shaguftaperween485@gmail.com,"User: Hello. 
+Agent: हैलो, मैं मेहर बोल 
+User: और?
+Agent: रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया 
+User: कासी के लिए?
+User: कहां order किए थे?
+User: Hello
+Agent: अरे नहीं, Ali! आपने Urban Yog की वेबसाइट पर MakeMeeBold Hot Air Brush 1.0 कार्ट में ऐड किया था, लेकिन ऑर्डर पूरा नहीं किया। तो बस सोचा पूछ लूं, सब ठीक था ना?
+",https://dxc03zgurdly9.cloudfront.net/729338b4a8cee129846c6856e1d7de93cb41dcc0a3e6fc0208d0e07fa5914c55/recording.wav,Neutral,True,The user was contacted by the agent from Urban Yog regarding an incomplete order for the MakeMeeBold Hot Air Brush 1.0 that was added to the cart. The agent checked in to see if everything was okay with the user and their shopping experience.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",44,user_hangup
+$0.29,call_72b2c4526b275a9abf5160e93a6,agent_013449690bb91bf30736266dc9,17319039218,916397939277,ended,"6/10/2025, 12:30:51 PM","6/10/2025, 12:32:57 PM",126,rastogikarishma570@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Ma'am मेरे से cash on delivery मंगाना चाहती हूं.
+Agent: अरे हां, Karishma! Cash on Delivery का ऑप्शन भी available है. Aapko बस mujhe confirm karna hai, aur main aapka order place karwa dungi.Waise ek baat bataun? Agar aap online payment karti hain, toh 5% ke saath ek extra 2% ka discount bhi milta hai. Matlab aur bhi 
+User: नहीं नहीं.
+Agent: savings ho jaayengi!Aapko jo convenient lage, woh choose kar sakti hain. Bataiye, main aapka order kaise proceed karoon?
+User: Ma'am ma'am मुझे cash on delivery मंगवाना है.
+Agent: Bilkul Karishma! Cash on Delivery par hi order place kar dete hain. Main abhi aapka order confirm karwa deti hoon. Aap bas delivery ke time payment ready rakhna. 😊
+
+Aur 
+User: Ok.
+Agent: haan, agar kabhi future mein online payment try karna ho, toh extra discount ka option hamesha hai. Main abhi aapko WhatsApp pe confirmation bhejti hoon. Koi aur sawal ho toh zarur puchhna!
+User: No ma'am
+User: यह कितने दिन में आ जाएगा?
+Agent: Karishma, delivery 
+User: Hello?
+Agent: usually 4-6 working days ke andar ho jaati hai, depending on aapka location. 😊 Main abhi aapka order confirm karwa deti hoon aur aapko WhatsApp pe tracking details bhi bhej dungi, taaki aapko exact update milta rahe. Aur koi doubt ho toh mujhe batao!
+User: No ma'am thank you.
+Agent: Bilkul Karishma, koi baat nahi! 😊 Agar aapko future mein kabhi kuch chahiye ho ya koi doubt ho, toh bas humein contact kar lena. Aapka din shandar rahe! Bye-bye!
+",https://dxc03zgurdly9.cloudfront.net/b20b38a72f16ec0955959373fd951214149f331c3aa9f795b3f5cec9b02f77a1/recording.wav,Positive,True,"The user, Karishma, called to place an order for a product using cash on delivery. The agent confirmed the order and provided information about delivery time and tracking details, ensuring the user was satisfied with the process.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",126,user_hangup
 $0.10,call_ea3d8bb3742fd034a92471ef908,agent_013449690bb91bf30736266dc9,17319039218,918559000450,ended,"6/10/2025, 12:16:07 PM","6/10/2025, 12:16:49 PM",43,daljeetjatt1233@gmail.com,"Agent: हैलो, मैं 
 User: Hello. हां जी?
 User: हैं? हां 
