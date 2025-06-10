@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.04,call_73f192a899eb907578785670e4e,agent_013449690bb91bf30736266dc9,17319039218,918525874919,ended,"6/10/2025, 2:15:55 PM","6/10/2025, 2:16:10 PM",16,ashadaffny83@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट 
+",https://dxc03zgurdly9.cloudfront.net/0dd991dd6ff370b229a7e26ebfb610a429e3f1e8e3d0a62dc27e6a06150ca938/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, who noticed that the user had added a product to their cart. The conversation likely revolved around the user's interest in the product and any assistance they might need.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",16,user_hangup
+$0.04,call_b899e8235dfba2e930ddbe70448,agent_013449690bb91bf30736266dc9,17319039218,919944959123,ended,"6/10/2025, 2:15:54 PM","6/10/2025, 2:16:08 PM",15,prasheebaa04@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट 
+",https://dxc03zgurdly9.cloudfront.net/40ca86650b5055cf5d92b350f89eac176b5a77d3b8936a7b5f9857254006e5a2/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog, indicating that she noticed the user had a product in their cart.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",15,user_hangup
+-,call_a3a8793f4053fda964041f357fc,agent_013449690bb91bf30736266dc9,17319039218,917506090734,error,"6/10/2025, 2:01:14 PM","6/10/2025, 2:01:14 PM",-,rubydsouza88@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.03,call_381b913aa6bc531689f087ac49f,agent_013449690bb91bf30736266dc9,17319039218,919079426011,ended,"6/10/2025, 1:30:53 PM","6/10/2025, 1:31:06 PM",14,varshupatil00@gmail.com,"User: Hello? 
 Agent: हैलो, मैं मेहर 
 User: Hello
