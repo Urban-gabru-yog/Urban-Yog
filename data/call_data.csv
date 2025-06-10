@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_b3a52caf3da451f2d76d5eadf12,agent_013449690bb91bf30736266dc9,17319039218,916369414153,error,"6/10/2025, 3:01:14 PM","6/10/2025, 3:01:14 PM",-,drpragadheesatheesh@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.03,call_cfe4de3eaa24a81f7ddcd86c3b3,agent_013449690bb91bf30736266dc9,17319039218,918467059497,ended,"6/10/2025, 3:01:00 PM","6/10/2025, 3:01:11 PM",12,awantikawasthi609@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
+",https://dxc03zgurdly9.cloudfront.net/6673629b25a021653209c5519fb9cdb0422bd7e8204b264538ed294bd581c569/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or its outcome.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",12,user_hangup
+$0.03,call_27addd68d98cf20d9d331e6491d,agent_013449690bb91bf30736266dc9,17319039218,919353755891,ended,"6/10/2025, 3:00:53 PM","6/10/2025, 3:01:03 PM",11,rathodmeghana963@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
+",https://dxc03zgurdly9.cloudfront.net/c7650ad28729aa97d48f59aef92a4b7ee78f9e0a6f197e102c054b44f1f23e37/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog. The conversation appears to be in Hindi, indicating a potential service or inquiry related to Urban Yog.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",11,user_hangup
 $0.07,call_f6a4c96e333ab5a98844bdecb75,agent_013449690bb91bf30736266dc9,17319039218,918792571500,ended,"6/10/2025, 2:46:06 PM","6/10/2025, 2:46:34 PM",29,asharanjith291@gmail.com,"User: Hello, मैं मेहर बोल 
 Agent: हैलो, मैं मेहर बोल 
 User: रही हूं urban York.
