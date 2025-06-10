@@ -1,4 +1,42 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.10,call_ea3d8bb3742fd034a92471ef908,agent_013449690bb91bf30736266dc9,17319039218,918559000450,ended,"6/10/2025, 12:16:07 PM","6/10/2025, 12:16:49 PM",43,daljeetjatt1233@gmail.com,"Agent: हैलो, मैं 
+User: Hello. हां जी?
+User: हैं? हां 
+Agent: हैलो Happy! मैं Meher 
+User: जी.
+Agent: Hi Happy!
+User: Hello?
+Agent:  मैं Meher बोल रही हूँ Urban Yog से। आपने Urban Yog Callus Remover almost checkout किया था, तो सोचा पूछ लूँ सब ठीक था ना? Product पसंद आया था?
+User: हां हां जी.
+Agent: अच्छा, तो आपको product पसंद आया था ना? बस price 
+User: हां जी. हां जी, हां जी.
+Agent: अच्छा, तो आपको product पसंद आया था ना? बस price 
+User: हां जी. हां जी.
+Agent: अच्छा 
+",https://dxc03zgurdly9.cloudfront.net/d1379aae94281d449906fdf9cf58b2c5239330c172d7944e61ddc09ad86752bb/recording.wav,Positive,True,"The agent, Meher from Urban Yog, reached out to the user, Happy, to confirm their interest in the Urban Yog Callus Remover product they nearly checked out. The user expressed satisfaction with the product and confirmed their interest multiple times during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",43,user_hangup
+$0.22,call_4cd8e534f3a4703aae23904c5cd,agent_013449690bb91bf30736266dc9,17319039218,919843054555,ended,"6/10/2025, 12:01:09 PM","6/10/2025, 12:02:42 PM",94,chandruksb@gmail.com,"Agent: हैलो, मैं मेहर बोल 
+User: Hello. Hello.
+Agent: रही हूँ Urban Yog से। मैंने देखा कि आपने 
+User: Can you talk in English?
+Agent: Of course! Hi Chandrasekar, this is Meher calling from Urban Yog. I noticed you almost checked out the Urban Yog Callus Remover for ₹849. Just wanted to check 
+User: Ok.
+Agent: if everything was okay or if you had any questions about it?
+User: So there is any add on product that print clip stock can be bought again?
+Agent: Ah, I see what you mean! If you're 
+User: No, 
+Agent: asking about 
+User: I am asking I am asking whether the attachment can be again bought?
+User: Or what?
+Agent: Oh, got it! You're asking if the attachments or parts of the Urban Yog Callus Remover can be purchased separately, 
+User: Yes yes yes.
+Agent: right? Let me clarify that for 
+Agent: Yes, absolutely! The roller heads for the Urban Yog Callus Remover can be purchased separately as replacements. So, if they wear out over time, you can easily get new ones without any hassle. 😊 
+
+If you'd like, I can guide you 
+User: I will, I I 
+Agent: on how to order them or connect you with customer support for 
+User: will, I will, I will order it later like working morning driving, I am going to my office. I will do it later Thank you, thank you.
+",https://dxc03zgurdly9.cloudfront.net/7b6d2818bcde3712c94b4c6cd5f40e55601ea603c12d5540f0ae30dc3e0ba39d/recording.wav,Positive,True,"The user, Chandrasekar, inquired about purchasing replacement attachments for the Urban Yog Callus Remover. The agent, Meher, confirmed that the roller heads can be bought separately and offered assistance with ordering or connecting to customer support. The user indicated they would order later due to being busy with work.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",94,user_hangup
 -,call_5ccd1864035eeaaa48bb4bd4ba8,agent_013449690bb91bf30736266dc9,17319039218,919769156969,error,"6/10/2025, 11:46:16 AM","6/10/2025, 11:46:16 AM",-,dandekarrasika@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.17,call_7afb8b4b339d85d2bc32cf48c54,agent_013449690bb91bf30736266dc9,17319039218,918619575604,ended,"6/10/2025, 11:45:54 AM","6/10/2025, 11:47:04 AM",71,aasthavaishnav07@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 User: Hello
