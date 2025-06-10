@@ -1,4 +1,7 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_8b7e979c359b3e81baa81180e69,agent_013449690bb91bf30736266dc9,17319039218,919072553817,error,"6/10/2025, 4:05:00 PM","6/10/2025, 4:05:00 PM",-,athirapr921@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.02,call_6ab3e6ca93f854ffd0dcb274d23,agent_013449690bb91bf30736266dc9,17319039218,916364800740,ended,"6/10/2025, 4:00:54 PM","6/10/2025, 4:01:01 PM",8,Preethiiyer1998@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+",https://dxc03zgurdly9.cloudfront.net/fea68b279bc99eb615192858a2c42b310ffc09c3250f91f1058a07927427a5f5/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban, but the transcript does not provide further details about the conversation or any actions taken.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
 $0.08,call_0e6b6a6fefddaa8e68a5343d0f5,agent_013449690bb91bf30736266dc9,17319039218,919633080448,ended,"6/10/2025, 3:45:55 PM","6/10/2025, 3:46:31 PM",36,lachulakshmi367@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 User: Hello.
 Agent: Hi Sethulakshmi! This is Meher calling from 
