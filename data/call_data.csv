@@ -1,4 +1,70 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_1e4879324e5a66336f48f4982f7,agent_013449690bb91bf30736266dc9,17319039218,917776007285,error,"6/11/2025, 12:45:44 PM","6/11/2025, 12:45:44 PM",-,shubhamraut7536@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_5f2de3bca6af5c29b4cb5735ffc,agent_013449690bb91bf30736266dc9,17319039218,918668820473,error,"6/11/2025, 12:30:47 PM","6/11/2025, 12:30:47 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.42,call_559de091e3d7d34ef7551586fde,agent_013449690bb91bf30736266dc9,17319039218,917776007285,ended,"6/11/2025, 12:30:36 PM","6/11/2025, 12:33:35 PM",180,shubhamraut7536@gmail.com,"User: Hello. 
+Agent: हैलो, मैं मेहर बोल रही हूँ 
+User: हां. हां मैं बोल.
+Agent: हैलो, मैं 
+User: हां बोलो. 
+Agent: मेहर बोल रही हूँ 
+User: हां.
+Agent: हाय Shubham!
+User: हां वह आवाज़ cut 
+Agent:  मैं 
+User: रहा है ma'am.
+Agent: अरे सॉरी Shubham! अब आवाज़ ठीक आ रही है?
+User: आ रही है ma'am.
+Agent:  मैं 
+Agent: अच्छा, बढ़िया!
+User: मेहर जी बोलिए 
+Agent:  तो 
+User: बोलिए.
+User: Ma'am आवाज़ cut रही है आपकी.
+Agent: अरे Shubham, सॉरी यार! अब क्लियर आ रही है आवाज़?
+User: हां ma'am आ रही.
+Agent: चलो, बढ़िया! तो Shubham, मैं Urban Yog 
+User: Yes,
+Agent: से बोल रही हूँ। आपने Urban Yog Electric Facial Hair Remover For Women को almost checkout किया था, तो सोचा पूछ लूं—सब ठीक था ना? कोई confusion 
+User: Yes ma'am. मैं cash on delivery नहीं option आ रहा ना वह?
+Agent: ओह, समझ गई Shubham!
+User: मुझे मंगाना 
+Agent:  फिलहाल 
+User: है वह, पर कैसे cash on delivery चाहिए मेरे को मुंह.
+Agent: समझ गई Shubham! Cash on Delivery 
+User: क्या
+Agent: का option फिलहाल available नहीं है, लेकिन आप UPI या online payment से मंगवा सकती हैं। और एक फायदा बताऊं? अगर आप UPI से पेमेंट करती हैं, तो आपको 5% discount के साथ extra 2% का discount भी मिलेगा। Total savings और बढ़ जाएंगी! 😊
+
+आपको मैं checkout link भेज दूं WhatsApp पर?
+User: भेज दीजिए पर return refund available होगा ना कुछ product में दिक्कत आई तो.
+Agent: अरे बिल्कुल, Shubham! Urban Yog में हम quality का पूरा ध्यान रखते हैं। लेकिन अगर product में कोई damage हो या गलत item deliver हो जाए, तो हम उसे replace कर देते हैं—वो भी बिलकुल free of cost! बस आपको delivery के 7 दिनों के अंदर हमें बता देना होगा।  
+
+तो मैं अभी WhatsApp पर checkout link भेज रही हूँ। कोई और सवाल हो तो बेझिझक पूछ लेना, ठीक है?
+User: Ok ma'am.
+Agent: Thank you, Shubham!
+User: Warranty कितने product में?
+User: एक मेहर जी.
+User: Hello
+User: warranty कितनी है वह product?
+Agent: अरे हां Shubham, Urban Yog Electric Facial Hair Remover के साथ 1 साल की warranty आती है। अगर इस दौरान कोई manufacturing defect हो, तो आप हमें contact कर सकती हैं, और हम आपकी पूरी मदद करेंगे। 😊
+
+अब मैं checkout link भेज दूं?
+User: Ok ma'am.
+User: Ok ok.
+",https://dxc03zgurdly9.cloudfront.net/bb91073375bee8e296d6ef09db0ab702a9289516bad9f67955f49bb92e253e9a/recording.wav,Positive,True,"The user, Shubham, contacted the agent, Mehr, regarding an issue with the cash on delivery option for the Urban Yog Electric Facial Hair Remover. The agent explained that cash on delivery is currently unavailable but offered UPI and online payment options with discounts. The agent assured Shubham about the return policy and warranty details before sending the checkout link via WhatsApp.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",180,max_duration_reached
+$0.04,call_e4e6a061cc886c18eaf6362a95e,agent_013449690bb91bf30736266dc9,17319039218,918349003543,ended,"6/11/2025, 12:30:31 PM","6/11/2025, 12:30:49 PM",18,nidhidubey354@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+",https://dxc03zgurdly9.cloudfront.net/a9a74698ce06a396ec70aaf72293c1962b43d2ceb5a3db0647eb2f6146da61cb/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",18,user_hangup
+$0.04,call_129305f60abf2c185420f4a1078,agent_013449690bb91bf30736266dc9,17319039218,917510798574,ended,"6/11/2025, 12:30:23 PM","6/11/2025, 12:30:42 PM",19,vipimalu16@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+",https://dxc03zgurdly9.cloudfront.net/d0d0f1469a206564fe5e998ad8078f049333461e8bb826d85eeedef0f6a3d3fa/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",19,user_hangup
+-,call_7d222a38b6c12e72c672489b6d4,agent_013449690bb91bf30736266dc9,17319039218,919015256280,error,"6/11/2025, 12:19:24 PM","6/11/2025, 12:19:24 PM",-,manrana225@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.04,call_bf11a9c3f5c7dc692fa8e86018c,agent_013449690bb91bf30736266dc9,17319039218,918105960395,ended,"6/11/2025, 12:19:15 PM","6/11/2025, 12:19:31 PM",17,hemalatha8191@gmail.com,"Agent: हैलो, मैं 
+User: Hello, 
+Agent: मेहर बोल रही 
+User: मैं नेहा बोल रही हूं Urban dog से.
+Agent: अरे नेहा जी! Urban Yog 
+User: हां जी, urban job से सही? 
+Agent: से, सही? कोई बात नहीं, होता है! 😊 
+User: होता है. मैं आप ही देख
+",https://dxc03zgurdly9.cloudfront.net/169c069638f08594611991cb8c78403a335eb800660f0818c67cfe0dc8b0786d/recording.wav,Positive,True,"The call is between an agent and a user named Neha from Urban Dog. The agent mistakenly refers to Urban Dog as Urban Yog, but the user corrects them, and they share a light-hearted moment about the mix-up.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",17,user_hangup
 $0.03,call_058879d336c892de58b2d96aa86,agent_013449690bb91bf30736266dc9,17319039218,917805839304,ended,"6/11/2025, 12:15:30 PM","6/11/2025, 12:15:43 PM",13,garima.dwivedi019@gmail.com,"User: Hello. 
 Agent: हैलो, मैं मेहर बोल 
 User: हां बोलिए.
