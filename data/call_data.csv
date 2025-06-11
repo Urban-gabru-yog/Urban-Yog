@@ -1,4 +1,54 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_84325ffe3650cbec29f05f6c02b,agent_013449690bb91bf30736266dc9,17319039218,917014953541,error,"6/11/2025, 11:45:30 AM","6/11/2025, 11:45:30 AM",-,Pskantasolanki@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+-,call_af9b596bf7518c2755cbd1588d7,agent_013449690bb91bf30736266dc9,17319039218,917977422089,error,"6/11/2025, 11:30:47 AM","6/11/2025, 11:30:47 AM",-,sunitapandey09@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_c2ad3595abfa23bb127c4e95883,agent_013449690bb91bf30736266dc9,17319039218,917061974277,error,"6/11/2025, 11:30:45 AM","6/11/2025, 11:30:45 AM",-,gunjan1234gupta1234@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_a5ef81e777ad5c07219e2a4cad1,agent_013449690bb91bf30736266dc9,17319039218,919894226456,error,"6/11/2025, 11:30:44 AM","6/11/2025, 11:30:44 AM",-,selvalatha_82@yahoo.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_ce244dca956145a9ac81a0fc2e9,agent_013449690bb91bf30736266dc9,17319039218,918682069634,ended,"6/11/2025, 11:30:37 AM","6/11/2025, 11:30:40 AM",4,Vinodhinivaradharajan34778@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/20aa1cdf3e4e2b3fb4e38569368d5e32743605934244015e247f60f568623925/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach a live agent.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.35,call_541ba162b9cf4cab655e2faf9ac,agent_013449690bb91bf30736266dc9,17319039218,918349003543,ended,"6/11/2025, 11:30:35 AM","6/11/2025, 11:33:05 AM",151,nidhidubey354@gmail.com,"User: Hello. 
+User: Hello
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने 
+User: जी?
+User: जी किया था ना अब दर्शश?
+Agent: अरे 
+User: हां जी?
+Agent: हां, Nidhi! आपने MakeMeeBold 3-in-1 Hot Air Brush by Urban Yog को almost checkout किया था, तो सोचा पूछ लूं सब ठीक था ना? कोई confusion 
+User: हां जी? जी जी. नहीं नहीं कोई tension नहीं था ma'am मैं मैं क्या था मुझे चाहिए था यह brush क्योंकि ना अपने बाल ना जैसे कहीं जाओ ना तो फिर से straight करने रहते हैं. तो फिर वही doubt था कि यह brush सही है ना ले लूं?
+User: Hello? 
+User: हां जी.
+Agent: अरे Nidhi, बिल्कुल सही सोचा आपने!
+User: आपकी आवाज़ नहीं आ रही है ma'am अच्छे से.
+Agent: ओह, सॉरी Nidhi!
+User: I can't listen your voice.
+User: हां 
+User: जी.
+Agent: अरे सॉरी, Nidhi! अब मेरी आवाज़ आ रही है?
+User: हां जी. 
+Agent: तो जैसा 
+User: हां जी.
+Agent: तो 
+User: Hello. हां?
+Agent: जैसा आपने बताया, ये MakeMeeBold 3-in-1 Hot Air Brush आपके लिए परफेक्ट रहेगा! एक ही स्टेप में बाल ड्राई और स्टाइल हो जाते हैं, और सुबह-सुबह का रेडी होने का सारा झंझट खत्म।  
+
+और 
+User: Ok.
+User: इसमें serum आप
+User: हां?
+User: Hello. हां जी, 
+Agent: अरे Nidhi, ये 
+User: हां जी.
+Agent: हाँ Nidhi, मैं कह रही थी कि इस ब्रश के साथ आपको अलग से कोई serum लगाने की ज़रूरत नहीं है। ये ब्रश आपके बालों को damage-free और smooth finish देता है।  
+
+वैसे, आपको ये brush पसंद तो आया ना? कोई और सवाल हो तो बताइए!
+User: हां जी.
+User: आप इसमें एक serum देते हैं क्या साथ में?
+Agent: अरे Nidhi, फिलहाल इस ब्रश के साथ serum included नहीं है, लेकिन आप चाहें तो अपने बालों को heat protect करने के लिए 
+",https://dxc03zgurdly9.cloudfront.net/0da923b2f1e6e26516c583b421ac05299f915b9bfd1d0ce20d42ef4fefb2e8bf/recording.wav,Neutral,True,"The user, Nidhi, inquired about the MakeMeeBold 3-in-1 Hot Air Brush from Urban Yog, expressing her need for a product that simplifies hair styling. The agent confirmed that the brush is suitable for her needs and clarified that it does not come with a serum, but it provides a damage-free finish. The call involved some audio issues, but the agent successfully addressed the user's questions.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",151,user_hangup
+$0.04,call_bbe2cb00b3a547bc36e107dbd2e,agent_013449690bb91bf30736266dc9,17319039218,917893598868,ended,"6/11/2025, 11:30:32 AM","6/11/2025, 11:30:47 AM",16,pragnathy8@gmail.com,"Agent: हैलो, मैं मेहर बोल रही 
+User: Hello. Hello.
+Agent: हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट 
+",https://dxc03zgurdly9.cloudfront.net/b03dff576723da7177b07c924e2b35521e9b98a7bc16bacccc01aaefe4c529c8/recording.wav,Neutral,False,"The call began with the agent introducing herself and mentioning that she is from Urban Yog, indicating that the user had previously interacted with a product cart. However, the conversation seems to be interrupted or unclear as the user only responds with 'Hello.'","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",16,user_hangup
+-,call_16e9de7be5cfa1c9fb61d192e40,agent_013449690bb91bf30736266dc9,17319039218,917990288034,error,"6/11/2025, 11:15:44 AM","6/11/2025, 11:15:44 AM",-,ashvinapatel79@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_d1dcf0c42fda222b47cab351fa8,agent_013449690bb91bf30736266dc9,17319039218,919877909595,error,"6/11/2025, 11:00:44 AM","6/11/2025, 11:00:44 AM",-,rajnibhatti188@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_4abcf8c15a1dc30912e32e04cd2,agent_013449690bb91bf30736266dc9,17319039218,919384632326,error,"6/11/2025, 10:49:25 AM","6/11/2025, 10:49:25 AM",-,Nargismahaboob77@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_dfb20c0580e6f8406d70dbcb2d4,agent_013449690bb91bf30736266dc9,17319039218,919284636281,error,"6/11/2025, 10:49:16 AM","6/11/2025, 10:49:16 AM",-,btshraddha2521@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
