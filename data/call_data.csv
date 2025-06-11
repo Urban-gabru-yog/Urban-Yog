@@ -1,4 +1,47 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.35,call_cc301d0309017cd29b6fd554144,agent_013449690bb91bf30736266dc9,17319039218,919624251462,ended,"6/11/2025, 3:01:04 PM","6/11/2025, 3:03:33 PM",149,Sutharbhavika95@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello
+User: किया था.
+User: लेकिन online payment नहीं होगा case on delivery भी हो तो बोलो.
+Agent: अरे, समझ सकती हूँ Bhavika! कई बार online payment में hesitation होती है। 😊 
+
+अच्छा, तो मैं आपको खुशखबरी दूँ—हमारे पास Cash on Delivery (COD) का ऑप्शन भी है! आप आराम से प्रोडक्ट डिलीवर होने के बाद पेमेंट कर सकती हैं। 
+
+तो, क्या मैं आपके लिए ऑर्डर कन्फर्म कर दूँ?
+User: Ok.
+User: Order confirm कर दो.
+User: Order कितने का है?
+User: Hello?
+User: Hello कितना oral कितने का है?
+Agent: हाँ Bhavika!
+User: Payment कितना है? Payment कितना है? ऐसा बोल रही हूं.
+Agent: ओह, सॉरी Bhavika! आपका ऑर्डर Urban Yog Callus Remover का है, और इसकी कीमत ₹849 है। अगर आप COD चुनती हैं, तो यही फाइनल अमाउंट रहेगा। 😊
+
+तो, क्या मैं आपके लिए ऑर्डर कन्फर्म कर दूँ?
+User: Ok.
+User: Ok.
+User: ok
+User: कर दो.
+Agent: बिल्कुल Bhavika! 😊 मैं अभी आपका ऑर्डर कन्फर्म कर 
+User: Ok.
+Agent: देती हूँ। Urban Yog Callus Remover 
+User: Ok. Thank you.
+Agent: आपका 
+User: कुछ भी नहीं.
+Agent: कोई 
+User: Thank you.
+Agent: बात नहीं Bhavika! 😊 अगर आपको और कोई सवाल हो या कुछ और चाहिए हो, तो बेझिझक पूछ लेना। आपका दिन बहुत अच्छा जाए!
+User: Ok, thank you है.
+Agent: आपका बहुत-बहुत धन्यवाद, Bhavika! 😊 अगर आपको कुछ 
+User: नहीं नहीं, thank 
+Agent: और मदद 
+User: you, thank you कोई नहीं.
+User: नहीं.
+Agent: अरे वाह, Bhavika! 😊 ठीक है, कोई बात नहीं। अगर आपको कभी भी कोई सवाल हो या मदद चाहिए, तो बस हमें याद कर लेना। आपका दिन बहुत अच्छा जाए!
+Agent:  ❤️
+User: Thank you.
+Agent: आपका 
+",https://dxc03zgurdly9.cloudfront.net/6eaf94c92c69085e9204053a376d724748e1d18074e0f44b5e083abdda75d2f2/recording.wav,Positive,True,"The user, Bhavika, inquired about the payment options for an order they added to their cart. The agent confirmed that Cash on Delivery (COD) is available and provided the order details, including the price of ₹849 for the Urban Yog Callus Remover. The order was successfully confirmed after the user agreed multiple times, and the call ended on a positive note with the user expressing gratitude.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",149,user_hangup
 -,call_508a38a5df0959e15bc0ca66d52,agent_013449690bb91bf30736266dc9,17319039218,919845294445,error,"6/11/2025, 2:46:18 PM","6/11/2025, 2:46:18 PM",-,jaya.avalonsalon@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_f9c467cdbe6e944c9194197c26b,agent_013449690bb91bf30736266dc9,17319039218,919319062100,ended,"6/11/2025, 2:31:14 PM","6/11/2025, 2:31:18 PM",5,goel.kanika1986@gmail.com,"User: Your call has been forwarded to voicemail. You
 ",https://dxc03zgurdly9.cloudfront.net/94fbc23383b6fd037ec51cc91b034205311ca871380ab8f883738daacfb4e137/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to connect with a live agent.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,voicemail_reached
