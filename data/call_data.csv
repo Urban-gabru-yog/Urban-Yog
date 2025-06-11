@@ -1,4 +1,17 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_d1dcf0c42fda222b47cab351fa8,agent_013449690bb91bf30736266dc9,17319039218,919877909595,error,"6/11/2025, 11:00:44 AM","6/11/2025, 11:00:44 AM",-,rajnibhatti188@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_4abcf8c15a1dc30912e32e04cd2,agent_013449690bb91bf30736266dc9,17319039218,919384632326,error,"6/11/2025, 10:49:25 AM","6/11/2025, 10:49:25 AM",-,Nargismahaboob77@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_dfb20c0580e6f8406d70dbcb2d4,agent_013449690bb91bf30736266dc9,17319039218,919284636281,error,"6/11/2025, 10:49:16 AM","6/11/2025, 10:49:16 AM",-,btshraddha2521@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+$0.06,call_58d527c3057d315b30a2743fe74,agent_013449690bb91bf30736266dc9,17319039218,919361606202,ended,"6/11/2025, 10:49:11 AM","6/11/2025, 10:49:36 AM",26,kkarthik10906@gmail.com,"User: Hello. 
+User: Yeah.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi Karthikeyan! This is Meher calling from Urban Yog. I noticed you almost checked out the MakeMeeBold 3-in-1 
+",https://dxc03zgurdly9.cloudfront.net/ea576fd414a37c069f395d0d349adf21ff042e0f593bea719c10e7fdd15c1afa/recording.wav,Neutral,True,"The user received a call from Meher at Urban Yog regarding a product they added to their cart, with an offer of an additional 5% discount. The agent inquired if the user would like to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",26,user_hangup
+$0.01,call_c699f72d11f24cb82b57de9e424,agent_013449690bb91bf30736266dc9,17319039218,919599152204,ended,"6/11/2025, 10:49:07 AM","6/11/2025, 10:49:11 AM",4,payalsolanki1403@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/6a08e4e6cc7a46e13c7b670da477e1b2b70950051a73e4da548e6fef2434e86d/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach a live agent.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.02,call_9212749741fe08cf36932d2a0ba,agent_013449690bb91bf30736266dc9,17319039218,919573574909,ended,"6/11/2025, 10:49:07 AM","6/11/2025, 10:49:16 AM",9,Juhibadola1608@gmail.com,"User: Hello
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog 
+",https://dxc03zgurdly9.cloudfront.net/5999ae95a301a243bda0ba56783748c400dc3234665d56c50134184f51d87a3d/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog. The conversation appears to be in the early stages without any specific issues or requests mentioned yet.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
 $0.03,call_b6819abe7bd9eec1253f7de2ff0,agent_013449690bb91bf30736266dc9,17319039218,919358299040,ended,"6/11/2025, 10:45:40 AM","6/11/2025, 10:45:54 AM",14,mumtazrangrezz@gmail.com,"User: Hello. 
 Agent: हैलो, मैं मेहर बोल रही 
 User: कौन?
