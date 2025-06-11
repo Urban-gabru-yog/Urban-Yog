@@ -1,4 +1,15 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_742e619a1e977c6aa9b32f924bd,agent_013449690bb91bf30736266dc9,17319039218,919958424679,error,"6/11/2025, 2:16:18 PM","6/11/2025, 2:16:18 PM",-,sahilrathee844@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_fc9b2c80fc73ae6aa152edfbcbb,agent_013449690bb91bf30736266dc9,17319039218,917249264414,error,"6/11/2025, 2:01:18 PM","6/11/2025, 2:01:18 PM",-,nikitapatil1013@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.09,call_2ed41915ae19b9ae2a6d7f5538b,agent_013449690bb91bf30736266dc9,17319039218,917597019535,ended,"6/11/2025, 2:00:58 PM","6/11/2025, 2:01:38 PM",40,21gchoudharys@gmail.com,"User: Hello
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: कितने रुपए की?
+User: Hello?
+User: Hello?
+Agent: Hi 
+User: Hello
+Agent: Garvita! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Callus Remover apne cart mein rakha tha, toh socha puchh loon sab theek thaak tha na? Kya aapko product pasand aaya?
+",https://dxc03zgurdly9.cloudfront.net/b3b8c4052c62105234c7009cee7884982f30389746a71b4f3bf49483210ed580/recording.wav,Neutral,False,"The user was contacted by an agent from Urban Yog regarding a product they added to their cart, offering an additional 5% discount. The conversation had some interruptions, with the user expressing confusion and repeating 'Hello' multiple times, indicating a potential issue with the call connection.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",40,user_hangup
 -,call_c240a7e1540279925d29d04d990,agent_013449690bb91bf30736266dc9,17319039218,919866112976,error,"6/11/2025, 1:45:51 PM","6/11/2025, 1:45:51 PM",-,zainabanam57@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
 -,call_d45f148d6bce54f0b13902f8ef6,agent_013449690bb91bf30736266dc9,17319039218,918431987693,error,"6/11/2025, 1:35:01 PM","6/11/2025, 1:35:01 PM",-,Shwetharathod699@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_5ab18399df95ab2064f038ee073,agent_013449690bb91bf30736266dc9,17319039218,917012569571,error,"6/11/2025, 1:35:00 PM","6/11/2025, 1:35:00 PM",-,shijinishaji1@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
