@@ -1,4 +1,32 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_c240a7e1540279925d29d04d990,agent_013449690bb91bf30736266dc9,17319039218,919866112976,error,"6/11/2025, 1:45:51 PM","6/11/2025, 1:45:51 PM",-,zainabanam57@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
+-,call_d45f148d6bce54f0b13902f8ef6,agent_013449690bb91bf30736266dc9,17319039218,918431987693,error,"6/11/2025, 1:35:01 PM","6/11/2025, 1:35:01 PM",-,Shwetharathod699@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_5ab18399df95ab2064f038ee073,agent_013449690bb91bf30736266dc9,17319039218,917012569571,error,"6/11/2025, 1:35:00 PM","6/11/2025, 1:35:00 PM",-,shijinishaji1@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_219b7ac67f22a278c225728f0c1,agent_013449690bb91bf30736266dc9,17319039218,917440581138,error,"6/11/2025, 1:34:58 PM","6/11/2025, 1:34:58 PM",-,tanushi.2202cs@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.04,call_17f8807c056867939f18631cb84,agent_013449690bb91bf30736266dc9,17319039218,919003055230,ended,"6/11/2025, 1:34:43 PM","6/11/2025, 1:35:00 PM",18,meenaselvam0707@gmail.com,"User: Hello, वीरेंद्र जा पा रहे हैं बात पर आ रहा है? 
+Agent: हैलो, 
+User: Hello?
+Agent: हैलो Jothika!
+User: Hello yes?
+Agent:  मैं Meher बोल रही हूँ Urban Yog से। आपने MakeMeeBold 
+User: No need ma'am.
+",https://dxc03zgurdly9.cloudfront.net/97631cfc669c0e0c8d2ee7a4fce42e459c4455fbd3da02b5758f393ac5dfc559/recording.wav,Negative,False,"The user initially greets the agent but seems confused about the conversation. The agent introduces herself and the company, but the user interrupts, indicating they do not wish to continue the conversation.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",18,user_hangup
+$0.22,call_5a12edfa63644e7249cc398e16e,agent_013449690bb91bf30736266dc9,17319039218,919777767389,ended,"6/11/2025, 1:31:09 PM","6/11/2025, 1:32:42 PM",94,jyoti9437171880@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+User: Ma'am cash 
+Agent: Hi 
+User: on delivery में Hello?
+Agent: Hi 
+User: Hello
+Agent: Jyoti! Main Meher bol rahi hoon Urban Yog se. Aapne MakeMeeBold Hot Air Brush 1.0 by Urban Yog apne cart mein rakha tha, toh socha puchh loon sab theek thaak tha na? Waise, aapko product pasand aaya?
+User: Product पसंद है मैंने cash on delivery किया था तो उसका extra charge लगेगा क्या ma'am?
+Agent: Bilkul, Jyoti! Cash on Delivery ka option available hai, aur iska ek chhota sa ₹50 ka additional charge hota hai. Lekin agar aap online payment karti hain, toh na sirf yeh charge bachega, balki UPI payment par ek extra 2% ka discount bhi milega! Aapko kaunsa option convenient lagega?
+User: ठीक है ma'am मैं कर लूंगी.
+Agent: Wah, Jyoti! Aapka decision bilkul perfect hai. Main abhi aapko WhatsApp pe checkout link bhejti hoon. Aap bas click karke payment complete kar lena. Aur agar koi confusion ho, toh customer support ko call kar lena. 😊 
+
+Aur haan, agar aap UPI 
+",https://dxc03zgurdly9.cloudfront.net/a87a12a62a1b680aaa177a635c89dc5206319952707307bd3bcacca2d59e2b97/recording.wav,Positive,True,"The user, Jyoti, was contacted by the agent Meher from Urban Yog regarding a product in her cart. They discussed the cash on delivery option, including an additional charge, and the user confirmed her decision to proceed with the purchase, after which the agent promised to send a checkout link via WhatsApp.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",94,user_hangup
+-,call_dfa9e63ca04577338b7bcaf6427,agent_013449690bb91bf30736266dc9,17319039218,918521468207,error,"6/11/2025, 1:16:19 PM","6/11/2025, 1:16:19 PM",-,abhishek2012pcs@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_00eb0130e643f8428f2ea60f9a6,agent_013449690bb91bf30736266dc9,17319039218,918788585501,error,"6/11/2025, 1:04:26 PM","6/11/2025, 1:04:26 PM",-,amrutajadhav155@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_f32e62f96af59949cef55957539,agent_013449690bb91bf30736266dc9,17319039218,918219926378,error,"6/11/2025, 1:04:16 PM","6/11/2025, 1:04:16 PM",-,priyankasharma67865@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
 $0.17,call_0ae67568ee4f6d4dbd9078fb36d,agent_013449690bb91bf30736266dc9,17319039218,919137992300,ended,"6/11/2025, 1:04:11 PM","6/11/2025, 1:05:23 PM",72,sakshisail98@gmail.com,"User: Hello. हां. हां 
