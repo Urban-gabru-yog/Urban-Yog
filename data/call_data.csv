@@ -1,4 +1,39 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.04,call_6b49acce4cb9e22ad3cb2d443f2,agent_013449690bb91bf30736266dc9,17319039218,918778964651,ended,"6/11/2025, 4:00:28 PM","6/11/2025, 4:00:44 PM",16,Wickyogi.5in6@gmail.com,"Agent: हैलो, मैं 
+User: (inaudible speech)
+Agent: मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट 
+",https://dxc03zgurdly9.cloudfront.net/2026a4378bb559039b3929c21693e26b58f574672931302a0ec609e1cd03795c/recording.wav,Neutral,False,"The agent, Mehr, from Urban Yog, initiated the call to discuss a product that the user had in their cart. However, the user's response was inaudible, making it difficult to assess their needs or concerns during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",16,user_hangup
+-,call_bb3cad01286a78196aecac080bc,agent_013449690bb91bf30736266dc9,17319039218,919702870860,error,"6/11/2025, 3:49:00 PM","6/11/2025, 3:49:00 PM",-,sheetalmore392@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.42,call_7156863c34d7363d60009cb01c1,agent_013449690bb91bf30736266dc9,17319039218,916381140660,ended,"6/11/2025, 3:48:39 PM","6/11/2025, 3:51:38 PM",180,siddharthsiddhu1740@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello?
+Agent: Hi Siddharth! This is Meher calling from Urban Yog. I noticed you almost checked out the Urban Yog Callus Remover for ₹849. Just wanted to check in—was everything okay?
+User: Hello?
+Agent: Hi Siddharth! Can you hear me 
+User: Hi? Yeah hi 
+Agent: now? This is Meher from Urban 
+User: help कर रही हूं.
+Agent: अरे वाह, सुनकर अच्छा लगा Siddharth! तो मैंने देखा कि आपने Urban Yog Callus Remover कार्ट में ऐड किया था लेकिन checkout नहीं किया। सब ठीक था ना?
+User: I can't understand will be,
+Agent: Oh, no problem, Siddharth! Let me explain in English. I noticed you added the Urban Yog Callus Remover to your cart but didn’t complete the checkout. Just wanted to check if everything was okay or if you had any questions about the product?
+User: I don't like the product. Can you please remove it from the my cart?
+Agent: Oh, I understand, Siddharth! No worries at all. I’ll make sure it’s noted. If you ever change your mind or need help with any other product, feel free to reach out. Have a great day!
+User: No, I have brought the product already. So I don't want the product. So I don't want to get any repeated call from now.
+Agent: Got it, Siddharth! Thanks for letting me know. I’ll make sure you don’t 
+User: Thank Thank you.
+Agent: receive any further calls regarding this. If you need any assistance in the 
+Agent: You're most welcome, Siddharth! Have a great day ahead!
+User: Thank you, thank you.
+Agent: You're very welcome, Siddharth! Take care and have a lovely day!
+Agent: Siddharth, just a quick reminder—if you need any help or have any questions, feel free to reach out. Have a great day 
+User: I 
+Agent: ahead!
+User: don't have any doubt I don't have any doubt. Please remove it my product from my car. I have already purchased it.
+Agent: Got it, Siddharth! I’ll 
+User: I don't want to give 
+Agent: make sure the product is 
+User: any install from other site. Once I want to purchase a product means I will reach you, unless I don't want to get any repeated call from your side. Please be noted.
+Agent: Understood, Siddharth! I truly appreciate your clarity. I’ll make sure you don’t receive any 
+",https://dxc03zgurdly9.cloudfront.net/f6cc0863e1ce9edbd178a7bcde1e8c79741d93c927e749874a355f1eee8f8eda/recording.wav,Negative,True,"The user, Siddharth, received a call from Meher at Urban Yog regarding a product he added to his cart but did not purchase. Siddharth expressed that he does not want the product and requested to remove it from his cart, while also asking to stop any further calls from the company. The agent confirmed the request and assured him that no further calls would be made.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",180,max_duration_reached
 -,call_6bb7ad883f1284aacc2286c388b,agent_013449690bb91bf30736266dc9,17319039218,919702870860,error,"6/11/2025, 3:46:13 PM","6/11/2025, 3:46:13 PM",-,sheetalmore392@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_66269a10c0cc61792d8c3625020,agent_013449690bb91bf30736266dc9,17319039218,919702870860,error,"6/11/2025, 3:46:10 PM","6/11/2025, 3:46:10 PM",-,sheetalmore392@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_b182613f0b9a8c18ef983298349,agent_013449690bb91bf30736266dc9,17319039218,916381140660,error,"6/11/2025, 3:46:02 PM","6/11/2025, 3:46:02 PM",-,siddharthsiddhu1740@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
