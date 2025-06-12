@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.05,call_3936f925bb0894d8500cdb16318,agent_013449690bb91bf30736266dc9,17319039218,917892811762,ended,"6/12/2025, 9:15:34 PM","6/12/2025, 9:15:54 PM",20,Gaurichilurmatt@gmail.com,"User: Your call has been
+User: Hello.
+Agent: Hi Gauri! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Callus Remover almost checkout kiya tha, toh socha puchh loon sab theek thaak tha na?
+",https://dxc03zgurdly9.cloudfront.net/e9746ecf107366a2bc45121b1a4b501bd4e364e3280a617e2e6648a20d963bfb/recording.wav,Neutral,True,"The agent, Meher from Urban Yog, reached out to the user, Gauri, to follow up on her nearly completed checkout for the Urban Yog Callus Remover, checking if everything was okay with the order process.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",20,user_hangup
 -,call_8f58041c2184567cd2d263464c7,agent_013449690bb91bf30736266dc9,17319039218,917977552466,error,"6/12/2025, 9:00:46 PM","6/12/2025, 9:00:46 PM",-,vakotarhiya@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.23,call_93367f61ab406db53a95ced3b14,agent_013449690bb91bf30736266dc9,17319039218,917506553668,ended,"6/12/2025, 9:00:26 PM","6/12/2025, 9:02:04 PM",99,afsana0111@gmail.com,"User: Hello? 
 Agent: हैलो, मैं मेहर बोल 
