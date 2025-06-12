@@ -36,6 +36,7 @@ st.markdown("""
 df = pd.read_csv("data/merged_data.csv")
 df['StartTimestamp'] = pd.to_datetime(df['StartTimestamp'], errors='coerce')
 df['call_date'] = df['StartTimestamp'].dt.date
+df['title'] = df['title'].astype(str)
 
 # Convert '$' TotalCost to float and then INR
 df['TotalCost'] = (
@@ -63,7 +64,15 @@ with st.sidebar:
     st.info("Use the filters above to customize the dashboard view!")
 
 # Apply the date filter
-df_filtered = df[(df['call_date'] >= start_date) & (df['call_date'] <= end_date)]
+df_filtered = df[(df['call_date'] >= start_date) & (df['call_date'] <= end_date)].copy()
+
+# Load and clean COGS data
+cogs_df = pd.read_excel("data/UrbanYog_COGS.xlsx")
+cogs_df['Product Purchased'] = cogs_df['NAME'].astype(str).str.strip().str.lower()
+df_filtered['title_clean'] = df_filtered['title'].str.strip().str.lower()
+
+# Merge COGS into filtered dataset
+df_filtered = df_filtered.merge(cogs_df[['Product Purchased', 'COGS']], left_on="title_clean", right_on="Product Purchased", how="left")
 
 # Filter picked-up calls
 picked_up_calls = call_data[
@@ -72,64 +81,62 @@ picked_up_calls = call_data[
     (call_data['TotalDuration (in sec)'] > 1)
 ]
 
-# Prepare customer_df and metric
-customer_df = df_filtered[df_filtered['order_number'].notna()][['call_date', 'Email', 'order_number', 'title']].drop_duplicates()
-total_purchases = len(customer_df)
-
 # METRICS
-st.title("UrbanYog Voice Agent Dashboard")
+st.title("Urban Voice Agent Dashboard")
 
 total_calls = len(df_filtered)
 connected_calls = len(picked_up_calls)
-conversion = round(total_purchases / connected_calls * 100, 2) if connected_calls > 0 else 0
 total_call_cost = df_filtered['TotalCost'].sum()
 total_call_duration_sec = df_filtered['TotalDuration (in sec)'].sum()
 total_call_duration_hms = str(datetime.timedelta(seconds=int(total_call_duration_sec)))
 
-# ✅ Calculate revenue from unique orders
-total_revenue = (
-    df_filtered.drop_duplicates(subset='order_number')['total_line_items_price']
-    .dropna()
-    .sum()
-)
+# Placeholder for dynamic metrics
+total_purchases = 0
+conversion = 0
+total_revenue = 0
 
-col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
+# First row
+col1, col2, col3, col4, col5 = st.columns(5)
 col1.metric("📞 Total Calls", total_calls)
 col2.metric("✅ Connected Calls", connected_calls)
-col3.metric("🛍️ Purchases", total_purchases)
-col4.metric("💯 Conversion", f"{conversion}%")
+col3_placeholder = col3.empty()
+col4_placeholder = col4.empty()
 col5.metric("📞 Total Call Cost (INR)", f"₹{total_call_cost:,.2f}")
+
+# Second row
+col6, col7, col8, col9 = st.columns(4)
 col6.metric("⏱️ Total Call Duration", total_call_duration_hms)
-col7.metric("💰 Total Revenue", f"₹{total_revenue:,.2f}")
+col7_placeholder = col7.empty()
 
 style_metric_cards()
 
-# CONFETTI + AUDIO
-if conversion > 40:
-    rain(
-        emoji="🎉",
-        font_size=40,
-        falling_speed=5,
-        animation_length="infinite",
-    )
-    st.audio("https://actions.google.com/sounds/v1/alarms/medium_bell_ring.ogg")
+# PRODUCT PURCHASE DISTRIBUTION (based on cleaned purchase data)
+customer_dist_df = df_filtered[df_filtered['order_number'].notna()][['Email', 'title']].drop_duplicates()
 
-# --- PRODUCT PURCHASED PIE CHART ---
-if not customer_df.empty and 'title' in customer_df.columns:
+if not customer_dist_df.empty and 'title' in customer_dist_df.columns:
+    customer_dist_df = customer_dist_df.rename(columns={"title": "Product Purchased"})
+    
     colored_header("Product Purchased Distribution", "", color_name="green-70")
-    product_counts = customer_df['title'].value_counts().reset_index()
+    product_counts = customer_dist_df['Product Purchased'].value_counts().reset_index()
     product_counts.columns = ['Product', 'Count']
+
     fig_product = px.pie(
-        product_counts, names='Product', values='Count', hole=0.4,
+        product_counts,
+        names='Product',
+        values='Count',
+        hole=0.4,
         title="Product Purchased",
         color_discrete_sequence=px.colors.qualitative.Set3
     )
     st.plotly_chart(fig_product, use_container_width=True)
 
-# CALLS VS PURCHASES BAR CHART
+
+
+# CALLS VS PURCHASES
 colored_header("📊 Calls vs Purchases", "", color_name="violet-70")
-df_grouped = df_filtered.groupby('call_date')['order_number'].count().reset_index()
-fig1 = px.bar(df_grouped, x="call_date", y="order_number", title="Daily Purchases", color_discrete_sequence=["#6c5ce7"])
+unique_orders_df = df_filtered[df_filtered['order_number'].notna()].drop_duplicates(subset='order_number')
+df_grouped = unique_orders_df.groupby('call_date')['order_number'].count().reset_index()
+fig1 = px.bar(df_grouped, x="call_date", y="order_number", title="Daily Unique Purchases", color_discrete_sequence=["#6c5ce7"])
 st.plotly_chart(fig1, use_container_width=True)
 
 # CALL DURATION HISTOGRAM
@@ -137,19 +144,57 @@ colored_header("⏳ Call Duration", "", color_name="blue-70")
 fig2 = px.histogram(df_filtered, x="DurationSeconds", nbins=20, title="Duration Histogram", color_discrete_sequence=["#00b894"])
 st.plotly_chart(fig2, use_container_width=True)
 
-# DISCONNECTION REASONS
-st.subheader("📞 Disconnection Reasons")
-fig = px.bar(df_filtered, x="DisconnectionReason", title="Disconnection Reasons Breakdown")
-st.plotly_chart(fig, use_container_width=True)
+# CUSTOMERS WHO MADE A PURCHASE
+colored_header("👤 Customers Who Made a Purchase", "", color_name="gray-70")
 
-# CALL OUTCOMES
-if 'CallSuccessful' in df_filtered.columns:
-    colored_header("🎯 Call Outcome", "", color_name="yellow-70")
-    outcome_counts = df_filtered['CallSuccessful'].value_counts().reset_index()
-    outcome_counts.columns = ['Status', 'Count']
-    fig5 = px.bar(outcome_counts, x="Status", y="Count", color="Status", text="Count", color_discrete_map={0: "red", 1: "green"})
-    fig5.update_traces(texttemplate='%{text}', textposition='outside')
-    st.plotly_chart(fig5, use_container_width=True)
+timestamp_column = None
+for col in df_filtered.columns:
+    if 'created' in col.lower() and 'at' in col.lower():
+        timestamp_column = col
+        break
+
+customer_df = df_filtered[df_filtered['order_number'].notna()][['call_date', 'Email', 'order_number', 'title']].drop_duplicates()
+
+
+if not customer_df.empty and timestamp_column:
+    customer_df_full = df_filtered[df_filtered['order_number'].notna()][
+        ['call_date', 'Email', 'order_number', timestamp_column, 'StartTimestamp', 'title', 'total_price', 'COGS']
+    ].copy()
+
+    customer_df_full[timestamp_column] = pd.to_datetime(customer_df_full[timestamp_column], errors='coerce')
+    customer_df_full['Order Time'] = customer_df_full[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
+    customer_df_full['StartTimestamp'] = pd.to_datetime(customer_df_full['StartTimestamp'], errors='coerce')
+    customer_df_full['Call Time'] = customer_df_full['StartTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
+
+    customer_df_full = customer_df_full.sort_values('StartTimestamp')
+    customer_df_full = customer_df_full.drop_duplicates(subset='Email', keep='first')
+
+    customer_df_full = customer_df_full.rename(columns={
+        "call_date": "Date",
+        "Email": "Customer Email",
+        "order_number": "Order Number",
+        "title": "Product Purchased",
+        "total_price": "Price"
+    })[["Date", "Customer Email", "Order Number", "Call Time", "Order Time", "Product Purchased", "Price", "COGS"]]
+
+    st.dataframe(customer_df_full, use_container_width=True)
+
+    total_purchases = customer_df_full['Customer Email'].nunique()
+    conversion = round(total_purchases / connected_calls * 100, 2) if connected_calls > 0 else 0
+    total_revenue = customer_df_full['Price'].sum()
+
+    col3_placeholder.metric("👝 Purchases", total_purchases)
+    col4_placeholder.metric("🔀 Conversion", f"{conversion}%")
+    col7_placeholder.metric("💰 Total Revenue", f"₹{total_revenue:,.2f}")
+
+    total_cogs_value = customer_df_full['COGS'].sum()
+    col8.metric("📦 Total COGS Price", f"₹{total_cogs_value:,.2f}")
+
+    profit_amount = ((total_revenue / 118) * 100) - total_cogs_value - total_call_cost - (120 * total_purchases)
+    col9.metric("💸 Profit Amount", f"₹{profit_amount:,.2f}")
+else:
+    st.info("No customer purchase data found in the selected date range.")
+    col8.metric("📦 Total COGS Price", "N/A")
 
 # AGENT LEADERBOARD
 if 'Agent' in df_filtered.columns:
@@ -158,76 +203,29 @@ if 'Agent' in df_filtered.columns:
     leaderboard.columns = ['Agent', 'Purchases']
     st.dataframe(leaderboard.style.highlight_max(axis=0, color='lightgreen'), use_container_width=True)
 
-# CUSTOMERS WHO MADE A PURCHASE
-colored_header("👤 Customers Who Made a Purchase", "", color_name="gray-70")
-
-# Try to identify the order timestamp column
-timestamp_column = None
-for col in df_filtered.columns:
-    if 'created' in col.lower() and 'at' in col.lower():
-        timestamp_column = col
-        break
-
-if not customer_df.empty and timestamp_column:
-    customer_df_full = df_filtered[df_filtered['order_number'].notna()][
-        ['call_date', 'Email', 'order_number', timestamp_column, 'StartTimestamp', 'title', 'total_line_items_price']
-    ].copy()
-
-    customer_df_full[timestamp_column] = pd.to_datetime(customer_df_full[timestamp_column], errors='coerce')
-    customer_df_full['Order Time'] = customer_df_full[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
-    customer_df_full['StartTimestamp'] = pd.to_datetime(customer_df_full['StartTimestamp'], errors='coerce')
-    customer_df_full['Call Time'] = customer_df_full['StartTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
-
-    customer_df_full = customer_df_full.sort_values('StartTimestamp').drop_duplicates(subset='order_number', keep='first')
-
-    customer_df_full = customer_df_full.rename(columns={
-        "call_date": "Date",
-        "Email": "Customer Email",
-        "order_number": "Order Number",
-        "title": "Product Purchased",
-        "total_line_items_price": "Price"
-    })[["Date", "Customer Email", "Order Number", "Call Time", "Order Time", "Product Purchased", "Price"]]
-
-    st.dataframe(customer_df_full, use_container_width=True)
-
-elif not customer_df.empty:
-    st.warning("⚠️ Could not detect a valid order time column.")
-    customer_df_simple = df_filtered[df_filtered['order_number'].notna()][
-        ['call_date', 'Email', 'order_number', 'title', 'total_line_items_price']
-    ].drop_duplicates()
-
-    customer_df_simple = customer_df_simple.rename(columns={
-        "call_date": "Date",
-        "Email": "Customer Email",
-        "order_number": "Order Number",
-        "title": "Product Purchased",
-        "total_line_items_price": "Price"
-    })[["Date", "Customer Email", "Order Number", "Product Purchased", "Price"]]
-
-    st.dataframe(customer_df_simple, use_container_width=True)
-
-else:
-    st.info("No customer purchase data found in the selected date range.")
-
-# DOWNLOAD FILTERED DATA
-st.markdown("## 📁 Download Filtered Data")
-st.download_button("⬇️ Download Filtered CSV", data=df_filtered.to_csv(index=False), file_name="filtered_data.csv", mime="text/csv")
-
 # OFF5 COUPON USED
 colored_header("🏷️ OFF5 Coupon Used", "", color_name="red-70")
+
 off5_mask = df_filtered['discount_codes'].astype(str).str.contains("OFF5", case=False, na=False)
-off5_df = df_filtered[off5_mask]
+off5_df = df_filtered[off5_mask].copy()
 
 if not off5_df.empty:
-    off5_table = df_filtered[['customer.first_name', 'customer.email', 'order_number']].dropna().drop_duplicates()
-    off5_table.columns = ['Customer Name', 'Customer Email', 'Order Number']
-    st.dataframe(off5_table, use_container_width=True)
+    def extract_off5_code(discounts):
+        try:
+            data = eval(discounts) if isinstance(discounts, str) else discounts
+            if isinstance(data, list):
+                for d in data:
+                    if d.get('code', '').upper() == 'OFF5':
+                        return d.get('code')
+        except:
+            return None
+        return None
 
-    st.download_button(
-        label="⬇️ Export OFF5 Coupon Data",
-        data=off5_table.to_csv(index=False),
-        file_name="off5_coupon_customers.csv",
-        mime="text/csv"
-    )
+    off5_df['Coupon Code'] = off5_df['discount_codes'].apply(extract_off5_code)
+    off5_table = off5_df[['customer.first_name', 'customer.email', 'order_number', 'Coupon Code']].dropna().drop_duplicates()
+    off5_table.columns = ['Customer Name', 'Customer Email', 'Order Number', 'Coupon Code']
+
+    st.dataframe(off5_table, use_container_width=True)
+    st.download_button("⬇️ Export OFF5 Coupon Data", data=off5_table.to_csv(index=False), file_name="off5_coupon_customers.csv", mime="text/csv")
 else:
     st.info("No 'OFF5' coupon usage found in the selected date range.")
