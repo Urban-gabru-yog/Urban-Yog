@@ -1,4 +1,40 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_25456773066e39e1e2fad3d6433,agent_013449690bb91bf30736266dc9,17319039218,918754059194,error,"6/12/2025, 8:46:25 PM","6/12/2025, 8:46:25 PM",-,sathya.ganesanm@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.29,call_aba1b8e79d9713790c0eb76b11d,agent_013449690bb91bf30736266dc9,17319039218,917678048580,ended,"6/12/2025, 8:45:34 PM","6/12/2025, 8:47:38 PM",124,goveprajakta25@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ 
+User: हां बोलिए 
+Agent: Urban Yog 
+User: ma'am.
+User: हां 
+Agent: अरे, ma'am 
+User: payment करना बाकी इसलिए waiting में रख है.
+User: Hello
+Agent: अरे Prajakta, कोई बात नहीं! 😊 Main bas yeh confirm kar rahi thi ki aapko Urban Yog Electric Facial Hair Remover pasand toh aaya na? Kahi price ya kisi aur cheez ka confusion toh nahi tha?
+User: नहीं नहीं वही चाहिए था.
+Agent: अरे वाह, Prajakta! Yeh toh perfect 
+User: Hello. तो
+Agent: hai. 😊 Waise yeh product kaafi handy hai—pain aur redness ke bina touch-ups karna itna easy ho jaata hai, aur travel pouch mein bhi fit ho jaata hai.Aapko bas payment complete karna hai, aur yeh jaldi se aapke paas deliver ho jayega. Main aapko ek chhoti si tip doon? Aaj ke liye ek exclusive 5% discount hai code ke saath: O – F – F – 5.  
+
+Aapko link bhej doon WhatsApp pe? Toh aap araam se checkout kar 
+User: Ok ma'am.
+User: हां.
+User: Ok.
+User: हां हां ma'am.
+User: Ok ma'am.
+Agent: Perfect, Prajakta! 😊 Main abhi aapko WhatsApp pe checkout link bhej rahi hoon. Aap bas 
+User: अच्छा.
+Agent: araam se jab 
+Agent: Haan bilkul, Prajakta! 😊 Main abhi 
+User: हां हां.
+Agent: link bhejti hoon. Aap bas jab free ho checkout kar lena. Aur haan, agar UPI se payment karengi, toh 5% ke saath ek extra 2% ka discount bhi milega. Total savings aur bhi better ho jayegi! Koi confusion ho toh mujhe ya customer support ko zarur batana.
+User: (inaudible speech)
+User: Ok ma'am.
+Agent: Theek hai, Prajakta! 😊 Main abhi WhatsApp pe link bhejti hoon. Aap araam se checkout kar lena. Aur agar kuch bhi doubt ho, toh mujhe ya customer support ko zarur contact karna. Aapka din shubh 
+Agent: ho!
+User: Yes ma'am ok.
+Agent: Thank you, 
+",https://dxc03zgurdly9.cloudfront.net/0a1c56844ad9dec4d5419c729e644ec5cb3aeba72404786a1e31126b11cc04d2/recording.wav,Positive,True,"The user, Prajakta, confirmed her interest in purchasing the Urban Yog Electric Facial Hair Remover and was informed about a 5% discount available for her payment. The agent provided a checkout link via WhatsApp and encouraged the user to reach out for any further assistance or confusion regarding the purchase.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",124,user_hangup
+-,call_abc625cb20864d1b5c50009fe7e,agent_013449690bb91bf30736266dc9,17319039218,918668145418,error,"6/12/2025, 8:30:45 PM","6/12/2025, 8:30:45 PM",-,priyanshirana586@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_8708db6385c89e582801a128bd6,agent_013449690bb91bf30736266dc9,17319039218,916364243333,error,"6/12/2025, 8:00:46 PM","6/12/2025, 8:00:46 PM",-,prakashananya9@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_6bcb530ab38ebd11c79e4912dc4,agent_013449690bb91bf30736266dc9,17319039218,916385942949,error,"6/12/2025, 8:00:45 PM","6/12/2025, 8:00:45 PM",-,dhanulokesh8@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_267ca14b436b4ba22df3650badb,agent_013449690bb91bf30736266dc9,17319039218,919995260792,error,"6/12/2025, 7:30:45 PM","6/12/2025, 7:30:45 PM",-,aswathyammus1234@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
