@@ -1,4 +1,54 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_8f58041c2184567cd2d263464c7,agent_013449690bb91bf30736266dc9,17319039218,917977552466,error,"6/12/2025, 9:00:46 PM","6/12/2025, 9:00:46 PM",-,vakotarhiya@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.23,call_93367f61ab406db53a95ced3b14,agent_013449690bb91bf30736266dc9,17319039218,917506553668,ended,"6/12/2025, 9:00:26 PM","6/12/2025, 9:02:04 PM",99,afsana0111@gmail.com,"User: Hello? 
+Agent: हैलो, मैं मेहर बोल 
+User: Hello हां बोलिए.
+Agent: रही 
+User: बोलिए.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। कैसी हैं आप, Afsana? 😊  
+
+आपने Urban Yog Electric Facial Hair Remover For Women को लगभग checkout किया था, तो सोचा पूछ लूँ कि सब ठीक था ना? कोई confusion या सवाल तो नहीं था?
+User: Hello.
+Agent: Afsana, आप सुन पा रही हैं? बस ये 
+User: Yes,
+Agent: पूछना था कि आपने Urban Yog Electric Facial Hair Remover को cart में रखा था, तो क्या आपको product पसंद आया? कोई confusion था या बस decide करने में time ले रही थीं?
+User: हां, नहीं
+User: आया है मुझे लेकिन उसको उसने मतलब उसको buy करने लिए बहुत lengthy process दिखा हुआ है. उसने credit card का option नहीं दिखा मेरे को.
+Agent: ओह, समझ गई, Afsana! कभी-कभी payment options थोड़ा confusing लग सकते हैं। लेकिन कोई टेंशन नहीं, मैं आपकी मदद कर सकती हूँ।  
+
+वैसे हमारे पास credit card का option available है। 
+User: हां भेजी है.
+Agent: आप चाहें 
+User: ठीक है, आप भेजिए.
+",https://dxc03zgurdly9.cloudfront.net/2446bc6270561e6cd67c78c326522796bc6026a11ac0668e4cc60becca700a54/recording.wav,Neutral,True,"The user, Afsana, was contacted by the agent regarding her interest in the Urban Yog Electric Facial Hair Remover. Afsana expressed confusion about the lengthy checkout process and the absence of a credit card option, which the agent acknowledged and offered assistance with.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",99,user_hangup
+-,call_bd15437acc88254436a183897a4,agent_013449690bb91bf30736266dc9,17319039218,918930779240,error,"6/12/2025, 8:49:01 PM","6/12/2025, 8:49:01 PM",-,ritikasinghal2101@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.30,call_8157bfa0e784ef148c0ac5e7faa,agent_013449690bb91bf30736266dc9,17319039218,917842463773,ended,"6/12/2025, 8:48:55 PM","6/12/2025, 8:51:03 PM",129,syedanazia3773@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: नहीं
+Agent: अरे, कोई बात नहीं Syed! बस जानना चाह रही थी कि आपको MakeMeeBold Hot Air Brush 1.0 पसंद तो आया था ना? या कुछ और सोच रही थीं?
+User: नहीं वही तो होता है
+User: नहीं हो रहा
+Agent: अरे Syed, कोई टेंशन मत लीजिए! अगर कुछ समझ में नहीं आ रहा या कोई दिक्कत हो रही है, तो आप मुझसे खुलकर पूछ सकती हैं। Checkout में कोई प्रॉब्लम आ रही है क्या? या प्रोडक्ट को लेकर कोई कंफ्यूजन है?
+User: Product परसों later नहीं ma'am payment issue है. Option नहीं है जो हम सोच रहे हैं.
+Agent: ओह, समझ सकती हूँ Syed!
+User: Session delivery मिल सकती है क्या?
+User: Cash on delivery मिल सकता है क्या?
+Agent: हाँ Syed, बिल्कुल!
+User: Hello.
+Agent:  Cash on Delivery (COD) का ऑप्शन available है। आप आराम से प्रोडक्ट ऑर्डर कर सकती हैं और डिलीवरी के समय पेमेंट कर सकती हैं। 😊
+
+अगर 
+User: (inaudible speech)
+User: जी जी check कीजिए.
+Agent: बिल्कुल Syed! मैं अभी चेक कर रही हूँ। Cash on Delivery का ऑप्शन आपके लिए available है। आप बस ऑर्डर प्लेस कर दीजिए, और पेमेंट डिलीवरी के समय कर सकती हैं। 😊
+
+अगर आपको कोई और मदद चाहिए या कोई और सवाल है, तो बेझिझक पूछ लीजिए!
+User: Ok, तो
+User: Thank you
+User: ma'am bye.
+",https://dxc03zgurdly9.cloudfront.net/57321a5a692653185ad177f80bb4e1ffa8a9bcd63312f8bf1c74a4e8570268eb/recording.wav,Positive,True,"The user, Syed, was initially hesitant about a product but expressed interest in cash on delivery options. The agent confirmed that cash on delivery is available and encouraged the user to place an order, leading to a positive conclusion where the user thanked the agent before ending the call.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",129,user_hangup
+$0.02,call_d786ac5400c42c0f54c7efb883d,agent_013449690bb91bf30736266dc9,17319039218,917988787966,ended,"6/12/2025, 8:48:37 PM","6/12/2025, 8:48:43 PM",7,lakshitasinghal33@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही 
+",https://dxc03zgurdly9.cloudfront.net/9d604f16d9708639aa5d00a388532171047ea3c84b4c5eef42e2f7f1ef6c9e70/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent responded in Hindi, introducing herself as Mehr.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",7,user_hangup
 -,call_25456773066e39e1e2fad3d6433,agent_013449690bb91bf30736266dc9,17319039218,918754059194,error,"6/12/2025, 8:46:25 PM","6/12/2025, 8:46:25 PM",-,sathya.ganesanm@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.29,call_aba1b8e79d9713790c0eb76b11d,agent_013449690bb91bf30736266dc9,17319039218,917678048580,ended,"6/12/2025, 8:45:34 PM","6/12/2025, 8:47:38 PM",124,goveprajakta25@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ 
