@@ -1,4 +1,21 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_8e8a5e8e1b0be02efef0fb046a5,agent_013449690bb91bf30736266dc9,17319039218,917034274979,error,"6/12/2025, 4:31:25 PM","6/12/2025, 4:31:25 PM",-,pponnukg@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_d0ea1fa67b84e981259b48b9431,agent_013449690bb91bf30736266dc9,17319039218,919930020286,error,"6/12/2025, 4:30:45 PM","6/12/2025, 4:30:45 PM",-,amrutarsankhe@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_d981c6ef61ef6002723e3d37c9d,agent_013449690bb91bf30736266dc9,17319039218,918281552618,error,"6/12/2025, 4:19:00 PM","6/12/2025, 4:19:00 PM",-,aparnaprathapan77@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_373dc022629eac4b227d263dd89,agent_013449690bb91bf30736266dc9,17319039218,918050287877,ended,"6/12/2025, 4:18:56 PM","6/12/2025, 4:19:02 PM",6,aishwaryanaidu057@gmail.com,"User: Your call has been forwarded 
+Agent: हैलो, मैं मेहर बोल रही 
+User: to voicemail. The person you are trying to reach is not available.
+",https://dxc03zgurdly9.cloudfront.net/18768c56b2be680cbd6ba634d23122a2843425489824a3e6a7dd3994f7169749/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail as the person is not available. The agent introduced themselves as Mehr.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
+$0.11,call_eb0dd2e0bcd93ae30e2d94f756b,agent_013449690bb91bf30736266dc9,17319039218,919940246356,ended,"6/12/2025, 4:18:43 PM","6/12/2025, 4:19:30 PM",48,sowmya2102@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi 
+User: Sorry,
+Agent: Sowmya! This is Meher 
+Agent: Arre, no problem, Sowmya! Main bas casually call kar rahi thi. Aapne MakeMeeBold 3-in-1 Hot Air Brush by Urban Yog apne cart mein rakha tha, toh socha puchh loon—kuch confusion tha ya bas decide kar rahi thi?
+",https://dxc03zgurdly9.cloudfront.net/ea17ea7d83fe86340614664c1e6031ce7c12454e913e814e8f3d340fcc293e8e/recording.wav,Neutral,False,"The agent, Meher from Urban Yog, called the user Sowmya to inform her about an additional 5% discount on a product she had added to her cart, specifically the MakeMeeBold 3-in-1 Hot Air Brush. The agent aimed to clarify any confusion and assist Sowmya in her decision-making process regarding the purchase.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",48,inactivity
+$0.11,call_1251cd0b43257cf832fa56db6d1,agent_013449690bb91bf30736266dc9,17319039218,919167545116,ended,"6/12/2025, 4:15:35 PM","6/12/2025, 4:16:22 PM",48,sejalpalande31@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: ""Sejal, aap busy lag rahi hain shayad? Koi baat nahi, main bas yeh yaad dilane ke liye call kar rahi thi ki aapke cart mein Urban Yog Electric Facial Hair Remover hai. Yeh kaafi popular product hai aur pichle hafte out of stock bhi ho gaya tha. Agar aap interested ho, toh main aapke liye price 
+",https://dxc03zgurdly9.cloudfront.net/898c18802b75a788b8792773a65ed9ccf7288393897f9955b3fa68373a2f9fda/recording.wav,Neutral,False,"The agent, Mehr from Urban Yog, called Sejal to remind her about a product in her cart, offering an additional 5% discount. The agent highlighted the popularity of the product and its recent out-of-stock status, encouraging Sejal to proceed with the purchase.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",48,user_hangup
 -,call_62c15eeb478a305474378b52e6c,agent_013449690bb91bf30736266dc9,17319039218,919599431316,error,"6/12/2025, 4:00:45 PM","6/12/2025, 4:00:45 PM",-,singh.ankita2951993@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.02,call_96de965a79cd6c1342e2bb21c3f,agent_013449690bb91bf30736266dc9,17319039218,918209489039,ended,"6/12/2025, 3:45:25 PM","6/12/2025, 3:45:32 PM",7,heenavirmani88@gmail.com,"User: Hello. 
 Agent: हैलो, मैं मेहर बोल रही 
