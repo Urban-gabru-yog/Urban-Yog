@@ -1,4 +1,59 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_fd8a2624308a166484a1ca1b500,agent_013449690bb91bf30736266dc9,17319039218,918870964847,error,"6/13/2025, 3:04:15 PM","6/13/2025, 3:04:15 PM",-,ammusree.mv.04@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_2f1818819bfe99e254f597f486c,agent_013449690bb91bf30736266dc9,17319039218,919019101221,ended,"6/13/2025, 3:04:03 PM","6/13/2025, 3:04:07 PM",4,anusureshkumar7866@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/b5b341f4535e5c1157ed0f46691740e957f4463923f25e563e414d6b777b5e09/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach the intended recipient directly.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.42,call_4bdcd0236b96b4908d5f4699217,agent_013449690bb91bf30736266dc9,17319039218,918431743366,ended,"6/13/2025, 3:03:53 PM","6/13/2025, 3:06:52 PM",180,vigneshkulal916@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: हां
+User: पांच percent से discount होता है?
+Agent: बिल्कुल सही पकड़ा आपने!
+User: क्या हो गया?
+User: हां. 
+Agent: अरे, 
+User: मैं order कर दिया.
+Agent: अरे वाह, Vignesh! आपने ऑर्डर कर दिया? ये 
+User: हां. हां,
+Agent: तो कमाल की बात है! 🎉 MakeMeeBold Hot Air Brush 1.0 आपके लिए एकदम 
+User: वह कितना time date कितना होता है आने के लिए?
+User: आने को date?
+User: वह mention नहीं कर रहा है आने का date.
+Agent: अरे, कोई बात नहीं Vignesh! आमतौर पर हमारा delivery time 4-7 working days का होता है। लेकिन मैं आपको suggest करूंगी कि आप अपने order 
+User: शक किया मुझे वह 
+Agent: confirmation email या WhatsApp पर 
+User: date नहीं है.
+User: Date नहीं mention हुआ.
+User: एक चक्कर के बताना अभी order किया था, कब आएगा मालूम नहीं वह.
+Agent: ओह, समझ गई Vignesh! अगर order confirmation में date mention नहीं हुआ है, तो आप tension मत लीजिए। मैं आपको confirm कर देती हूँ। 
+
+आपका order आमतौर पर 4-7 working days में deliver हो जाता है। अगर आपको exact date चाहिए, तो आप Urban Yog के customer support से contact कर सकते हैं। उनका नंबर है: seven - three - 
+User: है? हां.
+Agent: nine - seven - eight - one - zero - three - eight - two.आपको जल्दी ही update मिल जाएगा!
+User: हां हां.
+User: Update में वह कितने बार कितने दिन में आता नहीं मालूम?
+Agent: Vignesh, कोई टेंशन मत लीजिए! 😊 
+User: Ok ok.
+Agent: मैं आपको बता दूं कि Urban Yog का delivery time आमतौर पर 4-7 working days का होता है। 
+
+अगर आपको exact update चाहिए, तो आप customer support से बात कर सकते हैं। उनका नंबर है: seven - three - nine - seven - eight - one - zero - 
+User: ठीक है.
+User: वह अभी offer क्या है पांच percent discount पर?
+Agent: हाँ 
+User: अभी बोला था 
+Agent: Vignesh, अभी 
+User: ना.
+User: Discount अब 
+User: मैं order
+Agent: हाँ, बिल्कुल सही!
+User: दिया. क्या करने का?
+User: अभी?
+Agent: अरे वाह, आपने ऑर्डर कर दिया? 🎉 अब तो 
+User: हां.
+Agent: बस आराम से बैठिए और अपने MakeMeeBold Hot Air Brush 1.0 का इंतज़ार कीजिए!अगर कोई और सवाल हो या कुछ और मदद चाहिए, तो बेझिझक पूछ लीजिए। मैं हमेशा यहाँ हूँ!
+",https://dxc03zgurdly9.cloudfront.net/ca6ecfbc63727f8f0407821573804dcb54c115cd9542f6cf17df2b8c1bb501cc/recording.wav,Positive,True,"The user, Vignesh, interacted with the agent regarding a product order and inquired about the delivery date. The agent confirmed that the delivery typically takes 4-7 working days and provided customer support contact information for further inquiries. The user successfully placed an order and received confirmation of the discount offer.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",180,max_duration_reached
+$0.02,call_fd373c04f55d6578d4196b4e15e,agent_013449690bb91bf30736266dc9,17319039218,918094359566,ended,"6/13/2025, 3:00:47 PM","6/13/2025, 3:00:54 PM",7,jitendraseinkanu9082@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+",https://dxc03zgurdly9.cloudfront.net/16de3f63d8b20e86f57b3418935eb8f2d2a21b73b96cda3d17aec5ef40c62034/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",7,user_hangup
+-,call_02a6c9ac902948ffe7583ead5be,agent_013449690bb91bf30736266dc9,17319039218,919792253150,error,"6/13/2025, 2:49:17 PM","6/13/2025, 2:49:17 PM",-,ruchigupta7309@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_fd07422e262a027629574ee56da,agent_013449690bb91bf30736266dc9,17319039218,918864902413,error,"6/13/2025, 2:49:16 PM","6/13/2025, 2:49:16 PM",-,dimrip08@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.05,call_2e6c86f17751cca63858a7330d2,agent_013449690bb91bf30736266dc9,17319039218,918094359566,ended,"6/13/2025, 2:45:49 PM","6/13/2025, 2:46:08 PM",20,jitendraseinkanu9082@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 ",https://dxc03zgurdly9.cloudfront.net/2c27621944de4d5370f1edd2e0239beab5eddd0f81d9cf687fc2533fe813c2e2/recording.wav,Positive,True,"The user was greeted by the agent, Mehr, from Urban Yog, who informed them about an additional 5% discount available for a product added to their cart. The agent offered to help the user claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",20,user_hangup
