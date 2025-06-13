@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_10982426e7d26872e3c47bc4ff1,agent_013449690bb91bf30736266dc9,17319039218,917780882615,error,"6/13/2025, 4:01:00 PM","6/13/2025, 4:01:00 PM",-,nazimamajeed33@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.03,call_6f60c5f0748f37cc930a0a09a53,agent_013449690bb91bf30736266dc9,17319039218,917696973889,ended,"6/13/2025, 4:00:40 PM","6/13/2025, 4:00:53 PM",13,kashyapmini38@gmail.com,"User: Hello
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने 
+",https://dxc03zgurdly9.cloudfront.net/d12710eda0370fee001aacf411c8e4a0b791a816300108b33aeea11f2a3b283e/recording.wav,Neutral,False,"The user initiated a call to Urban Yog and was greeted by the agent, Mehr. The conversation appears to be in Hindi, indicating a potential discussion about services or inquiries related to Urban Yog.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",13,user_hangup
 -,call_cc72898e6c688e6b46f8924b5a0,agent_013449690bb91bf30736266dc9,17319039218,919991818640,error,"6/13/2025, 3:46:12 PM","6/13/2025, 3:46:12 PM",-,s.mamta25@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_b81135ad5e58c2b9521721a8544,agent_013449690bb91bf30736266dc9,17319039218,917318518142,error,"6/13/2025, 3:45:59 PM","6/13/2025, 3:45:59 PM",-,princess2701@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_db523a04936d75f48863a07571f,agent_013449690bb91bf30736266dc9,17319039218,919915714059,ended,"6/13/2025, 3:45:52 PM","6/13/2025, 3:45:55 PM",4,Sidhusimran294@gmail.com,"User: Call has been forwarded to voicemail.
