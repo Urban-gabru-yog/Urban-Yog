@@ -1,4 +1,51 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_cc72898e6c688e6b46f8924b5a0,agent_013449690bb91bf30736266dc9,17319039218,919991818640,error,"6/13/2025, 3:46:12 PM","6/13/2025, 3:46:12 PM",-,s.mamta25@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_b81135ad5e58c2b9521721a8544,agent_013449690bb91bf30736266dc9,17319039218,917318518142,error,"6/13/2025, 3:45:59 PM","6/13/2025, 3:45:59 PM",-,princess2701@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_db523a04936d75f48863a07571f,agent_013449690bb91bf30736266dc9,17319039218,919915714059,ended,"6/13/2025, 3:45:52 PM","6/13/2025, 3:45:55 PM",4,Sidhusimran294@gmail.com,"User: Call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/09cf4701ee187b30e57cc2b7ca57593d99433ad3ff35034ef6a5ddc648a22e24/recording.wav,Neutral,False,"The user attempted to make a call, but it was forwarded to voicemail, indicating that the intended recipient was unavailable to take the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+-,call_e992ec172997820e739b881dfa8,agent_013449690bb91bf30736266dc9,17319039218,919361266569,error,"6/13/2025, 3:34:17 PM","6/13/2025, 3:34:17 PM",-,dhanu011102001@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_27784035ae43dc112ae347bfb1e,agent_013449690bb91bf30736266dc9,17319039218,918788440574,error,"6/13/2025, 3:34:15 PM","6/13/2025, 3:34:15 PM",-,savalekavita673@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_793b703ac4fc47cdcc7372b25a3,agent_013449690bb91bf30736266dc9,17319039218,918847797112,ended,"6/13/2025, 3:34:04 PM","6/13/2025, 3:34:07 PM",4,akhadilkar01@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/7f09a3cbde389e0da7d1a44e6f510901d4b5cf5dc0acd39b92e6cff720fbcb3d/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach a live agent.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.21,call_8c9f03177ea73f1d615b28ac6f2,agent_013449690bb91bf30736266dc9,17319039218,919051111478,ended,"6/13/2025, 3:31:02 PM","6/13/2025, 3:32:33 PM",91,barnali.sen382@gmail.com,"User: Hello. 
+Agent: हैलो, मैं 
+User: Hello. हां?
+User: कौन 
+Agent: Meher 
+User: बोल रहे हैं?
+Agent: हाय Barnali!
+User: हां 
+Agent:  मैं Meher बोल रही हूँ Urban Yog से। आपने MakeMeeBold Frizz Free Straightening Brush almost checkout किया था, तो सोचा पूछ लूँ सब ठीक था ना?
+User: बोलिए.
+User: हां जी था.
+Agent: अच्छा, तो आपको product पसंद आया था ना? बस price का confusion था या कुछ और सोच रही थीं?
+User: हां.
+User: हां हां हां.
+User: confusion का.
+User: Delivery charge से साठ रुपया था ना तो वह पहले देना था इसलिए मैं नहीं लिया.
+Agent: ओह, समझ सकती हूँ, Barnali!
+User: हां तो इसलिए मैं Flipkart 
+Agent:  Delivery charges 
+User: में लिखी हूं.
+Agent: अरे, समझ सकती हूँ, Barnali!
+User: हां बोलिए.
+Agent:  लेकिन Urban Yog की वेबसाइट से लेने का फायदा ये है कि आपको authentic product और exclusive offers मिलते हैं। और वैसे, आज के लिए एक छोटा सा surprise है—आपको 5% का discount मिल सकता है code: O – F – F – 5 के साथ। 
+
+और अगर आप UPI से payment करती हैं, तो extra 2% का discount भी मिलेगा। Total savings और बढ़ जाएंगी! 😊 
+
+आपको मैं checkout link भेज दूं?
+User: हां ठीक है मैं देखती हूं.
+User: ठीक है.
+",https://dxc03zgurdly9.cloudfront.net/26ed2a04c64da4071e9f6af78b46f7239b4ea95f36e83c50f2e42517a0279ff9/recording.wav,Neutral,True,"The call was initiated by the agent, Meher, to follow up on the user's interest in the MakeMeeBold Frizz Free Straightening Brush. The user expressed confusion regarding delivery charges, which led to hesitation in completing the purchase. The agent offered a discount and additional savings for UPI payment, and the user agreed to check the provided link.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",91,user_hangup
+$0.17,call_45b41bf3b4ed77d793db66cb53e,agent_013449690bb91bf30736266dc9,17319039218,919002537767,ended,"6/13/2025, 3:30:45 PM","6/13/2025, 3:31:58 PM",74,afsanasksana@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Ma'am
+Agent: जी, अफसाना! बताइए, मैं आपकी कैसे मदद कर सकती हूँ?
+User: अब बंगाली से बात करिए ना फिर?
+Agent: अरे अफसाना, मैं अभी सिर्फ हिंदी और इंग्लिश में ही बात कर सकती हूँ। लेकिन आप मुझसे किसी भी भाषा में बात कर सकती हैं, मैं समझने की पूरी कोशिश करूंगी! 😊 तो बताइए, MakeMeeBold Hot Air Brush 1.0 के बारे में क्या सोच रही थीं?
+User: से छह बार
+Agent: अरे अफसाना, क्या आप मुझे थोड़ा और क्लियर करके बता सकती हैं? मैं आपकी पूरी मदद करने के लिए यहाँ हूँ!
+",https://dxc03zgurdly9.cloudfront.net/3c76b471842b0e530c435f1065186cceebcf5226b56be99acddb391b3b7ec3b3/recording.wav,Neutral,False,"The user, Afasana, was contacted by the agent regarding a product in their cart and a special discount. The user requested to communicate in Bengali, but the agent could only converse in Hindi and English, leading to some confusion.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",74,user_hangup
+-,call_8a6ea9c4e74c28778856d964347,agent_013449690bb91bf30736266dc9,17319039218,917006970452,error,"6/13/2025, 3:15:59 PM","6/13/2025, 3:15:59 PM",-,rituthakur824@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_fd8a2624308a166484a1ca1b500,agent_013449690bb91bf30736266dc9,17319039218,918870964847,error,"6/13/2025, 3:04:15 PM","6/13/2025, 3:04:15 PM",-,ammusree.mv.04@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_2f1818819bfe99e254f597f486c,agent_013449690bb91bf30736266dc9,17319039218,919019101221,ended,"6/13/2025, 3:04:03 PM","6/13/2025, 3:04:07 PM",4,anusureshkumar7866@gmail.com,"User: Your call has been forwarded to voicemail.
 ",https://dxc03zgurdly9.cloudfront.net/b5b341f4535e5c1157ed0f46691740e957f4463923f25e563e414d6b777b5e09/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach the intended recipient directly.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
