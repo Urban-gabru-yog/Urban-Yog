@@ -145,6 +145,7 @@ fig2 = px.histogram(df_filtered, x="DurationSeconds", nbins=20, title="Duration 
 st.plotly_chart(fig2, use_container_width=True)
 
 # CUSTOMERS WHO MADE A PURCHASE
+# CUSTOMERS WHO MADE A PURCHASE
 colored_header("👤 Customers Who Made a Purchase", "", color_name="gray-70")
 
 timestamp_column = None
@@ -155,15 +156,26 @@ for col in df_filtered.columns:
 
 customer_df = df_filtered[df_filtered['order_number'].notna()][['call_date', 'Email', 'order_number', 'title']].drop_duplicates()
 
-
 if not customer_df.empty and timestamp_column:
     customer_df_full = df_filtered[df_filtered['order_number'].notna()][
         ['call_date', 'Email', 'order_number', timestamp_column, 'StartTimestamp', 'title', 'total_price', 'COGS']
     ].copy()
 
-    customer_df_full[timestamp_column] = pd.to_datetime(customer_df_full[timestamp_column], errors='coerce')
-    customer_df_full['Order Time'] = customer_df_full[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
+    # Convert both datetime columns and remove timezones if any
     customer_df_full['StartTimestamp'] = pd.to_datetime(customer_df_full['StartTimestamp'], errors='coerce')
+    customer_df_full[timestamp_column] = pd.to_datetime(customer_df_full[timestamp_column], errors='coerce')
+
+    # Remove timezone awareness if present (tz-aware → tz-naive)
+    customer_df_full['StartTimestamp'] = customer_df_full['StartTimestamp'].dt.tz_localize(None)
+    customer_df_full[timestamp_column] = customer_df_full[timestamp_column].dt.tz_localize(None)
+
+    # ✅ Filter where Call Time is less than or equal to Order Time
+    customer_df_full = customer_df_full[
+        customer_df_full['StartTimestamp'] <= customer_df_full[timestamp_column]
+    ]
+
+    # Format for display
+    customer_df_full['Order Time'] = customer_df_full[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
     customer_df_full['Call Time'] = customer_df_full['StartTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
     customer_df_full = customer_df_full.sort_values('StartTimestamp')
@@ -179,22 +191,24 @@ if not customer_df.empty and timestamp_column:
 
     st.dataframe(customer_df_full, use_container_width=True)
 
+    # Metrics
     total_purchases = customer_df_full['Customer Email'].nunique()
     conversion = round(total_purchases / connected_calls * 100, 2) if connected_calls > 0 else 0
     total_revenue = customer_df_full['Price'].sum()
+    total_cogs_value = customer_df_full['COGS'].sum()
+    profit_amount = ((total_revenue / 118) * 100) - total_cogs_value - total_call_cost - (120 * total_purchases)
 
     col3_placeholder.metric("👝 Purchases", total_purchases)
     col4_placeholder.metric("🔀 Conversion", f"{conversion}%")
     col7_placeholder.metric("💰 Total Revenue", f"₹{total_revenue:,.2f}")
-
-    total_cogs_value = customer_df_full['COGS'].sum()
     col8.metric("📦 Total COGS Price", f"₹{total_cogs_value:,.2f}")
-
-    profit_amount = ((total_revenue / 118) * 100) - total_cogs_value - total_call_cost - (120 * total_purchases)
     col9.metric("💸 Profit Amount", f"₹{profit_amount:,.2f}")
 else:
     st.info("No customer purchase data found in the selected date range.")
     col8.metric("📦 Total COGS Price", "N/A")
+
+
+
 
 # AGENT LEADERBOARD
 if 'Agent' in df_filtered.columns:
