@@ -1,4 +1,23 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_677e61dc80de03672b7537a45bf,agent_013449690bb91bf30736266dc9,17319039218,918149810127,error,"6/16/2025, 6:45:37 PM","6/16/2025, 6:45:37 PM",-,gangekomal95@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_e53125c50273773ed8c108498de,agent_013449690bb91bf30736266dc9,17319039218,917760569697,error,"6/16/2025, 6:30:38 PM","6/16/2025, 6:30:38 PM",-,sarunaiknaik86@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.06,call_010fe9c66f00b1e1e819b2ab76e,agent_013449690bb91bf30736266dc9,17319039218,917025660725,ended,"6/16/2025, 6:30:21 PM","6/16/2025, 6:30:45 PM",24,aksharamdevk18@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: हां.
+Agent: वाह, बढ़िया! तो मैं आपको जल्दी से बता देती हूँ—आपने Urban Yog Electric Facial Hair Remover For 
+",https://dxc03zgurdly9.cloudfront.net/bcb06ed1f6862544026ebb45a758cdebf49ec9ce1b4b7559e2bf9cfb1d8cdde5/recording.wav,Positive,True,"The user interacted with the agent from Urban Yog regarding a product they added to their cart. The agent informed the user about an additional 5% discount available for the day, and the user expressed interest in claiming it.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",24,user_hangup
+-,call_cc11e2c599d79ca62ebcaa24b62,agent_013449690bb91bf30736266dc9,17319039218,919156937618,error,"6/16/2025, 6:15:41 PM","6/16/2025, 6:15:41 PM",-,vaishnavims8573@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_dae13cdfca13b29c930327a7e9f,agent_013449690bb91bf30736266dc9,17319039218,917010365721,error,"6/16/2025, 6:15:40 PM","6/16/2025, 6:15:40 PM",-,gitudon2013@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_ff742c68e5cf60d8c7508a4d4a5,agent_013449690bb91bf30736266dc9,17319039218,917568288093,error,"6/16/2025, 6:15:39 PM","6/16/2025, 6:15:39 PM",-,bishnoisonu3301@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_30b6593a331c890a16cd5c8b64c,agent_013449690bb91bf30736266dc9,17319039218,918265817203,error,"6/16/2025, 6:15:38 PM","6/16/2025, 6:15:38 PM",-,aryan.gupta.gupta123@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.02,call_fd71dd24cd46dd427664fd9c701,agent_013449690bb91bf30736266dc9,17319039218,916238757918,ended,"6/16/2025, 6:15:28 PM","6/16/2025, 6:15:35 PM",8,jayalekshmir1995@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
+",https://dxc03zgurdly9.cloudfront.net/91eeedaea2a204fb281550d876abe1d1ce1ba06acca81dd94f3195e9aa19c615/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or its outcome.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
+$0.05,call_0b9146d71bbc606c5398222c130,agent_013449690bb91bf30736266dc9,17319039218,916201007270,ended,"6/16/2025, 6:15:19 PM","6/16/2025, 6:15:41 PM",22,shahanshu0109@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+Agent: Hi Anshu! This is 
+User: Yes ma'am.
+Agent: Meher calling from Urban Yog. I noticed you almost checked out the MakeMeeBold 3-in-1 Hot Air Brush for ₹2199. Just wanted to check in—did everything 
+",https://dxc03zgurdly9.cloudfront.net/d07d2df42a60fe217f2458c4fcfccafce76966f3dc231b3ccf60202b8d551f7a/recording.wav,Positive,True,"The agent, Meher from Urban Yog, reached out to the user, Anshu, to inform them about an additional 5% discount on a product they added to their cart, specifically the MakeMeeBold 3-in-1 Hot Air Brush. The call was initiated to encourage the user to complete their purchase.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",22,user_hangup
 -,call_7d0fc8b1643a60e22ffdbcc9722,agent_013449690bb91bf30736266dc9,17319039218,919935441244,error,"6/16/2025, 6:03:40 PM","6/16/2025, 6:03:40 PM",-,rahilakhan198@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
 -,call_1546d28a75fc2e87cfb3fd5fb37,agent_013449690bb91bf30736266dc9,17319039218,916374054553,error,"6/16/2025, 6:00:38 PM","6/16/2025, 6:00:38 PM",-,harinisairam2002@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_59898ee3a23df520263c9a1db31,agent_013449690bb91bf30736266dc9,17319039218,918319619447,ended,"6/16/2025, 6:00:26 PM","6/16/2025, 6:00:30 PM",4,badkuljigyasa@gmail.com,"User: Your call 
