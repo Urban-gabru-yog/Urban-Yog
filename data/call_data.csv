@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.05,call_7ded62f2ef0e4940ab8391dbfd9,agent_013449690bb91bf30736266dc9,17319039218,919108105908,ended,"6/16/2025, 12:30:19 PM","6/16/2025, 12:30:41 PM",23,Saanchi_behere@yahoo.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi Saanchi! This is 
+User: नहीं.
+Agent: Meher calling from Urban Yog. I noticed you almost checked out the MakeMeeBold Hot Air Brush 1.0 for 
+",https://dxc03zgurdly9.cloudfront.net/16286c9135c9d945b75742ee42c44e5d83f0e064fa8fb1909e5d1febf7bb4eb0/recording.wav,Negative,False,"The user, Saanchi, received a call from Meher at Urban Yog regarding a product in her cart and an additional discount offer. However, Saanchi declined the offer and did not express interest in proceeding with the purchase.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",23,user_hangup
 -,call_ca2b00a4f3818c9fc3156a4fa22,agent_013449690bb91bf30736266dc9,17319039218,919890043586,error,"6/13/2025, 8:45:59 PM","6/13/2025, 8:45:59 PM",-,nandinisjadhav4129@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_7396401bd97487cfd8b6c116b83,agent_013449690bb91bf30736266dc9,17319039218,917774006953,error,"6/13/2025, 8:34:15 PM","6/13/2025, 8:34:15 PM",-,gajanandambe4555@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.07,call_0cdaf4d18d55dc46d86344fb88d,agent_013449690bb91bf30736266dc9,17319039218,919596850321,ended,"6/13/2025, 8:30:42 PM","6/13/2025, 8:31:11 PM",30,monikabharti1687@gmail.com,"User: Hello.
