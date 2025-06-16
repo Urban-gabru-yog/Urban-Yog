@@ -1,4 +1,43 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_af55f2c42cd12ca4239b74c40d2,agent_013449690bb91bf30736266dc9,17319039218,918957945120,error,"6/16/2025, 1:00:38 PM","6/16/2025, 1:00:38 PM",-,tripriyanshi08@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_935919bf5174b7629aebb7d193a,agent_013449690bb91bf30736266dc9,17319039218,918168233413,error,"6/16/2025, 1:00:37 PM","6/16/2025, 1:00:37 PM",-,aryagazal500@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_67ef275e10b0d23aa06869169d3,agent_013449690bb91bf30736266dc9,17319039218,919931067999,error,"6/16/2025, 12:48:54 PM","6/16/2025, 12:48:54 PM",-,mukundproperties1991@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.05,call_ccd63fb886fea97639b4eb6d391,agent_013449690bb91bf30736266dc9,17319039218,917414949192,ended,"6/16/2025, 12:48:35 PM","6/16/2025, 12:48:56 PM",22,ruchitachinchwade@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+Agent: Hi Ruchita! This is Meher calling from Urban Yog. I noticed you almost checked out the Urban Yog Electric Facial Hair Remover For Women for ₹849. Just 
+",https://dxc03zgurdly9.cloudfront.net/884ef3f290a26b7362eed88206b4302bce373cdddab97cd2e185634a3ce0ea5e/recording.wav,Neutral,False,"The agent, Meher from Urban Yog, reached out to the user, Ruchita, to inform her about an additional 5% discount on a product she had added to her cart, specifically the Urban Yog Electric Facial Hair Remover for Women priced at ₹849.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",22,user_hangup
+$0.01,call_ae03ba171f15786077aee494999,agent_013449690bb91bf30736266dc9,17319039218,919116583491,ended,"6/16/2025, 12:48:27 PM","6/16/2025, 12:48:32 PM",6,tigerrajpurohit99@gmail.com,"User: Your call has been forwarded to voicemail. The person you are trying to reach is not available.
+",https://dxc03zgurdly9.cloudfront.net/210aa7d4b9f0e97f31b17ba0431b47c0d33df0cccaf360ee4e03f743cb283a83/recording.wav,Neutral,False,"The user attempted to reach someone but was directed to voicemail, indicating that the person they were trying to contact is unavailable.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
+$0.39,call_8c5cb6da0ac90a2dd92523ea085,agent_013449690bb91bf30736266dc9,17319039218,919797718450,ended,"6/16/2025, 12:45:20 PM","6/16/2025, 12:48:08 PM",168,khabarkus@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: नहीं अभी नहीं.
+Agent: कोई बात नहीं, शबीर!
+User: Ok.
+Agent:  😊 अगर आपको कभी भी कोई सवाल हो या जब भी आप तैयार हों, तो बस हमें बताइए। मैं अभी भी आपके लिए व्हाट्सएप पर लिंक भेज सकती हूँ ताकि जब भी आप 
+User: बात है बात.
+User: हां शुक्रिया ऐसा है क्यों?
+Agent: अरे, शबीर! 😊 कोई बात नहीं, मैं बस ये जानना चाह रही थी कि आपने Urban Yog Callus Remover को कार्ट में रखा था, तो क्या कुछ confusion था या कोई और वजह? मैं आपकी मदद करने के लिए यहां हूं।  
+
+वैसे, ये प्रोडक्ट घर बैठे आपके पैरों को spa जैसा soft बना देता है। Turbo treatment जैसा feel, वो भी बिना salon जाए। क्या आपको price को लेकर कोई hesitation था?
+User: Cash on delivery जो है ना इसलिए.
+Agent: ओह, समझ गई शबीर! Cash on Delivery का option तो बिल्कुल available है। आप आराम से घर पर delivery लेते वक्त payment कर सकती हैं। 😊  
+
+वैसे, अगर आप prepaid payment करती हैं, तो आपको 2% का extra discount भी मिल सकता है। लेकिन कोई टेंशन नहीं, जो आपको comfortable लगे। क्या मैं आपके लिए order confirm करूं Cash on Delivery पर?
+User: जी.
+Agent: वाह, बढ़िया शबीर! 😊 मैं अभी आपके लिए Cash on Delivery पर order confirm कर देती हूँ।  
+
+मैं आपको WhatsApp पर checkout link भेज रही हूँ, बस उस पर क्लिक करके confirm कर लीजिए। अगर 
+User: ठीक है 
+Agent: कोई confusion हो, तो 
+User: ma'am.
+Agent: शुक्रिया, शबीर! 😊 मैंने WhatsApp पर link भेज दिया है। जब भी आप 
+User: Ok ok ok 
+Agent: free हों, 
+User: ma'am.
+Agent: ठीक है, शबीर! 😊 कोई भी सवाल हो तो बेझिझक पूछ लेना। आपका दिन बढ़िया जाए!
+User: Thank you.
+Agent: आपका भी बहुत-बहुत शुक्रिया, शबीर! 😊 कोई भी मदद चाहिए हो, तो बस बताइएगा। अपना ख्याल रखिए, बाय!
+Agent: शबीर, मैं बस आपको याद दिलाने के लिए कॉल कर रही थी कि मैंने WhatsApp पर 
+",https://dxc03zgurdly9.cloudfront.net/a5b40bd09f7cf433142b1df532242df3f9fc1122049fa9a7b6a05e81a83a4069/recording.wav,Positive,True,"The agent, Mehr, contacted the user, Shabeer, to inform him about a 5% discount on a product he added to his cart. After discussing payment options, Shabeer confirmed his order for cash on delivery, and the agent sent him a WhatsApp link for checkout.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",168,user_hangup
 $0.05,call_7ded62f2ef0e4940ab8391dbfd9,agent_013449690bb91bf30736266dc9,17319039218,919108105908,ended,"6/16/2025, 12:30:19 PM","6/16/2025, 12:30:41 PM",23,Saanchi_behere@yahoo.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 Agent: Hi Saanchi! This is 
