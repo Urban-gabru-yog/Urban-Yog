@@ -1,4 +1,45 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_2bce1dc21f9c6324902285dd16f,agent_013449690bb91bf30736266dc9,17319039218,919876160773,error,"6/16/2025, 8:45:39 PM","6/16/2025, 8:45:39 PM",-,jasstoor01@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_74bbca6675716425d3e1014c465,agent_013449690bb91bf30736266dc9,17319039218,918605206174,error,"6/16/2025, 8:45:38 PM","6/16/2025, 8:45:38 PM",-,shivanipardeshi2002@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_c809b279ae662e2779894f44c4c,agent_013449690bb91bf30736266dc9,17319039218,919744580158,error,"6/16/2025, 8:45:37 PM","6/16/2025, 8:45:37 PM",-,smijashoby999@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_01c715a18f8dfbfb7ea0143eb17,agent_013449690bb91bf30736266dc9,17319039218,918310758590,ended,"6/16/2025, 8:40:18 PM","6/16/2025, 8:40:21 PM",4,thaspiya9@gmail.com,"Agent: हैलो, मैं मेहर 
+User: Call has been forwarded to voicemail.
+Agent: बोल 
+",https://dxc03zgurdly9.cloudfront.net/1f3856a1484ac3363aae38f664dab48e9f766615d22e8157d218c3781f7882e0/recording.wav,Neutral,False,"The call was initiated by the agent, but the user was unable to engage as the call was forwarded to voicemail. The agent prompted the user to speak, indicating a lack of interaction.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.01,call_7297a66c409e807eb63d3e5d3b5,agent_013449690bb91bf30736266dc9,17319039218,917517857251,ended,"6/16/2025, 8:40:14 PM","6/16/2025, 8:40:20 PM",6,pranjalmundhada@gmail.com,"User: Your call has been forwarded to voicemail. The person you're trying to reach is not available.
+",https://dxc03zgurdly9.cloudfront.net/330a75a6a9c9a4d38b66bc0a8b794769a3bae1f622d021d9acac7111273412dc/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail as the person is not available.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
+$0.03,call_60b994d49e3d469a08cdb9aba4e,agent_013449690bb91bf30736266dc9,17319039218,918088445980,ended,"6/16/2025, 8:36:54 PM","6/16/2025, 8:37:05 PM",11,sangeethakichha@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया 
+",https://dxc03zgurdly9.cloudfront.net/fdf2651c458a0ed84260065330b201af5bddde577978357dd66a95e21bc053e8/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, initiated the call to inform the user about a product they added to their cart. The conversation likely revolves around the user's interest in the product and any assistance they may need.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",11,user_hangup
+$0.09,call_097fe27e923eeedb4d3a1b97ff4,agent_013449690bb91bf30736266dc9,17319039218,919586396264,ended,"6/16/2025, 8:33:36 PM","6/16/2025, 8:34:16 PM",40,deevin1522@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+Agent: Hi Deepu! This is Meher calling from Urban Yog. I noticed you almost checked out the Urban Yog Electric Facial Hair Remover For Women for ₹849. So, I thought I’d check in—everything okay?
+",https://dxc03zgurdly9.cloudfront.net/8b8fbf82ad51b71feb7b7f23ac02783935f2569def940ee8412ee4d925f5408e/recording.wav,Neutral,True,"The agent, Meher from Urban Yog, reached out to the user, Deepu, to inform them about an additional 5% discount on a product they added to their cart, specifically the Urban Yog Electric Facial Hair Remover for Women. The call aimed to assist the user in completing their purchase.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",40,inactivity
+$0.01,call_cd3c50ae13d8ae1f072a0e29dbb,agent_013449690bb91bf30736266dc9,17319039218,919625028722,ended,"6/16/2025, 8:30:11 PM","6/16/2025, 8:30:16 PM",6,K21139690@gmail.com,"User: Your call has been forwarded to voice mail. The person you are trying to reach is not available.
+",https://dxc03zgurdly9.cloudfront.net/cadd363f68e0fdd29cbd5f73238b216440762e9c0844d31b185965154b7caef2/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail as the person is not available.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
+$0.09,call_aba10f0674466ae5ecc1d40314d,agent_013449690bb91bf30736266dc9,17319039218,918747810445,ended,"6/16/2025, 8:17:22 PM","6/16/2025, 8:18:02 PM",40,gowdru@gmail.com,"Agent: हैलो, 
+User: Hello, मैं मेहर बोल रही हूं 
+Agent: मैं मेहर बोल रही हूँ 
+User: urban York से. मैंने देख
+User: Hello हेमा. 
+Agent: हैलो Hema! मैं मेहर 
+User: मैं मिर्ज़ा बोल रही हूं urban.
+User: Hello 
+User: हेमा.
+Agent: हैलो हेमा! मैं मेहर बोल रही हूं Urban Yog से। आपने MakeMeeBold 
+User: आपने make me world painting brush को
+User: Hello हेमा. मैं मेहर 
+Agent: हैलो हेमा! मैं मेहर बोल 
+User: बोल रही हूं urban योग.
+Agent: हैलो हेमा!
+User: Hello हेमा, मैं मिहिर बोल 
+Agent:  मैं मेहर बोल रही 
+User: रही हूं urban योग से.
+",https://dxc03zgurdly9.cloudfront.net/769019356eba1c576599d896af147079c49c40775731c34d36843d2a5fcb0b88/recording.wav,Neutral,False,"The call involved a user named Meher from Urban Yog trying to communicate with the agent, but there was confusion with the names and repeated greetings. The conversation did not progress beyond introductions, indicating a lack of clarity in communication.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",40,user_hangup
+-,call_c1dc8e5c55a1b5768857117122b,agent_013449690bb91bf30736266dc9,17319039218,919322206133,error,"6/16/2025, 8:15:38 PM","6/16/2025, 8:15:38 PM",-,amanbaadwale@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_d09e655a3fe4b37c67f3077683c,agent_013449690bb91bf30736266dc9,17319039218,919880087122,ended,"6/16/2025, 8:15:29 PM","6/16/2025, 8:15:34 PM",6,shwetashetty85@gmail.com,"User: Has been forwarded Trying to reach is not available.
+",https://dxc03zgurdly9.cloudfront.net/c14264151471c2083dd5662b1b70ebd0b395b6c87d335397a7c36c55deec4f86/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the person is not available. The call was likely forwarded to another line or agent.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
+$0.02,call_09f2dafe266b88021ca5497a389,agent_013449690bb91bf30736266dc9,17319039218,918076260612,ended,"6/16/2025, 8:15:24 PM","6/16/2025, 8:15:32 PM",9,Kalpnasharma3456@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने 
+",https://dxc03zgurdly9.cloudfront.net/61c868d934fa85a57b1dd46f4453de41d38f2c164f34b9743b7a829ae9b575a0/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, indicating that the conversation was likely about a service or inquiry related to Urban Yog. However, the transcript does not provide enough information to determine the outcome of the call or any specific actions taken.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
 -,call_e9bde5b4b42ecb4e224cecf9048,agent_013449690bb91bf30736266dc9,17319039218,918056571047,error,"6/16/2025, 8:03:59 PM","6/16/2025, 8:03:59 PM",-,janani1047@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_b2f718f9d0e8136488fcc6dbd56,agent_013449690bb91bf30736266dc9,17319039218,919380889417,error,"6/16/2025, 8:03:58 PM","6/16/2025, 8:03:58 PM",-,elemanedeepa@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_c35df9bad79a9dd96b9b8c0f346,agent_013449690bb91bf30736266dc9,17319039218,916297686281,error,"6/16/2025, 8:03:56 PM","6/16/2025, 8:03:56 PM",-,Sudhir@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
