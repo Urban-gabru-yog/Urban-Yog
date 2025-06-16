@@ -1,4 +1,46 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_e16a48740cd74e75dfff9e37995,agent_013449690bb91bf30736266dc9,17319039218,917263948584,error,"6/16/2025, 2:45:38 PM","6/16/2025, 2:45:38 PM",-,premjlove143@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.10,call_2e979067ae001e3104a683f0410,agent_013449690bb91bf30736266dc9,17319039218,916265712319,ended,"6/16/2025, 2:45:18 PM","6/16/2025, 2:46:00 PM",43,rawatmahima839@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello hello.
+Agent: Hi Mahima! This 
+User: मैंने order कर दिया है.
+Agent: Hi Mahima! Arre wah, aapne order kar diya? That’s amazing! 🎉 Aapko MakeMeeBold Hot Air Brush 1.0 bahut pasand aayega, trust me. Agar koi bhi doubt ya help chahiye ho delivery ke time pe, toh bas bata dena. Thank you for shopping with Urban Yog!
+User: Thank you.
+User: (inaudible speech)
+Agent: Arre, koi 
+",https://dxc03zgurdly9.cloudfront.net/e6017fb1a43ba6e8ffb31e20feb17dc7b92e92ff77cd8854cc50d459c0aa14c9/recording.wav,Positive,True,"The call involved an agent from Urban Yog, Meher, reaching out to a user named Mahima to inform her about a special discount on a product she had added to her cart. Mahima confirmed that she had already placed an order for the MakeMeeBold Hot Air Brush 1.0, and the agent expressed excitement and offered assistance if needed during delivery.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",43,user_hangup
+-,call_8b6e4d8a84280f08566342bff0a,agent_013449690bb91bf30736266dc9,17319039218,919361876137,error,"6/16/2025, 2:34:39 PM","6/16/2025, 2:34:39 PM",-,hannahalynmiracle97@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+-,call_777fc9771933c7dc36a05a64f79,agent_013449690bb91bf30736266dc9,17319039218,917017284955,error,"6/16/2025, 2:30:37 PM","6/16/2025, 2:30:37 PM",-,ASHUPAL2447133@GMAIL.COM,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.03,call_cd5fe0373fe85998233ed98dd02,agent_013449690bb91bf30736266dc9,17319039218,917893199302,ended,"6/16/2025, 2:30:24 PM","6/16/2025, 2:30:34 PM",11,kanithishirisha233@gmail.com,"Agent: हैलो, मैं मेहर 
+User: Hello.
+Agent: बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड 
+",https://dxc03zgurdly9.cloudfront.net/d725af8b8f5c16224192d254c05820ad46051cfdab35229d184f745789027f5d/recording.wav,Neutral,True,"The agent, Mehr, initiated the call by identifying herself and mentioning that she is from Urban Yog. She noted that the user had added a product to their cart, indicating a follow-up on the user's shopping activity.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",11,user_hangup
+$0.42,call_d226c88ce5b368c1c307955bc5d,agent_013449690bb91bf30736266dc9,17319039218,919423047471,ended,"6/16/2025, 2:30:22 PM","6/16/2025, 2:33:21 PM",180,ibteshamkhan5@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi Irfan! This is Meher calling from Urban Yog. I noticed you almost checked out the MakeMeeBold 3-in-1 Hot Air Brush for ₹2199. Just wanted to check in—was everything okay?
+User: Ok.
+Agent: Great!
+User: (inaudible speech)
+Agent:  So, Irfan, did you like the product? Were you just taking some time to decide, or was there something specific holding you back?
+User: Take my time to decide or I'm comparing with others website.
+Agent: Bilkul samajh sakti hoon, Irfan! Kabhi-kabhi compare karna zaroori lagta hai. Lekin ek baat bataun? Yeh MakeMeeBold 3-in-1 Hot Air Brush ek hi step mein dry aur style kar deta hai—subah ka ready time literally half ho jaata hai!Aur Urban Yog ke products kaafi premium quality ke hote hain, toh long-term mein kaafi worth lagta hai. Aapko lagta hai yeh aapke routine ke liye helpful hoga?
+User: हां लगता तो है helpful होगा लेकिन वही है कि बात ज़्यादा time तक रहता है कि नहीं वह समझ में नहीं आ रहा है.
+Agent: Bilkul valid point hai, Irfan! Yeh brush specially high-quality material se bana hai, jo long-lasting hai aur aapko salon-style finish ghar baithe de sakta hai. Plus, iska 3-in-1 feature kaafi versatile hai—drying, straightening aur styling sab ek saath.
+
+Waise ek chhoti si baat aur—sirf aaj ke liye ek exclusive 5% discount hai code ke saath: O – F – F – 5. Agar aap UPI se payment karti hain, toh extra 2% ka discount bhi milega. Aapko lagta hai yeh helpful hoga?
+User: हां helpful तो हैं लेकिन अब वो मेरी website से चला गया हैं आप लेकर आओ उसको वापस.
+User: मिल गया 
+Agent: Arre Irfan, 
+User: मिल गया.
+User: गया.
+Agent: Arre wah, mil gaya? Perfect! 😄 Toh ab bas ek click aur aapka MakeMeeBold 3-in-1 Hot Air Brush aapke paas hoga! Waise agar koi confusion ho ya help chahiye ho, toh mujhe bata dena. Main abhi bhi aapko WhatsApp pe checkout link bhej deti hoon, theek hai?
+User: लेकिन महंगा लग रहा है ना.
+User: थोड़ा महंगा है थोड़ा और ज़्यादा discount होना था.
+Agent: Samajh sakti hoon, Irfan. Kabhi-kabhi premium products thoda mehenga lagte hain, lekin honestly, yeh ek one-time investment hai jo aapka salon ka time aur paisa dono bacha lega. Plus, iska 3-in-1 feature aapke daily routine ko super easy bana dega.
+
+Waise, agar aap UPI se payment karti hain, toh 5% ke saath ek extra 2% ka discount bhi milega. Total savings aur better ho jaayegi! Aapko lagta hai yeh helpful hoga?
+User: हां helpful तो है लेकिन पहले मुझे लगा इसका straightening और curling brush इसके साथ आ रहा है पर यह
+",https://dxc03zgurdly9.cloudfront.net/1ec56b81871d96d1547a161bf4fade3aea04533e3638423701f1c3228abe158c/recording.wav,Neutral,True,"The user, Irfan, was contacted by the agent Meher from Urban Yog regarding a product he added to his cart, the MakeMeeBold 3-in-1 Hot Air Brush. The agent provided information about a special discount and addressed the user's concerns about pricing and product features, ultimately guiding him towards completing the purchase.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",180,max_duration_reached
 -,call_5d63b1a00bd7bdca3a8f432dcd4,agent_013449690bb91bf30736266dc9,17319039218,919429937684,error,"6/16/2025, 2:15:37 PM","6/16/2025, 2:15:37 PM",-,Jignashabajadeja03699@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_65a740657348520499689558e83,agent_013449690bb91bf30736266dc9,17319039218,919014597483,ended,"6/16/2025, 2:15:34 PM","6/16/2025, 2:15:37 PM",4,abhignanagireddy2005@gmail.com,"User: Your call has 
 Agent: हैलो, 
