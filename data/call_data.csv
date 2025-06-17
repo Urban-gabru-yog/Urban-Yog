@@ -1,4 +1,24 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.03,call_46651bcf4beba782050cbae5009,agent_013449690bb91bf30736266dc9,17319039218,918469033776,ended,"6/17/2025, 1:35:29 PM","6/17/2025, 1:35:42 PM",14,tanazpatel1915@gmail.com,"Agent: हैलो, 
+User: Hello सुनाओ लिखो.
+Agent: मैं 
+Agent: Urban Yog से Meher बोल रही हूँ। 😊 बताइए, मैं आपकी कैसे मदद कर सकती हूँ?
+",https://dxc03zgurdly9.cloudfront.net/42b893fe3b8f19fe37c156b81c734569d067a9d36cf9cf1aeb24d55bf3c21b1d/recording.wav,Neutral,True,"The user initiated the call with a greeting, and the agent introduced herself as Meher from Urban Yog, offering assistance to the user.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",14,user_hangup
+$0.14,call_2dd5a638b373c4fb86f06b5f80a,agent_013449690bb91bf30736266dc9,17319039218,919820332533,ended,"6/17/2025, 1:32:28 PM","6/17/2025, 1:33:26 PM",59,sakina52@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Yes.
+User: Hello.
+Agent: Great, Sakina! 🎉 The discount code is O – F – F – 5. You can apply it at checkout to get 5% off.Also, if you pay via UPI, you’ll get an extra 2% off automatically—so total savings will be even better!I’ll send you the checkout link on WhatsApp right now. You can complete it whenever you’re ready. 😊  
+
+If you have any questions, feel free to ask!
+User: Ok.
+Agent: Perfect, Sakina! 😊 I’m sending the checkout link to your WhatsApp right away. Just click on it whenever you’re ready to 
+User: Ok.
+Agent: complete your purchase.If you need any help or have questions, I’m just a message away. Happy shopping with Urban Yog!
+",https://dxc03zgurdly9.cloudfront.net/13c58981988342437892a279475de92283500a418f278ea54b512c2e145a5f07/recording.wav,Positive,True,"The user, Sakina, was offered a 5% discount on a product she added to her cart by the agent from Urban Yog. The agent provided a discount code and mentioned an additional 2% off for UPI payments, and promised to send the checkout link via WhatsApp for Sakina to complete her purchase.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",59,user_hangup
+-,call_58c6bea4bb71eb389d5e3024223,agent_013449690bb91bf30736266dc9,17319039218,919370682830,error,"6/17/2025, 1:15:40 PM","6/17/2025, 1:15:40 PM",-,vedikajadhav789@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_4824a36943a7a97cdc556f14bcf,agent_013449690bb91bf30736266dc9,17319039218,917206273746,error,"6/17/2025, 1:15:39 PM","6/17/2025, 1:15:39 PM",-,sakshi72746@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_1e820c689c9d59221060347b365,agent_013449690bb91bf30736266dc9,17319039218,919594634368,error,"6/17/2025, 1:15:37 PM","6/17/2025, 1:15:37 PM",-,ssawant4758@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_152588c6a26cdcc4caf3296da47,agent_013449690bb91bf30736266dc9,17319039218,918074086909,error,"6/17/2025, 1:15:33 PM","6/17/2025, 1:15:33 PM",-,baddamsravanthi83@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
 -,call_0455ceb06c253f86b5395964fdb,agent_013449690bb91bf30736266dc9,17319039218,919370017284,error,"6/17/2025, 1:00:37 PM","6/17/2025, 1:00:37 PM",-,birajdargeeta50@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.02,call_ecb16c14ce48ab4569ccc30adee,agent_013449690bb91bf30736266dc9,17319039218,917798440868,ended,"6/17/2025, 1:00:18 PM","6/17/2025, 1:00:27 PM",9,noshisahu113@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने 
 User: (inaudible speech)
