@@ -38,7 +38,6 @@ df['StartTimestamp'] = pd.to_datetime(df['StartTimestamp'], errors='coerce')
 df['call_date'] = df['StartTimestamp'].dt.date
 df['title'] = df['title'].astype(str)
 
-# Convert '$' TotalCost to float and then INR
 df['TotalCost'] = (
     df['TotalCost']
     .replace('-', '0')
@@ -47,7 +46,6 @@ df['TotalCost'] = (
     * 85
 )
 
-# Clean and convert TotalDuration (in sec)
 df['TotalDuration (in sec)'] = pd.to_numeric(df['TotalDuration (in sec)'], errors='coerce').fillna(0)
 
 call_data = pd.read_csv("data/call_data.csv")
@@ -63,18 +61,14 @@ with st.sidebar:
     st.markdown("---")
     st.info("Use the filters above to customize the dashboard view!")
 
-# Apply the date filter
 df_filtered = df[(df['call_date'] >= start_date) & (df['call_date'] <= end_date)].copy()
 
-# Load and clean COGS data
+# Merge COGS
 cogs_df = pd.read_excel("data/UrbanYog_COGS.xlsx")
 cogs_df['Product Purchased'] = cogs_df['NAME'].astype(str).str.strip().str.lower()
 df_filtered['title_clean'] = df_filtered['title'].str.strip().str.lower()
-
-# Merge COGS into filtered dataset
 df_filtered = df_filtered.merge(cogs_df[['Product Purchased', 'COGS']], left_on="title_clean", right_on="Product Purchased", how="left")
 
-# Filter picked-up calls
 picked_up_calls = call_data[
     (call_data['call_date'] >= start_date) &
     (call_data['call_date'] <= end_date) &
@@ -90,125 +84,106 @@ total_call_cost = df_filtered['TotalCost'].sum()
 total_call_duration_sec = df_filtered['TotalDuration (in sec)'].sum()
 total_call_duration_hms = str(datetime.timedelta(seconds=int(total_call_duration_sec)))
 
-# Placeholder for dynamic metrics
+# Dynamic Metrics Init
 total_purchases = 0
 conversion = 0
 total_revenue = 0
+total_cogs_value = 0
+profit_amount = 0
 
-# First row
+# First Row
 col1, col2, col3, col4, col5 = st.columns(5)
-col1.metric("📞 Total Calls", total_calls)
-col2.metric("✅ Connected Calls", connected_calls)
+col1.metric("📞 Total Calls", total_calls if total_calls > 0 else "0")
+col2.metric("✅ Connected Calls", connected_calls if connected_calls > 0 else "0")
 col3_placeholder = col3.empty()
 col4_placeholder = col4.empty()
-col5.metric("📞 Total Call Cost (INR)", f"₹{total_call_cost:,.2f}")
+col5.metric("📞 Total Call Cost (INR)", f"₹{total_call_cost:,.2f}" if total_call_cost > 0 else "₹0.00")
 
-# Second row
+# Second Row
 col6, col7, col8, col9 = st.columns(4)
-col6.metric("⏱️ Total Call Duration", total_call_duration_hms)
+col6.metric("⏱️ Total Call Duration", total_call_duration_hms if total_call_duration_sec > 0 else "0:00:00")
 col7_placeholder = col7.empty()
 
 style_metric_cards()
-
-# PRODUCT PURCHASE DISTRIBUTION (based on cleaned purchase data)
-customer_dist_df = df_filtered[df_filtered['order_number'].notna()][['Email', 'title']].drop_duplicates()
-
-if not customer_dist_df.empty and 'title' in customer_dist_df.columns:
-    customer_dist_df = customer_dist_df.rename(columns={"title": "Product Purchased"})
-    
-    colored_header("Product Purchased Distribution", "", color_name="green-70")
-    product_counts = customer_dist_df['Product Purchased'].value_counts().reset_index()
-    product_counts.columns = ['Product', 'Count']
-
-    fig_product = px.pie(
-        product_counts,
-        names='Product',
-        values='Count',
-        hole=0.4,
-        title="Product Purchased",
-        color_discrete_sequence=px.colors.qualitative.Set3
-    )
-    st.plotly_chart(fig_product, use_container_width=True)
-
-
-
-# CALLS VS PURCHASES
-colored_header("📊 Calls vs Purchases", "", color_name="violet-70")
-unique_orders_df = df_filtered[df_filtered['order_number'].notna()].drop_duplicates(subset='order_number')
-df_grouped = unique_orders_df.groupby('call_date')['order_number'].count().reset_index()
-fig1 = px.bar(df_grouped, x="call_date", y="order_number", title="Daily Unique Purchases", color_discrete_sequence=["#6c5ce7"])
-st.plotly_chart(fig1, use_container_width=True)
 
 # CALL DURATION HISTOGRAM
 colored_header("⏳ Call Duration", "", color_name="blue-70")
 fig2 = px.histogram(df_filtered, x="DurationSeconds", nbins=20, title="Duration Histogram", color_discrete_sequence=["#00b894"])
 st.plotly_chart(fig2, use_container_width=True)
 
-# CUSTOMERS WHO MADE A PURCHASE
-# CUSTOMERS WHO MADE A PURCHASE
+# 👤 CUSTOMERS WHO MADE A PURCHASE
 colored_header("👤 Customers Who Made a Purchase", "", color_name="gray-70")
 
-timestamp_column = None
-for col in df_filtered.columns:
-    if 'created' in col.lower() and 'at' in col.lower():
-        timestamp_column = col
-        break
+try:
+    timestamp_column = None
+    for col in df_filtered.columns:
+        if 'created' in col.lower() and 'at' in col.lower():
+            timestamp_column = col
+            break
 
-customer_df = df_filtered[df_filtered['order_number'].notna()][['call_date', 'Email', 'order_number', 'title']].drop_duplicates()
+    customer_df = df_filtered[df_filtered['order_number'].notna()][['call_date', 'Email', 'order_number', 'title']].drop_duplicates()
 
-if not customer_df.empty and timestamp_column:
-    customer_df_full = df_filtered[df_filtered['order_number'].notna()][
-        ['call_date', 'Email', 'order_number', timestamp_column, 'StartTimestamp', 'title', 'total_price', 'COGS']
-    ].copy()
+    if not customer_df.empty and timestamp_column:
+        customer_df_full = df_filtered[df_filtered['order_number'].notna()][
+            ['call_date', 'Email', 'order_number', timestamp_column, 'StartTimestamp', 'title', 'total_price', 'COGS']
+        ].copy()
 
-    # Convert both datetime columns and remove timezones if any
-    customer_df_full['StartTimestamp'] = pd.to_datetime(customer_df_full['StartTimestamp'], errors='coerce')
-    customer_df_full[timestamp_column] = pd.to_datetime(customer_df_full[timestamp_column], errors='coerce')
+        customer_df_full['StartTimestamp'] = pd.to_datetime(customer_df_full['StartTimestamp'], errors='coerce')
+        customer_df_full[timestamp_column] = pd.to_datetime(customer_df_full[timestamp_column], errors='coerce')
+        customer_df_full['StartTimestamp'] = customer_df_full['StartTimestamp'].dt.tz_localize(None)
+        customer_df_full[timestamp_column] = customer_df_full[timestamp_column].dt.tz_localize(None)
 
-    # Remove timezone awareness if present (tz-aware → tz-naive)
-    customer_df_full['StartTimestamp'] = customer_df_full['StartTimestamp'].dt.tz_localize(None)
-    customer_df_full[timestamp_column] = customer_df_full[timestamp_column].dt.tz_localize(None)
+        customer_df_full = customer_df_full[customer_df_full['StartTimestamp'] <= customer_df_full[timestamp_column]]
+        customer_df_full['Order Time'] = customer_df_full[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
+        customer_df_full['Call Time'] = customer_df_full['StartTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
+        customer_df_full = customer_df_full.sort_values('StartTimestamp')
+        customer_df_full = customer_df_full.drop_duplicates(subset='Email', keep='first')
 
-    # ✅ Filter where Call Time is less than or equal to Order Time
-    customer_df_full = customer_df_full[
-        customer_df_full['StartTimestamp'] <= customer_df_full[timestamp_column]
-    ]
+        customer_df_full = customer_df_full.rename(columns={
+            "call_date": "Date",
+            "Email": "Customer Email",
+            "order_number": "Order Number",
+            "title": "Product Purchased",
+            "total_price": "Price"
+        })[["Date", "Customer Email", "Order Number", "Call Time", "Order Time", "Product Purchased", "Price", "COGS"]]
 
-    # Format for display
-    customer_df_full['Order Time'] = customer_df_full[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
-    customer_df_full['Call Time'] = customer_df_full['StartTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
+        st.dataframe(customer_df_full, use_container_width=True)
 
-    customer_df_full = customer_df_full.sort_values('StartTimestamp')
-    customer_df_full = customer_df_full.drop_duplicates(subset='Email', keep='first')
+        # METRICS
+        total_purchases = customer_df_full['Customer Email'].nunique()
+        conversion = round(total_purchases / connected_calls * 100, 2) if connected_calls > 0 else 0
+        total_revenue = customer_df_full['Price'].sum()
+        total_cogs_value = customer_df_full['COGS'].sum()
+        profit_amount = ((total_revenue / 118) * 100) - total_cogs_value - total_call_cost - (120 * total_purchases)
 
-    customer_df_full = customer_df_full.rename(columns={
-        "call_date": "Date",
-        "Email": "Customer Email",
-        "order_number": "Order Number",
-        "title": "Product Purchased",
-        "total_price": "Price"
-    })[["Date", "Customer Email", "Order Number", "Call Time", "Order Time", "Product Purchased", "Price", "COGS"]]
+        col3_placeholder.metric("👝 Purchases", total_purchases if total_purchases > 0 else "0")
+        col4_placeholder.metric("🔀 Conversion", f"{conversion}%" if conversion > 0 else "0%")
+        col7_placeholder.metric("💰 Total Revenue", f"₹{total_revenue:,.2f}" if total_revenue > 0 else "₹0.00")
+        col8.metric("📦 Total COGS Price", f"₹{total_cogs_value:,.2f}" if total_cogs_value > 0 else "₹0")
+        col9.metric("💸 Profit Amount", f"₹{profit_amount:,.2f}" if profit_amount > 0 else "₹0")
 
-    st.dataframe(customer_df_full, use_container_width=True)
+        # PIE CHART
+        if not customer_df_full.empty:
+            colored_header("Product Purchased Distribution", "", color_name="green-70")
 
-    # Metrics
-    total_purchases = customer_df_full['Customer Email'].nunique()
-    conversion = round(total_purchases / connected_calls * 100, 2) if connected_calls > 0 else 0
-    total_revenue = customer_df_full['Price'].sum()
-    total_cogs_value = customer_df_full['COGS'].sum()
-    profit_amount = ((total_revenue / 118) * 100) - total_cogs_value - total_call_cost - (120 * total_purchases)
+            product_purchase_dist = customer_df_full['Product Purchased'].value_counts().reset_index()
+            product_purchase_dist.columns = ['Product', 'Count']
 
-    col3_placeholder.metric("👝 Purchases", total_purchases)
-    col4_placeholder.metric("🔀 Conversion", f"{conversion}%")
-    col7_placeholder.metric("💰 Total Revenue", f"₹{total_revenue:,.2f}")
-    col8.metric("📦 Total COGS Price", f"₹{total_cogs_value:,.2f}")
-    col9.metric("💸 Profit Amount", f"₹{profit_amount:,.2f}")
-else:
-    st.info("No customer purchase data found in the selected date range.")
-    col8.metric("📦 Total COGS Price", "N/A")
+            fig_product_buyer = px.pie(
+                product_purchase_dist,
+                names='Product',
+                values='Count',
+                hole=0.4,
+                title="Product Purchased by Customers Who Made a Purchase",
+                color_discrete_sequence=px.colors.qualitative.Set2
+            )
+            st.plotly_chart(fig_product_buyer, use_container_width=True)
+    else:
+        st.info("No customer purchase data found in the selected date range.")
+        col8.metric("📦 Total COGS Price", "₹0")
 
-
-
+except Exception as e:
+    st.error(f"⚠️ An error occurred while loading purchase data: `{str(e)}`")
 
 # AGENT LEADERBOARD
 if 'Agent' in df_filtered.columns:
@@ -217,7 +192,7 @@ if 'Agent' in df_filtered.columns:
     leaderboard.columns = ['Agent', 'Purchases']
     st.dataframe(leaderboard.style.highlight_max(axis=0, color='lightgreen'), use_container_width=True)
 
-# OFF5 COUPON USED
+# OFF5 COUPON SECTION
 colored_header("🏷️ OFF5 Coupon Used", "", color_name="red-70")
 
 off5_mask = df_filtered['discount_codes'].astype(str).str.contains("OFF5", case=False, na=False)
