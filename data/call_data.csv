@@ -1,4 +1,30 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_18082d6c164c229f13b9b77040e,agent_013449690bb91bf30736266dc9,17319039218,918848587219,error,"6/17/2025, 3:00:37 PM","6/17/2025, 3:00:37 PM",-,8848587219jithushine@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_85b31b71f475353e254009819b7,agent_013449690bb91bf30736266dc9,17319039218,917823070506,error,"6/17/2025, 2:48:40 PM","6/17/2025, 2:48:40 PM",-,abhitechie1@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_181237a3a3caf19f0445ffc2f5d,agent_013449690bb91bf30736266dc9,17319039218,919871320908,error,"6/17/2025, 2:48:33 PM","6/17/2025, 2:48:33 PM",-,vishalkvishal6400@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+$0.02,call_7d91420c26b8f55b7e57b53974c,agent_013449690bb91bf30736266dc9,17319039218,918904383181,ended,"6/17/2025, 2:48:33 PM","6/17/2025, 2:48:40 PM",7,srikanthbaragur@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
+",https://dxc03zgurdly9.cloudfront.net/cc07a541195d858b8d071bc130c5899cb121c8b2d1c275bb3b0ea4c61e736669/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",7,user_hangup
+$0.25,call_dd6e23f71987c17cd51922ae468,agent_013449690bb91bf30736266dc9,17319039218,917680096678,ended,"6/17/2025, 2:48:29 PM","6/17/2025, 2:50:17 PM",108,likhithareddy538@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Yes.
+Agent: Great, Likhitha! 🎉 So, here’s the discount code for you: O – F – F – 5. Just apply it at checkout, and you’ll get 5% off on your Urban Yog Electric Facial Hair Remover.
+
+Oh, and one more thing—if you pay via UPI, you’ll get an extra 2% off automatically. So, total savings will be even better! 😊
+
+Should I send you the checkout link on WhatsApp to make it easier?
+User: क्या sir?
+Agent: अरे, sorry Likhitha! Sir नहीं, आप तो हमारी खास Urban Yog की customer हैं! 😄
+
+मैं कह रही थी कि अगर आप चाहें, तो मैं आपको WhatsApp पर checkout link भेज दूं। बस एक क्लिक में आप अपना Urban Yog Electric Facial Hair Remover खरीद सकती हैं। क्या भेजूं?
+User: Can you please come again the promo code?
+Agent: Of course, Likhitha! The promo code is O – F – F – 5. Just apply it at checkout, and you’ll get a 5% discount. 😊
+
+Let me know if you’d like me to send the checkout link on WhatsApp for easy access!
+User: No, that's not necessary. I'll I'll have a check.
+User: myself.
+Agent: Perfect, Likhitha! 😊 Take your time and check it out whenever you're ready. Just remember, the 5% discount with the code O – F – F – 5 is valid only for today. And don’t forget about the extra 2% off if you pay via UPI!
+
+If you have any questions or need help, feel free to reach out. Happy shopping, and I hope you love your Urban Yog Electric Facial Hair Remover!
+",https://dxc03zgurdly9.cloudfront.net/c3530fae6483c27fa8239dd704820d581ac48f2b1593ec5546f9a3f1ccebbd5f/recording.wav,Positive,True,"The agent, Mehr from Urban Yog, informed the user, Likhitha, about a 5% discount on a product in her cart and provided a promo code. The agent also mentioned an additional 2% discount for UPI payments and offered to send a checkout link via WhatsApp, which the user declined, stating she would check it herself.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",108,user_hangup
 -,call_2bbd5793ee67c7538b5ad67300f,agent_013449690bb91bf30736266dc9,17319039218,919605133262,error,"6/17/2025, 2:32:37 PM","6/17/2025, 2:32:37 PM",-,archanageroge@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.22,call_99f7a3ab5e1843a76874e5cbc0a,agent_013449690bb91bf30736266dc9,17319039218,917095209408,ended,"6/17/2025, 2:16:17 PM","6/17/2025, 2:17:52 PM",96,soujanyaraghunath@gmail.com,"Agent: हैलो, मैं 
 User: Hello.
