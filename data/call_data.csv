@@ -1,4 +1,33 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_b38f48e2835dc5a9540cf367695,agent_013449690bb91bf30736266dc9,17319039218,918855919936,error,"6/17/2025, 6:48:38 PM","6/17/2025, 6:48:38 PM",-,tenkalepriya058@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_82a6d0b2d3680622372aab43352,agent_013449690bb91bf30736266dc9,17319039218,918208190110,ended,"6/17/2025, 6:48:29 PM","6/17/2025, 6:48:32 PM",4,Roshnishirapure1995@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/da59ac8d461ce45168c883bcc1f8cc18645ee9f9fff45bfc2ec70f534dabee82/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach a live agent.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+-,call_382981cccae64f4aa473cffc5c1,agent_013449690bb91bf30736266dc9,17319039218,918451871740,error,"6/17/2025, 6:32:38 PM","6/17/2025, 6:32:38 PM",-,harshadalad463@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_7b506040b21f0477a26f6285c56,agent_013449690bb91bf30736266dc9,17319039218,919503111055,error,"6/17/2025, 6:30:39 PM","6/17/2025, 6:30:39 PM",-,saylipkamble@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_3864342a19202d752e043308840,agent_013449690bb91bf30736266dc9,17319039218,918490935775,error,"6/17/2025, 6:19:58 PM","6/17/2025, 6:19:58 PM",-,aayshreec525@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_8720c309962312782a63fc4354b,agent_013449690bb91bf30736266dc9,17319039218,919702279639,error,"6/17/2025, 6:19:57 PM","6/17/2025, 6:19:57 PM",-,pournima.vajaratkar@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_211e1bc6cfd17ba3a9fbb30af23,agent_013449690bb91bf30736266dc9,17319039218,918520039488,error,"6/17/2025, 6:19:56 PM","6/17/2025, 6:19:56 PM",-,bandarinanditha@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_bb6389ef51767f11250b590d87e,agent_013449690bb91bf30736266dc9,17319039218,919568918656,error,"6/17/2025, 6:19:55 PM","6/17/2025, 6:19:55 PM",-,apurvajain1810@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.02,call_5db461565f02ab476d34301b0f8,agent_013449690bb91bf30736266dc9,17319039218,916363784134,ended,"6/17/2025, 6:19:35 PM","6/17/2025, 6:19:42 PM",8,Vermabhanvi7339@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
+",https://dxc03zgurdly9.cloudfront.net/d4285c29f8280600e91871f69b0e56f0875da4e02f5479502f75e42de614d34a/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
+$0.08,call_9ef9b43768541cfd8055fdadb26,agent_013449690bb91bf30736266dc9,17319039218,918955965383,ended,"6/17/2025, 6:16:16 PM","6/17/2025, 6:16:51 PM",35,tmeghwal585@gmail.com,"User: तो मुझे समझ नहीं आता कि PinK के through है. जो he has me in the caser वाला.
+User: अगर relevant का element चल रहा है तो but वह भी नहीं था. बहुत लंबा बहुत अच्छे से match हो रहा है सारे अगल बच्चों कैसे आया है?
+User: Hello.
+User: Hello. Free fruits पिला है I think बहुत बारीकी दिख रही है उसको. Hello.
+User: Biping 
+Agent: Hi 
+User: का detail I absolutely love, मैं ज़्यादा ना कम.
+User: जो chef ने बनाया में तो protection clearly दिख रहा है.
+User: बोल जान बोलो वह.
+",https://dxc03zgurdly9.cloudfront.net/e435570949adf0e405656dd634a3baea7cc5f0aa4314a3a5646ea825f4a50d5d/recording.wav,Neutral,False,"The user seems to be confused about a specific process or element related to 'PinK' and mentions a chef's creation, indicating a positive sentiment towards it. The conversation appears to be fragmented and lacks clarity, with the user expressing their thoughts but not receiving clear responses from the agent.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",35,user_hangup
+$0.01,call_dcec468bbd560ee9dfa5ab43a4a,agent_013449690bb91bf30736266dc9,17319039218,919656877764,ended,"6/17/2025, 6:16:16 PM","6/17/2025, 6:16:21 PM",5,Gsreepriya166@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban 
+",https://dxc03zgurdly9.cloudfront.net/604fad79ef0d71c99fbcb942bf6f7ff102b2f0304d6b9d30af596c365639dd4a/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban. The conversation appears to be in Hindi, indicating a potential service inquiry or assistance request.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
+$0.01,call_261700c1cf57e7dc4a295c8367c,agent_013449690bb91bf30736266dc9,17319039218,919911783460,ended,"6/17/2025, 6:15:21 PM","6/17/2025, 6:15:25 PM",5,sambhavsavni@gmail.com,"User: Hello. 
+Agent: हैलो, मैं मेहर 
+User: Yes
+Agent: बोल रही 
+",https://dxc03zgurdly9.cloudfront.net/89908031e81e521ec798a35fa14a97e759706ceecc85cc1dcc0f80a4d7d7c6e7/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent responded in Hindi, introducing herself as Mehr. The conversation appears to be in the early stages without any specific issues or tasks discussed yet.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
 -,call_35d86d874164f9f2134505b8086,agent_013449690bb91bf30736266dc9,17319039218,919562230819,error,"6/17/2025, 6:00:38 PM","6/17/2025, 6:00:38 PM",-,beemarinas674@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.02,call_3e0b0fe47531b13eb93d6fb9975,agent_013449690bb91bf30736266dc9,17319039218,917015083748,ended,"6/17/2025, 6:00:19 PM","6/17/2025, 6:00:26 PM",8,heenalohia16@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog 
 User: Hello.
