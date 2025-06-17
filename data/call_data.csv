@@ -1,4 +1,18 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_9600ae49ff681bb1af38e240f67,agent_013449690bb91bf30736266dc9,17319039218,919963394541,error,"6/17/2025, 9:32:37 PM","6/17/2025, 9:32:37 PM",-,pavulurishalini.28@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_d42f17d22f0e90e87773bc40bec,agent_013449690bb91bf30736266dc9,17319039218,917780348916,error,"6/17/2025, 9:30:39 PM","6/17/2025, 9:30:39 PM",-,buridiloise719@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_660a22dcb3e0660b54f1a7c5709,agent_013449690bb91bf30736266dc9,17319039218,919586401939,error,"6/17/2025, 9:19:54 PM","6/17/2025, 9:19:54 PM",-,rinkalzala57@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_929a0d23659568a1da4298725dc,agent_013449690bb91bf30736266dc9,17319039218,917561061082,error,"6/17/2025, 9:19:53 PM","6/17/2025, 9:19:53 PM",-,amruthaajilal777@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_22e1dcc941d65a272a8860e2703,agent_013449690bb91bf30736266dc9,17319039218,916238298500,error,"6/17/2025, 9:19:51 PM","6/17/2025, 9:19:51 PM",-,chandanachakki24@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.02,call_c8395a12e23554708742ecf4eec,agent_013449690bb91bf30736266dc9,17319039218,919149718528,ended,"6/17/2025, 9:19:40 PM","6/17/2025, 9:19:47 PM",7,pratikachoudhary3923@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि 
+",https://dxc03zgurdly9.cloudfront.net/9b57326b03fd6b6b154c28756854a7e92a6be555f67b965e18c2dbec9ab30961/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",7,user_hangup
+$0.04,call_b6421105f31a90cb5b66aa55bc9,agent_013449690bb91bf30736266dc9,17319039218,919611047560,ended,"6/17/2025, 9:19:33 PM","6/17/2025, 9:19:51 PM",19,nn7492649@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+",https://dxc03zgurdly9.cloudfront.net/12d5fa0b5f9e13cba93de3d2a30976f0fa591b195b0468cd58f66533cfc960a6/recording.wav,Neutral,False,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user responded with a greeting, but the call transcript does not provide further details on whether the user accepted the offer or not.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",19,user_hangup
+$0.03,call_9706f9439c718149d370e974502,agent_013449690bb91bf30736266dc9,17319039218,919655521732,ended,"6/17/2025, 9:16:17 PM","6/17/2025, 9:16:27 PM",11,mirdu1310@gmail.com,"Agent: हैलो, मैं 
+User: Hello.
+Agent: मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया 
+",https://dxc03zgurdly9.cloudfront.net/1cd14d22e1e8424042c8516946850a3b302918f2aa9882676f70678a8750c3bd/recording.wav,Neutral,True,"The agent, Mehr, from Urban Yog, initiated the call to discuss a product that the user added to their cart. The conversation appears to be focused on assisting the user with their shopping experience.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",11,user_hangup
 -,call_101a2314da3d4dc9ed20cfcdf97,agent_013449690bb91bf30736266dc9,17319039218,919073825218,error,"6/17/2025, 9:00:39 PM","6/17/2025, 9:00:39 PM",-,singh.priti2219@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_c3cff04ea00e5eb5cd2cf6a5a6c,agent_013449690bb91bf30736266dc9,17319039218,919073825218,error,"6/17/2025, 9:00:38 PM","6/17/2025, 9:00:38 PM",-,singh.priti2219@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_cc0e8f07bd8c01bc179ebc5bfac,agent_013449690bb91bf30736266dc9,17319039218,916235464741,error,"6/17/2025, 9:00:38 PM","6/17/2025, 9:00:38 PM",-,susmaya1999@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
@@ -3062,30 +3076,3 @@ $0.02,call_931a64835905c0e43a5ff3f7734,agent_013449690bb91bf30736266dc9,17319039
 ",https://dxc03zgurdly9.cloudfront.net/2751601b8f0bb3cc3607817370d57bdbcb5056389a01d63466f4db40c8a6fd5f/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or its outcome.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",10,user_hangup
 -,call_cb60c24dbdaf3003d83fa0e7742,agent_013449690bb91bf30736266dc9,17319039218,919550854315,error,"6/9/2025, 3:15:56 PM","6/9/2025, 3:15:56 PM",-,lniharika2001@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_65962569661c626ceb230517a0a,agent_013449690bb91bf30736266dc9,17319039218,918600900729,error,"6/9/2025, 3:00:56 PM","6/9/2025, 3:00:56 PM",-,kanchansalunke@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_88d04b62421f82437a05dc79449,agent_013449690bb91bf30736266dc9,17319039218,917030964509,error,"6/9/2025, 2:45:56 PM","6/9/2025, 2:45:56 PM",-,iamprajakta9@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.19,call_bf8d9fe9aadfe6fd6ad43f25de1,agent_013449690bb91bf30736266dc9,17319039218,919605734935,ended,"6/9/2025, 2:45:37 PM","6/9/2025, 2:46:59 PM",82,niji_kv@rediffmail.com,"User: Hello
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-Agent: Hi 
-User: क्या product?
-Agent: Niji! Main Meher bol rahi hoon Urban Yog se. Aapne Urban Yog Callus Remover almost checkout kiya tha, toh socha puchh loon sab theek thaak tha na?
-User: ऐकह hello
-Agent: अरे हाँ, Niji!
-User: Ok.
-Agent:  आपने Urban Yog Callus Remover almost checkout किया था—वो जो घर बैठे callus हटाने वाला turbo treatment है, जिससे आपके पैर spa जैसे soft बन जाते हैं। बस यही पूछना था कि आपको product पसंद आया था ना?
-Agent: Great, Niji!
-User: I only, I only 
-Agent:  Aapko product pasand toh aaya tha 
-User: order हां I only order Crrr only.
-Agent: Ohh, 
-User: Hello.
-Agent: samajh gayi Niji! Aapne bas socha tha ki baad mein order karenge? Koi confusion ya hesitation tha kya? Bataiye, main help kar sakti hoon!
-User: Ok ok ok.
-Agent: Theek hai, Niji!
-",https://dxc03zgurdly9.cloudfront.net/13de1d5631c5867c9b0b8b4849961aeb93eb22f2c745d62cf857643857b6ec35/recording.wav,Neutral,False,"The user was contacted by the agent from Urban Yog regarding a product they had added to their cart, the Urban Yog Callus Remover. The agent offered a 5% discount and inquired if the user was satisfied with the product, but the user seemed hesitant about placing the order.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",82,user_hangup
--,call_cf94b55446d4c5a4117d0746a60,agent_013449690bb91bf30736266dc9,17319039218,917869309198,error,"6/9/2025, 2:30:56 PM","6/9/2025, 2:30:56 PM",-,gautamkashish558@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_39e1cfa6a80b42183dcb1722be2,agent_013449690bb91bf30736266dc9,17319039218,919725014760,error,"6/9/2025, 2:15:56 PM","6/9/2025, 2:15:56 PM",-,kinjal20patel@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.02,call_4dc4ec95f42542c2819bc9868d9,agent_013449690bb91bf30736266dc9,17319039218,917814385711,ended,"6/9/2025, 2:15:41 PM","6/9/2025, 2:15:51 PM",10,Pk5124217@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog 
-",https://dxc03zgurdly9.cloudfront.net/223944a41890f8570ac8171a2e67c17240a9ba12235086853cacba0045368baf/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",10,user_hangup
--,call_842b736f28014fb71c609f8ec6a,agent_013449690bb91bf30736266dc9,17319039218,919966460222,error,"6/9/2025, 2:00:53 PM","6/9/2025, 2:00:53 PM",-,abhinaya17katragadda@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
--,call_6b4e48f6abc2a0e6108ab43411f,agent_013449690bb91bf30736266dc9,17319039218,917737294429,error,"6/9/2025, 1:45:56 PM","6/9/2025, 1:45:56 PM",-,abhayshah1990@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_a89963eec8116a6b098e608a4c6,agent_013449690bb91bf30736266dc9,17319039218,917030175956,error,"6/9/2025, 1:30:58 PM","6/9/2025, 1:30:58 PM",-,jyotikaparab15@rediffmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
