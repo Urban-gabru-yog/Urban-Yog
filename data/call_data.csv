@@ -1,4 +1,23 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.22,call_99f7a3ab5e1843a76874e5cbc0a,agent_013449690bb91bf30736266dc9,17319039218,917095209408,ended,"6/17/2025, 2:16:17 PM","6/17/2025, 2:17:52 PM",96,soujanyaraghunath@gmail.com,"Agent: हैलो, मैं 
+User: Hello.
+Agent: मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट 
+User: Yeah yeah, give me one second.
+Agent: Of course, Soujanya! Take your time.
+User: Please talk.
+Agent: Hi Soujanya! This is Meher from Urban Yog. I noticed you almost checked out the Urban Yog Callus Remover for ₹849. Just wanted to check in—did everything go okay, or were you still deciding?
+User: I'm still deciding.
+Agent: Totally get that, Soujanya! It’s always good to take your time. Was there something specific holding you back—like the price, or were you just wondering if it’s the right fit for you?
+User: Thank you.
+User: you.
+Agent: You’re most welcome, Soujanya! If you have any questions or need help deciding, I’m just a call away. By the way, this Callus Remover is like a mini spa for your feet—super easy to use at home! Let me know if you’d like me to share more details or even a little nudge to make it yours.
+User: I know, I've gone through the links so I am good.
+Agent: Got it, Soujanya! Sounds like you’ve done your research. Just a quick heads-up—this product has been super popular and was out of stock last week. If you’re leaning towards it, I can hold today’s price for you. Let me know if you’d like me to send the checkout link on WhatsApp!
+",https://dxc03zgurdly9.cloudfront.net/457006e09e5013c0e21cc3a710a31c251f1949672385267e5de03ba1d6178c56/recording.wav,Neutral,True,"The call was between an agent from Urban Yog and the user, Soujanya, who is considering purchasing a Callus Remover. The agent provided information about the product and offered to hold the price for Soujanya, who indicated she is still deciding but has done her research.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",96,user_hangup
+-,call_4e6d8071ec66126a5aba4f2cd51,agent_013449690bb91bf30736266dc9,17319039218,918779846047,error,"6/17/2025, 2:00:40 PM","6/17/2025, 2:00:40 PM",-,arockiasanthiya96@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.03,call_4e3d1dc1cf3ec81fdc066944467,agent_013449690bb91bf30736266dc9,17319039218,918408027506,ended,"6/17/2025, 2:00:17 PM","6/17/2025, 2:00:31 PM",14,2956nil@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया 
+",https://dxc03zgurdly9.cloudfront.net/0808c5ac437f4064d7a67d0ca284601bf3ee4ce55ac3c6b6ff8a34baa7a617f9/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent, Mehr from Urban Yog, acknowledged the user's action of adding a product to their cart. The conversation appears to be focused on the user's shopping experience.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",14,user_hangup
 $0.03,call_46651bcf4beba782050cbae5009,agent_013449690bb91bf30736266dc9,17319039218,918469033776,ended,"6/17/2025, 1:35:29 PM","6/17/2025, 1:35:42 PM",14,tanazpatel1915@gmail.com,"Agent: हैलो, 
 User: Hello सुनाओ लिखो.
 Agent: मैं 
