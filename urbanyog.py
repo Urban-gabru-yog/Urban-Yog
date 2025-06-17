@@ -76,7 +76,7 @@ picked_up_calls = call_data[
 ]
 
 # METRICS
-st.title("Urban Voice Agent Dashboard")
+st.title("UrbanYog Voice Agent Dashboard")
 
 total_calls = len(df_filtered)
 connected_calls = len(picked_up_calls)
