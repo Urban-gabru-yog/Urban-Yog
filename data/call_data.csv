@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_d68e49bf9b45d7018858ea14042,agent_013449690bb91bf30736266dc9,14424461893,917499537128,not_connected,"7/4/2025, 3:16:31 PM","7/4/2025, 3:16:31 PM",-,amritatambe85@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+-,call_bb9a5642048fcdb2905ada3095f,agent_013449690bb91bf30736266dc9,14424461893,919246666635,not_connected,"7/4/2025, 2:48:37 PM","7/4/2025, 2:48:37 PM",-,roopachandup@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_dc73a15f02ea73349502d1bd908,agent_013449690bb91bf30736266dc9,14424461893,917889349351,not_connected,"7/4/2025, 2:32:39 PM","7/4/2025, 2:32:39 PM",-,Sadiyabandh906@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_6cb23021778e29c02c80dfd01b7,agent_013449690bb91bf30736266dc9,14424461893,919019785404,not_connected,"7/4/2025, 2:32:36 PM","7/4/2025, 2:32:36 PM",-,ankitabudihal@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+-,call_1e6fbe7b9b50d946b23d85b2f2b,agent_013449690bb91bf30736266dc9,14424461893,916203664658,not_connected,"7/4/2025, 2:32:30 PM","7/4/2025, 2:32:30 PM",-,shalusingh17248@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+-,call_697c281296e6d6529f9eebbd4f3,agent_013449690bb91bf30736266dc9,14424461893,917019914179,not_connected,"7/4/2025, 2:00:37 PM","7/4/2025, 2:00:37 PM",-,chaya09@yahoo.co.in,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_b9fb86df77ea3bf323e00fea6a0,agent_013449690bb91bf30736266dc9,14424461893,917508825156,not_connected,"7/4/2025, 1:48:37 PM","7/4/2025, 1:48:37 PM",-,singlamuskan53@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_760b1b28da278b1224aa3018d52,agent_013449690bb91bf30736266dc9,14424461893,919433416761,not_connected,"7/4/2025, 1:45:37 PM","7/4/2025, 1:45:37 PM",-,saniya.dindapanda@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_667208b192d8b5c36ef863cd889,agent_013449690bb91bf30736266dc9,14424461893,918448748398,not_connected,"7/4/2025, 1:30:38 PM","7/4/2025, 1:30:38 PM",-,pooja83238@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.02,call_8a13ff2ea99c31f8b6233f0a4a9,agent_013449690bb91bf30736266dc9,14424461893,918208051176,ended,"7/4/2025, 1:16:25 PM","7/4/2025, 1:16:32 PM",8,nishasalunke79@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने 
 ",https://dxc03zgurdly9.cloudfront.net/086431d9f041d312aa7697b77f72dab25841cd7d302b39926a9a82c19984f10a/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
@@ -2031,90 +2039,3 @@ User: has been forwarded to voicemail. The
 $0.00,call_7af192af3870931ddecef2a6856,agent_013449690bb91bf30736266dc9,14424461893,916352253547,ended,"6/26/2025, 6:48:26 PM","6/26/2025, 6:48:27 PM",2,poojadwivedi1524@gmail.com,-,https://dxc03zgurdly9.cloudfront.net/7c45cb2dd454a2b53f03c5a90183771fa65c2de880dc3e9deba2247788e2aca5/recording.wav,Unknown,False,No conversation happened.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",2,user_hangup
 -,call_e4078289a579a8c87d38f2056e9,agent_013449690bb91bf30736266dc9,14424461893,919894256846,error,"6/26/2025, 6:45:39 PM","6/26/2025, 6:45:39 PM",-,payelchattopadhyay846@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_b4da500717a524f51596b31b8a2,agent_013449690bb91bf30736266dc9,14424461893,918329412589,error,"6/26/2025, 6:32:39 PM","6/26/2025, 6:32:39 PM",-,yeolesonali046@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.42,call_ab4b03907b5240feb2494f984cb,agent_013449690bb91bf30736266dc9,14424461893,919172601749,ended,"6/26/2025, 6:32:23 PM","6/26/2025, 6:35:22 PM",180,modakerohini@gmail.com,"User: Hello.
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-User: Cash on delivery है क्या?
-User: Hello?
-Agent: अरे हाँ, 
-Agent: Ketan Kundlik! माफ करना, थोड़ी देर हो गई जवाब देने में। हाँ, Cash on Delivery का ऑप्शन है। वैसे, MakeMeeBold Hot Air Brush 1.0 by Urban Yog के बारे में कोई और सवाल था आपका?
-User: Hello
-User: cash Cash on delivery कहां से होती है?
-Agent: अरे 
-User: Option कहां पर है?
-User: Hello?
-Agent: अरे Ketan Kundlik, Cash on Delivery का ऑप्शन आपको checkout के दौरान मिलेगा। जब आप payment method चुनेंगी, तो वहाँ ""Cash on Delivery"" का ऑप्शन दिखेगा।  
-
-अगर आपको checkout में कोई confusion हो रही है, तो मैं आपको WhatsApp पर एक सीधा checkout link भेज सकती हूँ। क्या मैं भेज दूँ?
-User: Hello
-User: हां भेजो.
-Agent: ठीक है, Ketan Kundlik! मैं अभी आपको WhatsApp पर checkout link भेजती हूँ। बस उस पर क्लिक करके ""Cash on Delivery"" का ऑप्शन चुन लेना।  
-
-अगर कोई और सवाल हो, तो बेझिझक मुझसे पूछ लेना। 😊
-User: हां. Hello?
-Agent: जी, Ketan Kundlik! मैं यहीं हूँ। 😊 मैं अभी WhatsApp पर checkout link भेज रही हूँ। अगर कोई और confusion हो, तो मुझे ज़रूर बताइए। Happy shopping! 🛍️
-User: Product
-Agent: आपने MakeMeeBold Hot Air Brush 1.0 by Urban Yog को कार्ट में ऐड किया था, है ना? ये 
-User: हां हां.
-Agent: एक कमाल का प्रोडक्ट है—एक ही स्टेप में बालों को ड्राई और स्टाइल कर देता है। सुबह-सुबह का ready होने का stress आधा हो जाता है!अगर आपको कोई और डिटेल चाहिए, तो मुझे बताइए। 😊
-User: Product खराब हो तो क्या करें?
-Agent: अरे, Ketan Kundlik, ये तो बिल्कुल genuine सवाल है! 😊 अगर प्रोडक्ट में कोई दिक्कत होती है, तो आप हमारी Urban Yog की customer support टीम से आसानी से संपर्क कर सकती हैं।  
-
-हमारी return और replacement policy बहुत simple है। बस प्रोडक्ट की issue की फोटो या वीडियो भेजनी होती है, और हम जल्दी से आपकी मदद करेंगे।  
-
-अगर आपको customer support का नंबर चाहिए, तो मैं दे सकती हूँ। बताइए?
-User: हां भेजो. Post paper भेजो.
-Agent: जी, Ketan Kundlik! अगर आपको customer support 
-User: हां, ok. Ok 
-Agent: का नंबर चाहिए, तो ये है: seven - three - nine - seven - 
-User: ok.
-Agent: ठीक है, Ketan Kundlik! 😊 अगर आपको और कोई मदद चाहिए, तो बेझिझक पूछिए। मैं हमेशा यहाँ हूँ। Happy shopping और अपना ध्यान रखिए! 🛍️✨
-User: Ok ok.
-Agent: ठीक है, Ketan Kundlik! 😊 कोई और सवाल हो तो ज़रूर बताइए। Have a great day!
-",https://dxc03zgurdly9.cloudfront.net/d9cafda72ebc413d1bf50a9b8f0171a63fc94d487d06b5c7481da849f0e61bf3/recording.wav,Positive,True,"The user, Ketan Kundlik, inquired about the Cash on Delivery option for a product added to their cart. The agent provided information about the checkout process and offered to send a direct link via WhatsApp. The user also asked about the return policy for defective products, and the agent assured them of support and provided the customer support number.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",180,max_duration_reached
-$0.05,call_448733c8c4fec37f501807b84a3,agent_013449690bb91bf30736266dc9,14424461893,917892340924,ended,"6/26/2025, 6:32:17 PM","6/26/2025, 6:32:37 PM",21,bujjibalu7349@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-",https://dxc03zgurdly9.cloudfront.net/4dc341c449de58f1af2de2444624a0c260e43d04feeb39e1f9cfd1ba4af07c35/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",21,user_hangup
--,call_65cfe86243025b37b1f40c46236,agent_013449690bb91bf30736266dc9,14424461893,917830120028,error,"6/26/2025, 6:16:37 PM","6/26/2025, 6:16:37 PM",-,nandasingh29990@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_581971672903e490c6531b19c51,agent_013449690bb91bf30736266dc9,14424461893,916203352813,error,"6/26/2025, 6:15:23 PM","6/26/2025, 6:15:23 PM",-,rishikasinha272@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
-$0.02,call_f7f208ef91b7789201c3404ab95,agent_013449690bb91bf30736266dc9,14424461893,916203352813,ended,"6/26/2025, 6:15:18 PM","6/26/2025, 6:15:25 PM",8,rishikasinha272@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने 
-",https://dxc03zgurdly9.cloudfront.net/fca512a3d69f285e2c53311a37082f4dca4a9b89342bdba234119752c66a2f52/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, indicating that the conversation was likely about a service or inquiry related to Urban Yog. However, the transcript does not provide further details about the user's request or the outcome of the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
--,call_058b46d0e8f447b2eac1740e9cd,agent_013449690bb91bf30736266dc9,14424461893,917391012573,error,"6/26/2025, 6:00:40 PM","6/26/2025, 6:00:40 PM",-,pawarpratima2004@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_2d3c4e2ae16854b75e52c2c21ee,agent_013449690bb91bf30736266dc9,14424461893,919850761767,error,"6/26/2025, 6:00:38 PM","6/26/2025, 6:00:38 PM",-,shardasaisantoshi526@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
--,call_ccef852a058c7fb80d7d7bde6c6,agent_013449690bb91bf30736266dc9,14424461893,917338923783,error,"6/26/2025, 6:00:37 PM","6/26/2025, 6:00:37 PM",-,mail2priyabaskar@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.03,call_4485ae2427c7806cb41d4994b05,agent_013449690bb91bf30736266dc9,14424461893,918548054818,ended,"6/26/2025, 6:00:29 PM","6/26/2025, 6:00:42 PM",14,Nisargahb33@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-",https://dxc03zgurdly9.cloudfront.net/5f8aa79f043c8c81e4aca64f8c3433f18838256da9c04e55be965e3f04c5ca0f/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",14,user_hangup
-$0.02,call_0f6bcff14ddb98e9df02361e12d,agent_013449690bb91bf30736266dc9,14424461893,919080636002,ended,"6/26/2025, 6:00:26 PM","6/26/2025, 6:00:35 PM",10,sangeethapraveen0810@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट 
-",https://dxc03zgurdly9.cloudfront.net/8846ae9c3581dd1c5fa04c1d082a097af6c7bce4cb5ea0e23e4faaced2c8e354/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, who was likely reaching out to discuss a product with the user. However, the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",10,user_hangup
--,call_ebaed09882a7381d0ac61a043a3,agent_013449690bb91bf30736266dc9,14424461893,918185072916,error,"6/26/2025, 5:48:40 PM","6/26/2025, 5:48:40 PM",-,s.tejaswi709@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.05,call_6303343726d076ccfff28db869c,agent_013449690bb91bf30736266dc9,14424461893,919738755463,ended,"6/26/2025, 5:45:29 PM","6/26/2025, 5:45:52 PM",23,vidyashriarkasali@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-",https://dxc03zgurdly9.cloudfront.net/070c96eac65491ae07307e9350ec67125a6c19aa89bf9a228db7d9e23ae1c980/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",23,inactivity
-$0.02,call_c00cdb1b9bcc08daaf94e929859,agent_013449690bb91bf30736266dc9,14424461893,919595502868,ended,"6/26/2025, 5:45:15 PM","6/26/2025, 5:45:23 PM",9,rana.akshay34@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि 
-",https://dxc03zgurdly9.cloudfront.net/a56878c733ce60b623d963b1ce3ee5cdb9f6295e79d57db3c281dbb37656845a/recording.wav,Neutral,False,"The call was initiated by an agent named Mehr from Urban Yog, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
--,call_e7137d9aae68c545605026dc494,agent_013449690bb91bf30736266dc9,14424461893,918237792603,error,"6/26/2025, 5:32:37 PM","6/26/2025, 5:32:37 PM",-,Sonalimalewar12@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_5927462090c1e65d60bd315aa17,agent_013449690bb91bf30736266dc9,14424461893,919066666426,error,"6/26/2025, 5:20:05 PM","6/26/2025, 5:20:05 PM",-,yeshwingowda857@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_6b26e80835c3dda9e93745bdb99,agent_013449690bb91bf30736266dc9,14424461893,918826038868,error,"6/26/2025, 5:20:04 PM","6/26/2025, 5:20:04 PM",-,ghosh.adrisha181091@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_fc45656eae45f17327ccf1bb361,agent_013449690bb91bf30736266dc9,14424461893,918411927238,error,"6/26/2025, 5:19:52 PM","6/26/2025, 5:19:52 PM",-,madhuri06gaikwad@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
--,call_1f99107c39cf30c2a924b3b963b,agent_013449690bb91bf30736266dc9,14424461893,919366217184,error,"6/26/2025, 5:19:51 PM","6/26/2025, 5:19:51 PM",-,amrita.gupta2406@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
-$0.01,call_aadc05f6fa8ee704bbe95abdd6f,agent_013449690bb91bf30736266dc9,14424461893,916302994075,ended,"6/26/2025, 5:19:42 PM","6/26/2025, 5:19:46 PM",4,vikhiguda06@gmail.com,"User: Hello.
-Agent: हैलो, मैं मेहर बोल 
-",https://dxc03zgurdly9.cloudfront.net/39a33d2881b9bc71a133643aee55c19daddc2dab1e31a4ee5ec4577e5a23d55c/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent responded in Hindi, introducing themselves as Mehr.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,user_hangup
-$0.05,call_44e13cce3d5b860ecf55a53cfb1,agent_013449690bb91bf30736266dc9,14424461893,917022804241,ended,"6/26/2025, 5:16:23 PM","6/26/2025, 5:16:42 PM",20,pradeepbhosale963@gmail.com,"User: Hello.
-Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट 
-User: Product card में ही add किया था.
-User: पांच percent सोच है. हां ठीक है, ठीक है.
-User: है वह?
-User: थोड़ा सा बाल.
-",https://dxc03zgurdly9.cloudfront.net/44cda7eea77b6a56110f8cfcd503f469e88583428ff25cab22a9e98f19b11571/recording.wav,Neutral,False,"The user initiated a call with the agent from Urban Yog regarding a product card they added. The conversation included a mention of a five percent discount, but the user seemed to be confused or unclear about some details.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",20,user_hangup
-$0.04,call_01c939bfae1b40be6ce1c692a02,agent_013449690bb91bf30736266dc9,14424461893,917876839052,ended,"6/26/2025, 5:16:22 PM","6/26/2025, 5:16:38 PM",16,thakurarchna259@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-",https://dxc03zgurdly9.cloudfront.net/e9f7023f11608a36413f124673b403d249758933d3b7bb150496f4b8ade3e906/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",16,user_hangup
-$0.10,call_5d4c9372cd8f56e22c48f1fcba5,agent_013449690bb91bf30736266dc9,14424461893,919987015495,ended,"6/26/2025, 5:16:20 PM","6/26/2025, 5:17:01 PM",41,akomaljaiswal786@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-Agent: ""Komal, aap busy lag rahi hain shayad? Koi baat nahi, main bas yaad dila rahi thi ki aapke MakeMeeBold Hot Air Brush 1.0 ke liye ek exclusive 5% discount hai aaj ke liye. Agar aap interested ho toh main WhatsApp pe checkout link bhej doon? Aap jab free ho tab dekh lena!""
-",https://dxc03zgurdly9.cloudfront.net/2a2fcfc52ec911036f5b94f190ab2b24357b66fa5830232bf3896d8502e9ebb5/recording.wav,Neutral,True,"The agent, Mehr from Urban Yog, reached out to Komal to inform her about an exclusive 5% discount on the MakeMeeBold Hot Air Brush 1.0 that she had added to her cart. The agent offered to send a checkout link via WhatsApp for Komal to review at her convenience.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",41,user_hangup
--,call_266d738ba415983a44dbdfb8ca3,agent_013449690bb91bf30736266dc9,14424461893,919619753354,error,"6/26/2025, 5:15:37 PM","6/26/2025, 5:15:37 PM",-,jolettafernandes12@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_c73d06402b8efd78e58bc793509,agent_013449690bb91bf30736266dc9,14424461893,919368781095,error,"6/26/2025, 5:00:29 PM","6/26/2025, 5:00:29 PM",-,chaudharyvarshu55@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
--,call_c677b0320565a4ea4e094f5a9e4,agent_013449690bb91bf30736266dc9,14424461893,918767059347,error,"6/26/2025, 4:48:38 PM","6/26/2025, 4:48:38 PM",-,www.kthorve@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_76d15ec6c55d80347969fca9d69,agent_013449690bb91bf30736266dc9,14424461893,917909243469,error,"6/26/2025, 4:48:37 PM","6/26/2025, 4:48:37 PM",-,vishnupriyaprasad2434@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.01,call_116828b75ee6b33b3a60b7376c5,agent_013449690bb91bf30736266dc9,14424461893,919959824045,ended,"6/26/2025, 4:48:30 PM","6/26/2025, 4:48:34 PM",4,nallavadlapavithra@gmail.com,"User: Your call has been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/22b7943c2366941db746f9f0276e581e5ce31f4aea3eeafa6b3f67f339eab11d/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach the intended recipient directly.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
-$0.08,call_53e135727e52f6f614bf9b01e96,agent_013449690bb91bf30736266dc9,14424461893,918160256247,ended,"6/26/2025, 4:48:20 PM","6/26/2025, 4:48:56 PM",36,priyaraj3326@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-Agent: ""Hello PRIYARAJBA! Main Meher bol rahi hoon Urban Yog se. Aapne MakeMeeBold Hot Air Brush 1.0 apne cart mein rakha tha, toh socha friendly reminder de doon. Kya aap abhi bhi interested hain? Mujhe lagta hai yeh aapke daily routine ke liye 
-",https://dxc03zgurdly9.cloudfront.net/77fd354d8d46b8e0b00f2ac2fad94ca6313ac5cc24d71c30c433b77b5a87769f/recording.wav,Neutral,True,"The agent, Meher from Urban Yog, reached out to the user, Priyarajba, to remind them about a product they added to their cart and informed them about an additional 5% discount available for today. The call aimed to encourage the user to complete their purchase of the MakeMeeBold Hot Air Brush 1.0.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",36,user_hangup
