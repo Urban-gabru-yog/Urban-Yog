@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_3ccfba4ad5feafa277c2eeb8609,agent_013449690bb91bf30736266dc9,14424461893,918652226871,not_connected,"7/15/2025, 8:32:40 PM","7/15/2025, 8:32:40 PM",-,pradnyapusalkar2@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.04,call_c51132468855f0d9fdd869d71d7,agent_013449690bb91bf30736266dc9,14424461893,918128130611,ended,"7/15/2025, 8:19:44 PM","7/15/2025, 8:20:00 PM",16,sdyodedra@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+Agent: Hi Sandhya! This is Meher calling 
+",https://dxc03zgurdly9.cloudfront.net/d1c980e09d799ff37c4d1bbbbf8ec705d01fcbc615ea4283d0266c211b9eca05/recording.wav,Neutral,False,"The agent, Meher from Urban Yog, reached out to the user, Sandhya, to inform her about an additional 5% discount on a product she added to her cart. The call appears to be in the initial stages of discussing the offer.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",16,user_hangup
+$0.04,call_b4ab69c8f7b2e8aad35e65fbb2f,agent_013449690bb91bf30736266dc9,14424461893,919891080578,ended,"7/15/2025, 8:16:17 PM","7/15/2025, 8:16:34 PM",17,poojaraniaffinity21@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: नहीं thank you.
+",https://dxc03zgurdly9.cloudfront.net/35aba4eba568a14b97f69355f57c902057e4808ac2a1f17e7fbc3eeb5df76d20/recording.wav,Negative,False,"The user was offered an additional 5% discount on a product they added to their cart by the agent from Urban Yog, but the user declined the offer.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",17,user_hangup
 -,call_07e4a6de983f92710c1b0a8a50b,agent_013449690bb91bf30736266dc9,14424461893,918872705784,not_connected,"7/15/2025, 7:32:37 PM","7/15/2025, 7:32:37 PM",-,parm221082@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_e8ed345897deec07128243e7e93,agent_013449690bb91bf30736266dc9,14424461893,917689065828,not_connected,"7/15/2025, 7:19:54 PM","7/15/2025, 7:19:54 PM",-,Minu19935yadav@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.27,call_bb2bcc8f015a79da7b45f3c541f,agent_013449690bb91bf30736266dc9,14424461893,916398384291,ended,"7/15/2025, 7:16:21 PM","7/15/2025, 7:18:18 PM",117,aanchalp97@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
@@ -1673,30 +1681,3 @@ User: Hello.
 Agent: Hi 
 ",https://dxc03zgurdly9.cloudfront.net/3138d0b89c669a0b69b296e326f1290805dfe643512976cea8ac1c7d3489236d/recording.wav,Neutral,False,"The agent, Mehr from Urban Yog, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user responded with a greeting, but the conversation did not progress further in the provided transcript.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",15,user_hangup
 -,call_a333c0b624743b2debb0810f815,agent_013449690bb91bf30736266dc9,14424461893,918320741693,not_connected,"7/7/2025, 4:32:37 PM","7/7/2025, 4:32:37 PM",-,pinkyakoleprajapati15@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.42,call_bdc9035f2e51df9e6b1f3c6e658,agent_013449690bb91bf30736266dc9,14424461893,918146673200,ended,"7/7/2025, 4:30:26 PM","7/7/2025, 4:33:25 PM",180,Sukhsandhu7621@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
-User: No ma'am.
-Agent: कोई बात नहीं, सुकमन! अगर आपको कोई और सवाल हो या कभी भी खरीदने का मन बने, तो हम हमेशा यहाँ हैं। 😊 
-
-अगर आपको कुछ और मदद चाहिए, तो आप हमें कभी भी कॉल या मैसेज कर सकती हैं। आपका दिन अच्छा जाए! ❤️
-User: Ma'am आपकी मेरी बात sun में एक minute.
-Agent: अरे हां, सुकमन! बिल्कुल, आप आराम से बोलिए। मैं सुन रही हूं। 😊
-User: Ma'am अगर हम order करते हैं मतलब cash on delivery is not available on this product right?
-User: And अगर वह defected piece निकलता है then but who will be responsible for that?
-Agent: अरे सुकमन, ये तो बहुत ही valid सवाल है! 😊 मैं आपको पूरी clarity देती हूं।  
-
-1️⃣ Cash on Delivery: हां, Cash on Delivery इस प्रोडक्ट पर available है। आप आराम से COD का ऑप्शन चुन सकती हैं।  
-
-2️⃣ Defected Piece: अगर गलती से कोई defected piece निकलता है (जो बहुत rare है क्योंकि हम quality check करते हैं), तो आप बिलकुल tension मत लीजिए। Urban Yog की return और replacement policy बहुत simple है। बस हमें notify कर दीजिए, और हम तुरंत issue resolve कर देंगे।  
-
-आपको और कोई doubt है तो बेझिझक पूछिए!
-User: Yes ma'am इसकी कोई warranty है like if we are paying ten thousand then कोई guarantee तो होनी चाहिए ना?
-Agent: बिल्कुल सही बात है, सुकमन! जब हम premium product खरीदते हैं, तो warranty का होना बहुत ज़रूरी है। 😊  
-
-MakeMeeBold 7-IN-1 Multi Air Styler by Urban Yog के साथ आपको 1-year warranty मिलती है। मतलब, अगर एक साल के अंदर कोई manufacturing defect आता है, तो हम उसे repair या replace कर देंगे—बिलकुल tension-free!और honestly, ये product high-quality materials से बना है, तो long-term use के लिए बहुत reliable है।  
-
-अब तो आपको थोड़ा और confidence feel हो रहा होगा, है ना?
-User: Yes, ma'am. Actually, I was in this out only. कि अगर कोई defected piece निकलता है या if we are paying ten thousand then return policy तो ज़रूर होनी चाहिए. या अगर कोई problem आती है then we have to say that कि ना कि we are facing the problem and the company should be responsible for that.
-Agent: सुकमन, आपकी बात 100% सही है, और मैं पूरी तरह समझ सकती हूं कि आप क्यों ये clarity चाहती हैं। 😊  
-
-Urban Yog में हम यही ensure करते हैं कि आपको एकदम hassle-free experience मिले। अगर गलती से 
-",https://dxc03zgurdly9.cloudfront.net/c51da19158e838150e10ae34316200572af9cc9a6b615ed462c67f4fea188a9e/recording.wav,Positive,True,"The user inquired about the cash on delivery option and warranty for a product they were considering purchasing. The agent provided detailed information about the availability of cash on delivery, the return policy for defective items, and confirmed that the product comes with a one-year warranty, ensuring a hassle-free experience for the user.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",180,max_duration_reached
