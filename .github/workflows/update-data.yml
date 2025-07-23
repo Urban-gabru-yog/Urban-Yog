@@ -2,7 +2,7 @@ name: Update and Merge Data
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # ⏱ Runs every 2 Hours
+    - cron: '0 9 * * *'  # ⏱ Runs everyday at 9am
   workflow_dispatch:        # 🖱️ Allows manual trigger
 
 permissions:
